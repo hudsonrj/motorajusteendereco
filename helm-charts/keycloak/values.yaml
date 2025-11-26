@@ -1,0 +1,85 @@
+replicaCount: 2
+
+image:
+  repository: quay.io/keycloak/keycloak
+  tag: "22.0.0"
+  pullPolicy: IfNotPresent
+
+auth:
+  adminUser: admin
+  adminPassword: admin  # ALTERAR EM PRODUÇÃO!
+  managementUser: manager
+  managementPassword: manager  # ALTERAR EM PRODUÇÃO!
+
+service:
+  type: ClusterIP
+  port: 8080
+  targetPort: 8080
+
+ingress:
+  enabled: true
+  className: nginx
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+  hosts:
+    - host: keycloak.enderecos.local
+      paths:
+        - path: /
+          pathType: Prefix
+  tls:
+    - secretName: keycloak-tls
+      hosts:
+        - keycloak.enderecos.local
+
+persistence:
+  enabled: true
+  size: 20Gi
+  storageClass: standard
+
+resources:
+  requests:
+    memory: "1Gi"
+    cpu: "500m"
+  limits:
+    memory: "2Gi"
+    cpu: "1000m"
+
+env:
+  - name: KEYCLOAK_ADMIN
+    value: "admin"
+  - name: KEYCLOAK_ADMIN_PASSWORD
+    valueFrom:
+      secretKeyRef:
+        name: keycloak-admin-secret
+        key: password
+  - name: KC_DB
+    value: "postgres"
+  - name: KC_DB_URL_HOST
+    value: "keycloak-postgres"
+  - name: KC_DB_URL_DATABASE
+    value: "keycloak"
+  - name: KC_DB_USERNAME
+    value: "keycloak"
+  - name: KC_DB_PASSWORD
+    valueFrom:
+      secretKeyRef:
+        name: keycloak-db-secret
+        key: password
+  - name: KC_HTTP_ENABLED
+    value: "true"
+  - name: KC_HEALTH_ENABLED
+    value: "true"
+  - name: KC_METRICS_ENABLED
+    value: "true"
+
+postgresql:
+  enabled: true
+  auth:
+    database: keycloak
+    username: keycloak
+    password: keycloak  # ALTERAR EM PRODUÇÃO!
+  persistence:
+    enabled: true
+    size: 20Gi
+    storageClass: standard
