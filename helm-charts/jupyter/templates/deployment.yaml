@@ -1,0 +1,82 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "jupyter.fullname" . }}
+  labels:
+    {{- include "jupyter.labels" . | nindent 4 }}
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+      {{- include "jupyter.selectorLabels" . | nindent 6 }}
+  template:
+    metadata:
+      labels:
+        {{- include "jupyter.selectorLabels" . | nindent 8 }}
+    spec:
+      containers:
+      - name: jupyter
+        image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+        imagePullPolicy: {{ .Values.image.pullPolicy }}
+        args:
+          - start-notebook.sh
+          - --NotebookApp.token=''
+          - --NotebookApp.password=''
+          - --NotebookApp.base_url=/jupyter
+          - --NotebookApp.allow_origin='*'
+          - --NotebookApp.disable_check_xsrf=True
+        ports:
+        - name: http
+          containerPort: 8888
+          protocol: TCP
+        env:
+        {{- range .Values.env }}
+        - name: {{ .name }}
+          value: {{ .value | quote }}
+        {{- end }}
+        {{- if .Values.keycloak.enabled }}
+        - name: JUPYTER_ENABLE_AUTH
+          value: "true"
+        - name: KEYCLOAK_URL
+          value: {{ .Values.keycloak.url }}
+        - name: KEYCLOAK_REALM
+          value: {{ .Values.keycloak.realm }}
+        - name: KEYCLOAK_CLIENT_ID
+          value: {{ .Values.keycloak.clientId }}
+        - name: KEYCLOAK_CLIENT_SECRET
+          valueFrom:
+            secretKeyRef:
+              name: {{ include "jupyter.fullname" . }}-keycloak-secret
+              key: clientSecret
+        {{- end }}
+        volumeMounts:
+        {{- range .Values.volumeMounts }}
+        - name: {{ .name }}
+          mountPath: {{ .mountPath }}
+        {{- end }}
+        livenessProbe:
+          httpGet:
+            path: /api
+            port: http
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /api
+            port: http
+          initialDelaySeconds: 10
+          periodSeconds: 5
+        resources:
+          {{- toYaml .Values.resources | nindent 10 }}
+      volumes:
+      {{- range .Values.volumes }}
+      - name: {{ .name }}
+        {{- if .persistentVolumeClaim }}
+        persistentVolumeClaim:
+          claimName: {{ .persistentVolumeClaim.claimName }}
+        {{- end }}
+        {{- if .configMap }}
+        configMap:
+          name: {{ .configMap.name }}
+        {{- end }}
+      {{- end }}
