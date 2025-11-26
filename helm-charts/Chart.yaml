@@ -1,0 +1,15 @@
+apiVersion: v2
+name: enderecos-data-platform
+description: Plataforma de dados para motor de correspondência de endereços
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - spark
+  - jupyter
+  - minio
+  - deltalake
+  - keycloak
+maintainers:
+  - name: Data Platform Team
+dependencies: []
