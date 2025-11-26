@@ -1,0 +1,53 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "spark.fullname" . }}-worker
+  labels:
+    {{- include "spark.labels" . | nindent 4 }}
+    component: worker
+spec:
+  replicas: {{ .Values.worker.replicas }}
+  selector:
+    matchLabels:
+      {{- include "spark.selectorLabels" . | nindent 6 }}
+      component: worker
+  template:
+    metadata:
+      labels:
+        {{- include "spark.selectorLabels" . | nindent 8 }}
+        component: worker
+    spec:
+      containers:
+      - name: spark-worker
+        image: "{{ .Values.worker.image.repository }}:{{ .Values.worker.image.tag }}"
+        imagePullPolicy: IfNotPresent
+        args:
+          - /opt/bitnami/scripts/spark/entrypoint.sh
+          - /opt/bitnami/scripts/spark/run-spark-worker.sh
+        env:
+        - name: SPARK_MODE
+          value: "worker"
+        - name: SPARK_MASTER_URL
+          value: "spark://{{ include "spark.fullname" . }}-master:7077"
+        - name: SPARK_WORKER_MEMORY
+          value: "{{ .Values.config.sparkExecutorMemory }}"
+        - name: SPARK_WORKER_CORES
+          value: "{{ .Values.config.sparkExecutorCores }}"
+        ports:
+        - name: worker
+          containerPort: 8081
+          protocol: TCP
+        volumeMounts:
+        - name: data
+          mountPath: /bitnami/spark
+        resources:
+          {{- toYaml .Values.worker.resources | nindent 10 }}
+      volumes:
+      {{- if .Values.worker.persistence.enabled }}
+      - name: data
+        persistentVolumeClaim:
+          claimName: {{ include "spark.fullname" . }}-worker-pvc
+      {{- else }}
+      - name: data
+        emptyDir: {}
+      {{- end }}
