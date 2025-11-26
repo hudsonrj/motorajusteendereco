@@ -1,0 +1,37 @@
+{{- if .Values.master.persistence.enabled }}
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: {{ include "spark.fullname" . }}-master-pvc
+  labels:
+    {{- include "spark.labels" . | nindent 4 }}
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: {{ .Values.master.persistence.size }}
+  {{- if .Values.master.persistence.storageClass }}
+  storageClassName: {{ .Values.master.persistence.storageClass }}
+  {{- end }}
+{{- end }}
+
+{{- if .Values.worker.persistence.enabled }}
+{{- range $i := until (int $.Values.worker.replicas) }}
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: {{ include "spark.fullname" $ }}-worker-pvc-{{ $i }}
+  labels:
+    {{- include "spark.labels" $ | nindent 4 }}
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: {{ $.Values.worker.persistence.size }}
+  {{- if $.Values.worker.persistence.storageClass }}
+  storageClassName: {{ $.Values.worker.persistence.storageClass }}
+  {{- end }}
+{{- end }}
+{{- end }}
