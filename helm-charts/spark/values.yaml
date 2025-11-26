@@ -1,0 +1,85 @@
+# Spark Master
+master:
+  replicas: 1
+  image:
+    repository: bitnami/spark
+    tag: "3.4.0"
+  resources:
+    requests:
+      memory: "2Gi"
+      cpu: "1"
+    limits:
+      memory: "4Gi"
+      cpu: "2"
+  persistence:
+    enabled: true
+    size: 50Gi
+    storageClass: standard
+
+# Spark Workers
+worker:
+  replicas: 3
+  image:
+    repository: bitnami/spark
+    tag: "3.4.0"
+  resources:
+    requests:
+      memory: "4Gi"
+      cpu: "2"
+    limits:
+      memory: "8Gi"
+      cpu: "4"
+  persistence:
+    enabled: true
+    size: 100Gi
+    storageClass: standard
+
+# Configurações do Spark
+config:
+  sparkMaster: spark://spark-master:7077
+  sparkDriverMemory: 2g
+  sparkExecutorMemory: 2g
+  sparkExecutorCores: 2
+  sparkMaxResultSize: 2g
+  
+# DeltaLake
+deltalake:
+  enabled: true
+  version: "2.4.0"
+  scalaVersion: "2.12"
+
+# MinIO Integration
+minio:
+  endpoint: minio:9000
+  accessKey: minioadmin
+  secretKey: minioadmin
+  bucket: enderecos
+
+service:
+  type: ClusterIP
+  webuiPort: 8080
+  masterPort: 7077
+
+ingress:
+  enabled: true
+  className: nginx
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/auth-url: "http://keycloak:8080/realms/enderecos-realm/protocol/openid-connect/auth"
+    nginx.ingress.kubernetes.io/auth-signin: "http://keycloak:8080/realms/enderecos-realm/protocol/openid-connect/auth"
+  hosts:
+    - host: spark.enderecos.local
+      paths:
+        - path: /
+          pathType: Prefix
+  tls:
+    - secretName: spark-tls
+      hosts:
+        - spark.enderecos.local
+
+# Integração com Keycloak (para Spark UI)
+keycloak:
+  enabled: true
+  url: http://keycloak:8080
+  realm: enderecos-realm
