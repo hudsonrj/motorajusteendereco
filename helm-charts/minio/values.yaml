@@ -1,0 +1,90 @@
+replicaCount: 4  # MinIO em modo distribuído
+
+image:
+  repository: minio/minio
+  tag: "latest"
+  pullPolicy: IfNotPresent
+
+mode: distributed  # distributed ou standalone
+
+auth:
+  rootUser: minioadmin
+  rootPassword: minioadmin  # ALTERAR EM PRODUÇÃO!
+  accessKey: minioadmin
+  secretKey: minioadmin  # ALTERAR EM PRODUÇÃO!
+
+# Integração com Keycloak
+keycloak:
+  enabled: true
+  url: http://keycloak:8080
+  realm: enderecos-realm
+  clientId: minio-client
+  clientSecret: minio-client-secret  # ALTERAR EM PRODUÇÃO!
+
+# Buckets iniciais
+buckets:
+  - name: enderecos
+    policy: none  # none, download, upload, public
+  - name: enderecos-bronze
+    policy: none
+  - name: enderecos-silver
+    policy: none
+  - name: enderecos-gold
+    policy: none
+
+persistence:
+  enabled: true
+  size: 500Gi
+  storageClass: standard
+  volumeClaimTemplate:
+    accessModes:
+      - ReadWriteOnce
+
+resources:
+  requests:
+    memory: "2Gi"
+    cpu: "1"
+  limits:
+    memory: "4Gi"
+    cpu: "2"
+
+service:
+  type: ClusterIP
+  port: 9000
+  consolePort: 9001
+
+ingress:
+  enabled: true
+  className: nginx
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+  hosts:
+    - host: minio.enderecos.local
+      paths:
+        - path: /
+          pathType: Prefix
+  consoleHosts:
+    - host: minio-console.enderecos.local
+      paths:
+        - path: /
+          pathType: Prefix
+  tls:
+    - secretName: minio-tls
+      hosts:
+        - minio.enderecos.local
+    - secretName: minio-console-tls
+      hosts:
+        - minio-console.enderecos.local
+
+# Configuração do MinIO
+config:
+  # Habilitar integração com Keycloak via OIDC
+  oidc:
+    enabled: true
+    configUrl: "http://keycloak:8080/realms/enderecos-realm/.well-known/openid-configuration"
+    clientId: "minio-client"
+    clientSecret: "minio-client-secret"
+    redirectUri: "https://minio-console.enderecos.local/oauth_callback"
+    claimName: "preferred_username"
+    scopes: "openid,profile,email"
