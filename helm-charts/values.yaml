@@ -1,0 +1,139 @@
+# Valores Globais
+global:
+  namespace: enderecos-platform
+  domain: enderecos.local
+  storageClass: standard
+  storageSize: 100Gi
+  
+# Keycloak - Autenticação e Autorização
+keycloak:
+  enabled: true
+  auth:
+    adminUser: admin
+    adminPassword: admin  # ALTERAR EM PRODUÇÃO!
+    realm: enderecos-realm
+    clientId: enderecos-client
+    clientSecret: enderecos-secret  # ALTERAR EM PRODUÇÃO!
+  
+# MinIO - Armazenamento de Objetos
+minio:
+  enabled: true
+  auth:
+    rootUser: minioadmin
+    rootPassword: minioadmin  # ALTERAR EM PRODUÇÃO!
+  persistence:
+    enabled: true
+    size: 500Gi
+    storageClass: standard
+  service:
+    type: ClusterIP
+    port: 9000
+    consolePort: 9001
+  ingress:
+    enabled: true
+    annotations:
+      cert-manager.io/cluster-issuer: letsencrypt-prod
+    hosts:
+      - host: minio.enderecos.local
+        paths:
+          - path: /
+            pathType: Prefix
+    tls:
+      - secretName: minio-tls
+        hosts:
+          - minio.enderecos.local
+
+# Jupyter Notebook
+jupyter:
+  enabled: true
+  image:
+    repository: jupyter/pyspark-notebook
+    tag: "latest"
+  resources:
+    requests:
+      memory: "2Gi"
+      cpu: "1"
+    limits:
+      memory: "4Gi"
+      cpu: "2"
+  persistence:
+    enabled: true
+    size: 50Gi
+    storageClass: standard
+  service:
+    type: ClusterIP
+    port: 8888
+  ingress:
+    enabled: true
+    annotations:
+      cert-manager.io/cluster-issuer: letsencrypt-prod
+    hosts:
+      - host: jupyter.enderecos.local
+        paths:
+          - path: /
+            pathType: Prefix
+    tls:
+      - secretName: jupyter-tls
+        hosts:
+          - jupyter.enderecos.local
+  env:
+    MINIO_ENDPOINT: minio:9000
+    MINIO_ACCESS_KEY: minioadmin
+    MINIO_SECRET_KEY: minioadmin
+    MINIO_BUCKET: enderecos
+    SPARK_MASTER: spark://spark-master:7077
+
+# Spark
+spark:
+  enabled: true
+  operator:
+    image:
+      repository: gcr.io/spark-operator/spark-operator
+      tag: "v1beta2-1.3.8-3.1.1"
+  master:
+    replicas: 1
+    resources:
+      requests:
+        memory: "2Gi"
+        cpu: "1"
+      limits:
+        memory: "4Gi"
+        cpu: "2"
+    persistence:
+      enabled: true
+      size: 50Gi
+  worker:
+    replicas: 3
+    resources:
+      requests:
+        memory: "4Gi"
+        cpu: "2"
+      limits:
+        memory: "8Gi"
+        cpu: "4"
+    persistence:
+      enabled: true
+      size: 100Gi
+  service:
+    type: ClusterIP
+    webuiPort: 8080
+    masterPort: 7077
+  ingress:
+    enabled: true
+    annotations:
+      cert-manager.io/cluster-issuer: letsencrypt-prod
+    hosts:
+      - host: spark.enderecos.local
+        paths:
+          - path: /
+            pathType: Prefix
+    tls:
+      - secretName: spark-tls
+        hosts:
+          - spark.enderecos.local
+
+# DeltaLake
+deltalake:
+  enabled: true
+  # DeltaLake é uma biblioteca, não um serviço separado
+  # Configurações são feitas via Spark
