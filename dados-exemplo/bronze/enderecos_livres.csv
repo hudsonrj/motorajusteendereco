@@ -1,0 +1,1501 @@
+id,endereco_livre,uf,cidade,timestamp
+1,"RUA PRIMEIRO DE MARÇO, 2254, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-19 16:02:34
+2,"AVENIDA PRESIDENTE VARGAS, 4838, CENTRO",RJ,Rio de Janeiro,2025-11-25 20:44:34
+3,"entregar na travessa consolacao, 4140 , consolacao",SP,São Paulo,2025-11-09 14:04:34
+4,"VIELA W3 NORTE, 1806, ASA NORTE",DF,Brasília,2025-11-08 11:58:34
+5,"estrada do ouvidor, 3463, centro",RJ,Rio de Janeiro,2025-11-18 16:36:34
+6,"AVENIDA BOAVISTA, 760, BOA VIAGEM",PE,Recife,2025-11-23 08:55:34
+7,"ALAMEDA DA AURORA, 356, em frente ao banco, BOA VISTA, Recife",PE,Recife,2025-11-09 16:50:34
+8,"avenida do comercio, 4523, sao jose",PE,Recife,2025-10-31 00:10:34
+9,"Tv conde da boa vista, 570",PE,Recife,2025-11-02 11:44:34
+10,"avenida brigadeiro faria lima, 3114, itam bibi",SP,São Paulo,2025-11-11 23:56:34
+11,"estrada conde da boa vista, 3033, derby",PE,Recife,2025-11-19 23:32:34
+12,"ESTRADA COPACABANA, 4376, perto da praça, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-21 06:25:34
+13,"TRAVESSA VINTE E TRES DE MAIO, 2657, , LIBERDADE, São Paulo",SP,São Paulo,2025-11-19 18:58:34
+14,"VIELA boa viagem, 2194",PE,Recife,2025-10-28 01:53:34
+15,"TRAVESSA BOA VIAGEM, 4090, BOA VIAGEM",PE,Recife,2025-10-29 00:20:34
+16,"ALAMEDA SETEMBRO, 1144, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 03:15:34
+17,"VIELA NOVE DE JULHO, 4781, REPUBLICA",SP,São Paulo,2025-11-15 13:41:34
+18,"LARGO PROTASIO ALVES, 745, , PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-10-30 17:40:34
+19,"VIELA paulista, 4886",SP,São Paulo,2025-11-14 01:20:34
+20,"ALAMEDA W3 SUL, 4533, , ASA SUL, Brasília",DF,Brasília,2025-11-04 21:42:34
+21,"Alameda w3 norte, 2787",DF,Brasília,2025-11-13 15:20:34
+22,"ALAMEDA DO OUVIDOR, 4101, apto 201, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-10 16:54:34
+23,"travessa marques de itu, 1253, vila buarque",SP,São Paulo,2025-11-02 15:15:34
+24,"rua w3 sul, 4907, asa sul",DF,Brasília,2025-11-11 20:42:34
+25,"Al conde da boa vista, 1962",PE,Recife,2025-10-29 02:44:34
+26,"LARGO RIO BRANCO, 567, bloco A, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-02 16:41:34
+27,"entregar na estrada dos andradas, 2172 ao lado da escola, centro",RS,Porto Alegre,2025-11-13 13:50:34
+28,"TRAVESSA W3 NORTE, 2554, ASA NORTE",DF,Brasília,2025-11-05 00:26:34
+29,"LARGO BAHIA, 992, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-19 18:28:34
+30,"TRAVESSA DAS FLORES, 4821, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-26 18:04:34
+31,"Travessa oswaldo cruz, 553",RJ,Rio de Janeiro,2025-11-24 04:34:34
+32,"entregar na largo vinte e tres de maio, 1756 perto da praça, liberdade",SP,São Paulo,2025-11-03 02:13:34
+33,"TRAVESSA DOS ANDRADAS, 3875, loja 1, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-20 17:43:34
+34,"PRAÇA AMAZONAS, 3470, CENTRO",MG,Belo Horizonte,2025-11-11 21:46:34
+35,"RUA PRESIDENTE VARGAS, 3299, próximo ao mercado, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 17:34:34
+36,"TRAVESSA REBOUCAS, 4394, PINHEIROS",SP,São Paulo,2025-11-22 07:38:34
+37,"LARGO VINTE E TRES DE MAIO, 2047, apto 101, LIBERDADE, São Paulo",SP,São Paulo,2025-11-12 03:43:34
+38,"RUA OSWALDO CRUZ, 765, apto 301, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-21 07:18:34
+39,"Tv dos andradas, 3286",RS,Porto Alegre,2025-11-14 20:25:34
+40,"LARGO NOVE DE JULHO, 2337, REPUBLICA",SP,São Paulo,2025-11-03 20:59:34
+41,"LARGO EIXO MONUMENTAL, 1269, ASA NORTE, Brasília",DF,Brasília,2025-11-17 14:46:34
+42,"R. w3 norte, 2570",DF,Brasília,2025-11-08 05:17:34
+43,"entregar na estrada w3 sul, 466 , asa sul",DF,Brasília,2025-10-30 15:45:34
+44,"Tv copacabana, 3308",RJ,Rio de Janeiro,2025-11-08 01:47:34
+45,"entregar na viela rio branco, 4782 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-16 12:36:34
+46,"TRAVESSA BOA VIAGEM, 2176, BOA VIAGEM",PE,Recife,2025-11-21 23:08:34
+47,"LARGO MARQUES DE ITU, 2591, apto 101, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-26 06:10:34
+48,"AVENIDA PRESIDENTE VARGAS, 4405, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-10 12:41:34
+49,"avenida da aurora, 2002, boa vista",PE,Recife,2025-11-17 15:21:34
+50,"Alameda w3 norte, 4334",DF,Brasília,2025-10-27 23:43:34
+51,"Al uruguaiana, 946",RJ,Rio de Janeiro,2025-11-18 11:11:34
+52,"PRAÇA CONSOLACAO, 1668, perto do metrô, CONSOLACAO, São Paulo",SP,São Paulo,2025-10-30 12:17:34
+53,"alameda borges de medeiros, 417",RS,Porto Alegre,2025-10-31 12:47:34
+54,"PRAÇA DO OUVIDOR, 1072, próximo ao mercado, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 21:21:34
+55,"VIELA eixo monumental, 4595",DF,Brasília,2025-11-23 21:52:34
+56,"entregar na rua setembro, 3025 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-22 07:41:34
+57,"ALAMEDA ATLANTICA, 2988, , COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 09:36:34
+58,"AVENIDA IPIRANGA, 2898, bloco A, REPUBLICA, São Paulo",SP,São Paulo,2025-10-29 07:10:34
+59,"TRAVESSA SETEMBRO, 1332, apto 201, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 07:48:34
+60,"PRAÇA QUINZE DE NOVEMBRO, 3373, apto 301, CENTRO, São Paulo",SP,São Paulo,2025-11-18 14:59:34
+61,"VIELA PRESIDENTE VARGAS, 318, loja 2, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-19 13:57:34
+62,"PRAÇA TUPIS, 2501, apto 301, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-19 20:07:34
+63,"viela reboucas, 2690, pinheiros",SP,São Paulo,2025-10-30 18:00:34
+64,"PRAÇA VINTE E TRES DE MAIO, 4174, LIBERDADE",SP,São Paulo,2025-11-05 03:28:34
+65,"AVENIDA DAS FLORES, 2140, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 12:47:34
+66,"VIELA PRESIDENTE VARGAS, 2832, próximo ao mercado, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-13 01:17:34
+67,"VIELA PRIMEIRO DE MARÇO, 4724, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-18 19:04:34
+68,"RUA AMAZONAS, 4260, bloco A, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-04 21:02:34
+69,"Praça reboucas, 3534",SP,São Paulo,2025-11-07 10:07:34
+70,"alameda primeiro de março, 4155, centro",RJ,Rio de Janeiro,2025-11-05 07:29:34
+71,"ALAMEDA AGAMENON MAGALHAES, 4542, DERBY, Recife",PE,Recife,2025-11-20 07:07:34
+72,"estrada do comercio, 4663, sao jose",PE,Recife,2025-11-14 02:56:34
+73,"ALAMEDA DO OUVIDOR, 2351, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-13 02:11:34
+74,"LARGO BOA VIAGEM, 3620, BOA VIAGEM",PE,Recife,2025-11-05 14:17:34
+75,"estrada dos andradas, 695, centro",RS,Porto Alegre,2025-11-09 23:09:34
+76,"AVENIDA BOAVISTA, 1925, próximo ao mercado, BOA VIAGEM, Recife",PE,Recife,2025-11-19 14:40:34
+77,"RUA DAS FLORES, 2006, JARDIM",RJ,Rio de Janeiro,2025-11-07 18:20:34
+78,"TRAVESSA AFONSO PENA, 3146, CENTRO",MG,Belo Horizonte,2025-11-14 13:40:34
+79,"AVENIDA DO OUVIDOR, 3483, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 22:16:34
+80,"RUA TUPIS, 4567, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-28 17:20:34
+81,"entregar na largo uruguaiana, 4352 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-16 06:10:34
+82,"VIELA PROTASIO ALVES, 4489, PETROPOLIS",RS,Porto Alegre,2025-10-29 15:02:34
+83,"LARGO DOS ANDRADAS, 2124, apto 301, CENTRO, Porto Alegre",RS,Porto Alegre,2025-10-31 00:32:34
+84,"largo w3 sul, 1960, asa sul",DF,Brasília,2025-11-12 18:04:34
+85,"travessa sao joao, 2226, republica",SP,São Paulo,2025-11-16 03:44:34
+86,"ESTRADA URUGUAIANA, 1895, CENTRO",RJ,Rio de Janeiro,2025-11-04 16:04:34
+87,"AVENIDA CONSOLACAO, 3399, CONSOLACAO",SP,São Paulo,2025-11-16 03:20:34
+88,"RUA AFONSO PENA, 1695, loja 1, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-14 02:05:34
+89,"VIELA das flores, 3908",RJ,Rio de Janeiro,2025-11-17 07:55:34
+90,"TRAVESSA AFONSO PENA, 4000, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-18 07:18:34
+91,"VIELA DAS FLORES, 2754, perto do metrô, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 08:03:34
+92,"entregar na largo paulista, 1046 ao lado da escola, bela vista",SP,São Paulo,2025-11-26 08:12:34
+93,"AVENIDA DAS FLORES, 3512, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-30 06:38:34
+94,"alameda oswaldo cruz, 3106, botafogo",RJ,Rio de Janeiro,2025-11-20 06:29:34
+95,"VIELA BOAVISTA, 2280, loja 1, BOA VIAGEM, Recife",PE,Recife,2025-11-18 18:19:34
+96,"RUA DAS FLORES, 2867, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-06 18:00:34
+97,"RUA ATLANTICA, 2026, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-31 20:10:34
+98,"TRAVESSA SETEMBRO, 1035, CENTRO",RJ,Rio de Janeiro,2025-11-05 17:13:34
+99,"LARGO CONSOLACAO, 2100, sala 20, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-21 01:11:34
+100,"Est. primeiro de março, 2549",RJ,Rio de Janeiro,2025-10-28 11:13:34
+101,"VIELA do comercio, 1625",PE,Recife,2025-11-22 22:00:34
+102,"AVENIDA MARQUES DE ITU, 4637, , VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-15 03:22:34
+103,"AVENIDA CONDE DA BOA VISTA, 4145, próximo ao mercado, DERBY, Recife",PE,Recife,2025-11-26 06:57:34
+104,"avenida borges de medeiros, 3552, centro",RS,Porto Alegre,2025-11-06 06:04:34
+105,"VIELA SETEMBRO, 1443, ao lado da escola, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-27 00:32:34
+106,"LARGO W3 NORTE, 3809, ASA NORTE",DF,Brasília,2025-10-30 21:12:34
+107,"PRAÇA VINTE E TRES DE MAIO, 2012, apto 101, LIBERDADE, São Paulo",SP,São Paulo,2025-11-18 06:34:34
+108,"VIELA tupis, 2756",MG,Belo Horizonte,2025-10-30 10:38:34
+109,"TRAVESSA BORGES DE MEDEIROS, 2907, sala 10, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-16 11:53:34
+110,"RUA VINTE E TRES DE MAIO, 4233, LIBERDADE, São Paulo",SP,São Paulo,2025-11-24 13:03:34
+111,"LARGO AFONSO PENA, 4549, apto 301, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-04 05:08:34
+112,"LARGO borges de medeiros, 142",RS,Porto Alegre,2025-11-19 08:05:34
+113,"alameda ipiranga, 4765, republica",SP,São Paulo,2025-11-11 03:16:34
+114,"viela da aurora, 4509, boa vista",PE,Recife,2025-11-14 22:20:34
+115,"ALAMEDA VINTE E TRES DE MAIO, 2060, LIBERDADE, São Paulo",SP,São Paulo,2025-11-22 21:37:34
+116,"AVENIDA BOA VIAGEM, 4390, apto 201, BOA VIAGEM, Recife",PE,Recife,2025-11-20 14:02:34
+117,"ALAMEDA DOS ANDRADAS, 4830, bloco A, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-07 11:43:34
+118,"alameda reboucas, 1864, pinheiros",SP,São Paulo,2025-11-21 11:49:34
+119,"Est. w3 norte, 2248",DF,Brasília,2025-11-09 11:05:34
+120,"LARGO URUGUAIANA, 841, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 11:19:34
+121,"LARGO DOS ANDRADAS, 2792, CENTRO, Porto Alegre",RS,Porto Alegre,2025-10-27 19:33:34
+122,"AVENIDA DOS ANDRADAS, 536, CENTRO",RS,Porto Alegre,2025-11-11 18:13:34
+123,"ESTRADA OSWALDO CRUZ, 1223, bloco B, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-27 11:44:34
+124,"AVENIDA IPIRANGA, 4572, loja 1, REPUBLICA, São Paulo",SP,São Paulo,2025-11-07 00:59:34
+125,"VIELA BRIGADEIRO FARIA LIMA, 3691, ITAM BIBI",SP,São Paulo,2025-11-17 02:22:34
+126,"RUA MARQUES DE ITU, 4995, , VILA BUARQUE, São Paulo",SP,São Paulo,2025-10-27 14:09:34
+127,"ALAMEDA CONSOLACAO, 666, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-19 15:14:34
+128,"ESTRADA COPACABANA, 22, COPACABANA",RJ,Rio de Janeiro,2025-11-11 22:11:34
+129,"ALAMEDA DOS ANDRADAS, 268, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-16 22:31:34
+130,"avenida tupis, 1913, centro",MG,Belo Horizonte,2025-11-01 00:12:34
+131,"entregar na viela reboucas, 941 perto da praça, pinheiros",SP,São Paulo,2025-11-06 15:51:34
+132,"Est vinte e tres de maio, 585",SP,São Paulo,2025-11-01 11:11:34
+133,"LARGO SAO JOAO, 1019, REPUBLICA",SP,São Paulo,2025-11-04 11:05:34
+134,"entregar na alameda agamenon magalhaes, 4100 em frente ao banco, derby",PE,Recife,2025-11-12 18:11:34
+135,"entregar na viela atlantica, 2641 próximo ao mercado, copacabana",RJ,Rio de Janeiro,2025-11-26 18:35:34
+136,"Al das flores, 4721",RJ,Rio de Janeiro,2025-11-11 04:08:34
+137,"entregar na alameda bahia, 1487 em frente ao banco, centro",MG,Belo Horizonte,2025-11-06 05:44:34
+138,"praça dos andradas, 3346, centro",RS,Porto Alegre,2025-11-15 23:43:34
+139,"PRAÇA PAULISTA, 3373, em frente ao banco, BELA VISTA, São Paulo",SP,São Paulo,2025-11-16 23:24:34
+140,"Rua eixo monumental, 3726",DF,Brasília,2025-11-18 10:42:34
+141,"RUA AGAMENON MAGALHAES, 4445, DERBY",PE,Recife,2025-11-13 19:37:34
+142,"PRAÇA W3 SUL, 4084, em frente ao banco, ASA SUL, Brasília",DF,Brasília,2025-11-02 19:36:34
+143,"ESTRADA VINTE E TRES DE MAIO, 2360, LIBERDADE",SP,São Paulo,2025-10-28 22:18:34
+144,"RUA PRIMEIRO DE MARÇO, 4988, apto 301, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-04 15:30:34
+145,"RUA EIXO MONUMENTAL, 4525, ASA NORTE",DF,Brasília,2025-11-24 12:56:34
+146,"LARGO PRIMEIRO DE MARÇO, 963, perto da praça, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-10 22:31:34
+147,"ALAMEDA PROTASIO ALVES, 3404, loja 2, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-11 13:20:34
+148,"ESTRADA EIXO MONUMENTAL, 3143, ASA NORTE, Brasília",DF,Brasília,2025-10-28 01:17:34
+149,"AVENIDA URUGUAIANA, 2264, loja 1, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-16 04:32:34
+150,"ALAMEDA DO OUVIDOR, 2446, bloco B, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 23:18:34
+151,"LARGO SETEMBRO, 4413, CENTRO",RJ,Rio de Janeiro,2025-11-15 10:14:34
+152,"viela w3 norte, 3731, asa norte",DF,Brasília,2025-10-30 14:05:34
+153,"VIELA IPIRANGA, 1914, loja 1, REPUBLICA, São Paulo",SP,São Paulo,2025-11-25 10:02:34
+154,"VIELA DOS ANDRADAS, 3163, perto do metrô, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-22 05:47:34
+155,"PRAÇA URUGUAIANA, 823, loja 2, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-23 03:51:34
+156,"RUA TUPIS, 1181, CENTRO",MG,Belo Horizonte,2025-10-30 00:40:34
+157,"largo copacabana, 2172, copacabana",RJ,Rio de Janeiro,2025-11-06 22:24:34
+158,"PRAÇA RIO BRANCO, 4372, CENTRO",RJ,Rio de Janeiro,2025-10-27 10:09:34
+159,"RUA BORGES DE MEDEIROS, 561, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-05 22:51:34
+160,"TRAVESSA SAO JOAO, 741, REPUBLICA",SP,São Paulo,2025-11-23 00:04:34
+161,"LARGO PRESIDENTE VARGAS, 1363, próximo ao mercado, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 20:47:34
+162,"rua boa viagem, 2404, boa viagem",PE,Recife,2025-11-15 07:40:34
+163,"VIELA IPIRANGA, 4637, perto da praça, REPUBLICA, São Paulo",SP,São Paulo,2025-11-21 15:44:34
+164,"entregar na travessa do comercio, 4077 perto da praça, sao jose",PE,Recife,2025-11-19 06:09:34
+165,"LARGO NOVE DE JULHO, 2092, , REPUBLICA, São Paulo",SP,São Paulo,2025-10-29 05:52:34
+166,"ESTRADA SAO JOAO, 606, REPUBLICA",SP,São Paulo,2025-10-27 09:12:34
+167,"VIELA MARQUES DE ITU, 2049, VILA BUARQUE",SP,São Paulo,2025-10-30 11:37:34
+168,"LARGO DO COMERCIO, 874, SAO JOSE, Recife",PE,Recife,2025-11-14 02:27:34
+169,"ALAMEDA SAO JOAO, 180, loja 1, REPUBLICA, São Paulo",SP,São Paulo,2025-11-18 20:13:34
+170,"LARGO OSWALDO CRUZ, 2345, apto 301, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 09:35:34
+171,"ALAMEDA REBOUCAS, 1121, , PINHEIROS, São Paulo",SP,São Paulo,2025-10-29 00:08:34
+172,"Alameda atlantica, 3612",RJ,Rio de Janeiro,2025-11-03 16:44:34
+173,"PRAÇA SAO JOAO, 3404, REPUBLICA, São Paulo",SP,São Paulo,2025-11-20 15:59:34
+174,"entregar na praça w3 norte, 4349 próximo ao mercado, asa norte",DF,Brasília,2025-10-31 15:33:34
+175,"ALAMEDA DOS ANDRADAS, 2775, apto 101, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-12 18:40:34
+176,"viela brigadeiro faria lima, 4566, itam bibi",SP,São Paulo,2025-11-24 08:49:34
+177,"avenida nove de julho, 3726, republica",SP,São Paulo,2025-11-04 21:06:34
+178,"VIELA nove de julho, 3044",SP,São Paulo,2025-11-11 20:10:34
+179,"PRAÇA EIXO MONUMENTAL, 4998, ASA NORTE, Brasília",DF,Brasília,2025-11-06 18:09:34
+180,"Al tupis, 3345",MG,Belo Horizonte,2025-11-25 19:30:34
+181,"AVENIDA BORGES DE MEDEIROS, 797, CENTRO, Porto Alegre",RS,Porto Alegre,2025-10-29 03:41:34
+182,"LARGO DO COMERCIO, 3040, perto do metrô, SAO JOSE, Recife",PE,Recife,2025-11-04 03:23:34
+183,"VIELA SETEMBRO, 812, loja 2, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 07:32:34
+184,"PRAÇA ATLANTICA, 1780, COPACABANA",RJ,Rio de Janeiro,2025-11-12 12:55:34
+185,"entregar na avenida conde da boa vista, 3010 perto do metrô, derby",PE,Recife,2025-11-15 19:24:34
+186,"TRAVESSA VINTE E TRES DE MAIO, 1001, loja 2, LIBERDADE, São Paulo",SP,São Paulo,2025-11-23 23:36:34
+187,"RUA DAS FLORES, 2733, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-22 02:36:34
+188,"TRAVESSA COPACABANA, 4804, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-31 13:28:34
+189,"RUA SETEMBRO, 2272, apto 201, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-22 03:33:34
+190,"AVENIDA QUINZE DE NOVEMBRO, 212, CENTRO, São Paulo",SP,São Paulo,2025-11-26 08:59:34
+191,"PRAÇA IPIRANGA, 130, REPUBLICA, São Paulo",SP,São Paulo,2025-11-18 19:41:34
+192,"AVENIDA AFONSO PENA, 521, CENTRO",MG,Belo Horizonte,2025-11-12 09:17:34
+193,"LARGO PRESIDENTE VARGAS, 4128, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-27 01:47:34
+194,"ALAMEDA W3 SUL, 3753, , ASA SUL, Brasília",DF,Brasília,2025-11-25 04:55:34
+195,"VIELA AGAMENON MAGALHAES, 885, DERBY",PE,Recife,2025-11-04 06:45:34
+196,"PRAÇA RIO BRANCO, 4984, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-24 16:32:34
+197,"entregar na praça eixo monumental, 3121 ao lado da escola, asa norte",DF,Brasília,2025-11-17 06:17:34
+198,"AVENIDA AMAZONAS, 938, bloco A, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-03 14:22:34
+199,"travessa bahia, 3390, centro",MG,Belo Horizonte,2025-10-31 06:24:34
+200,"AVENIDA AFONSO PENA, 2561, CENTRO",MG,Belo Horizonte,2025-11-15 23:33:34
+201,"Est. conde da boa vista, 3886",PE,Recife,2025-10-31 18:44:34
+202,"AVENIDA AMAZONAS, 3053, apto 201, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-09 19:12:34
+203,"PRAÇA EIXO MONUMENTAL, 1002, ASA NORTE",DF,Brasília,2025-11-14 23:01:34
+204,"entregar na rua amazonas, 2357 próximo ao mercado, centro",MG,Belo Horizonte,2025-11-15 17:13:34
+205,"TRAVESSA PROTASIO ALVES, 1268, em frente ao banco, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-19 17:27:34
+206,"PRAÇA EIXO MONUMENTAL, 942, sala 10, ASA NORTE, Brasília",DF,Brasília,2025-11-08 12:58:34
+207,"RUA AMAZONAS, 4989, perto do metrô, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-18 20:38:34
+208,"alameda vinte e tres de maio, 2784, liberdade",SP,São Paulo,2025-11-26 14:54:34
+209,"VIELA SETEMBRO, 571, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 00:48:34
+210,"TRAVESSA RIO BRANCO, 3082, CENTRO",RJ,Rio de Janeiro,2025-11-12 10:39:34
+211,"ALAMEDA CONDE DA BOA VISTA, 2658, bloco B, DERBY, Recife",PE,Recife,2025-11-07 17:53:34
+212,"ESTRADA OSWALDO CRUZ, 1290, bloco B, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-24 23:44:34
+213,"LARGO VINTE E TRES DE MAIO, 3474, LIBERDADE",SP,São Paulo,2025-11-07 06:23:34
+214,"Travessa vinte e tres de maio, 4198",SP,São Paulo,2025-11-13 17:31:34
+215,"ALAMEDA BORGES DE MEDEIROS, 373, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-14 01:46:34
+216,"TRAVESSA DO OUVIDOR, 2470, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-02 16:01:34
+217,"Al. nove de julho, 2688",SP,São Paulo,2025-11-10 21:22:34
+218,"entregar na estrada quinze de novembro, 3115 perto do metrô, centro",SP,São Paulo,2025-11-19 04:14:34
+219,"AVENIDA DA AURORA, 3253, , BOA VISTA, Recife",PE,Recife,2025-11-13 20:20:34
+220,"PRAÇA COPACABANA, 4717, COPACABANA",RJ,Rio de Janeiro,2025-11-08 08:04:34
+221,"ALAMEDA AFONSO PENA, 944, CENTRO",MG,Belo Horizonte,2025-11-26 10:39:34
+222,"PRAÇA TUPIS, 722, CENTRO",MG,Belo Horizonte,2025-10-30 17:34:34
+223,"VIELA amazonas, 4293",MG,Belo Horizonte,2025-10-30 11:02:34
+224,"TRAVESSA BOAVISTA, 2729, apto 201, BOA VIAGEM, Recife",PE,Recife,2025-11-24 04:09:34
+225,"travessa primeiro de março, 2863, centro",RJ,Rio de Janeiro,2025-11-02 23:57:34
+226,"TRAVESSA SETEMBRO, 843, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-18 14:38:34
+227,"AVENIDA SETEMBRO, 1452, loja 2, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-12 02:01:34
+228,"PRAÇA BAHIA, 2590, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-12 18:19:34
+229,"entregar na alameda bahia, 2251 , centro",MG,Belo Horizonte,2025-11-15 04:45:34
+230,"LARGO marques de itu, 3703",SP,São Paulo,2025-11-15 11:45:34
+231,"entregar na viela rio branco, 3791 ao lado da escola, centro",RJ,Rio de Janeiro,2025-10-26 20:52:34
+232,"LARGO ATLANTICA, 4684, perto da praça, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-16 01:19:34
+233,"ESTRADA PROTASIO ALVES, 507, PETROPOLIS",RS,Porto Alegre,2025-11-23 10:04:34
+234,"ESTRADA RIO BRANCO, 321, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-04 06:21:34
+235,"estrada w3 sul, 2982, asa sul",DF,Brasília,2025-10-28 11:25:34
+236,"Praça afonso pena, 4898",MG,Belo Horizonte,2025-11-24 10:43:34
+237,"viela eixo monumental, 2328, asa norte",DF,Brasília,2025-11-02 22:51:34
+238,"entregar na praça setembro, 668 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-22 09:30:34
+239,"ESTRADA AGAMENON MAGALHAES, 4875, , DERBY, Recife",PE,Recife,2025-11-17 03:25:34
+240,"estrada boavista, 4313",PE,Recife,2025-11-10 09:48:34
+241,"ALAMEDA CONDE DA BOA VISTA, 1477, DERBY, Recife",PE,Recife,2025-11-16 05:37:34
+242,"Estrada brigadeiro faria lima, 1270",SP,São Paulo,2025-10-30 17:17:34
+243,"RUA W3 NORTE, 2759, bloco B, ASA NORTE, Brasília",DF,Brasília,2025-11-22 01:25:34
+244,"ESTRADA SETEMBRO, 1482, bloco B, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 15:03:34
+245,"rua bahia, 3366, centro",MG,Belo Horizonte,2025-11-04 21:34:34
+246,"ALAMEDA BAHIA, 3678, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-09 13:30:34
+247,"TRAVESSA DOS ANDRADAS, 3014, ao lado da escola, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-12 06:00:34
+248,"entregar na viela sao joao, 4120 em frente ao banco, republica",SP,São Paulo,2025-10-27 14:57:34
+249,"estrada reboucas, 2049",SP,São Paulo,2025-10-30 09:14:34
+250,"av presidente vargas, 2336",RJ,Rio de Janeiro,2025-11-21 12:21:34
+251,"Est protasio alves, 3584",RS,Porto Alegre,2025-10-31 05:53:34
+252,"rua da aurora, 3399",PE,Recife,2025-11-10 09:34:34
+253,"AVENIDA DO COMERCIO, 3072, SAO JOSE, Recife",PE,Recife,2025-11-26 09:50:34
+254,"PRAÇA PRESIDENTE VARGAS, 1197, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-25 10:51:34
+255,"ESTRADA DOS ANDRADAS, 3843, CENTRO",RS,Porto Alegre,2025-11-07 19:52:34
+256,"RUA RIO BRANCO, 2097, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-31 16:14:34
+257,"VIELA W3 SUL, 911, sala 10, ASA SUL, Brasília",DF,Brasília,2025-11-19 11:42:34
+258,"TRAVESSA OSWALDO CRUZ, 3440, ao lado da escola, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-12 18:42:34
+259,"entregar na rua borges de medeiros, 4222 perto da praça, centro",RS,Porto Alegre,2025-11-04 16:31:34
+260,"RUA AMAZONAS, 2891, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-08 07:38:34
+261,"entregar na praça rio branco, 555 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-10 04:14:34
+262,"VIELA das flores, 3852",RJ,Rio de Janeiro,2025-11-15 12:02:34
+263,"praça das flores, 554, jardim",RJ,Rio de Janeiro,2025-11-18 21:07:34
+264,"Praça presidente vargas, 1093",RJ,Rio de Janeiro,2025-11-09 09:57:34
+265,"LARGO QUINZE DE NOVEMBRO, 3921, perto da praça, CENTRO, São Paulo",SP,São Paulo,2025-11-01 16:45:34
+266,"RUA TUPIS, 2404, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-25 13:53:34
+267,"entregar na praça atlantica, 2541 em frente ao banco, copacabana",RJ,Rio de Janeiro,2025-10-31 03:19:34
+268,"rua nove de julho, 1566, republica",SP,São Paulo,2025-11-15 18:54:34
+269,"ALAMEDA BOAVISTA, 1020, sala 20, BOA VIAGEM, Recife",PE,Recife,2025-11-13 08:02:34
+270,"VIELA BAHIA, 2778, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-10 22:18:34
+271,"ALAMEDA CONDE DA BOA VISTA, 677, em frente ao banco, DERBY, Recife",PE,Recife,2025-11-24 07:11:34
+272,"Al. quinze de novembro, 2632",SP,São Paulo,2025-11-15 23:31:34
+273,"LARGO MARQUES DE ITU, 4937, em frente ao banco, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-20 22:21:34
+274,"LARGO DA AURORA, 347, próximo ao mercado, BOA VISTA, Recife",PE,Recife,2025-11-07 07:32:34
+275,"avenida oswaldo cruz, 3328, botafogo",RJ,Rio de Janeiro,2025-11-09 21:06:34
+276,"RUA PAULISTA, 1170, bloco B, BELA VISTA, São Paulo",SP,São Paulo,2025-11-05 06:47:34
+277,"AVENIDA URUGUAIANA, 1934, sala 20, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 08:13:34
+278,"estrada atlantica, 3686, copacabana",RJ,Rio de Janeiro,2025-11-15 06:01:34
+279,"estrada copacabana, 4338, copacabana",RJ,Rio de Janeiro,2025-11-14 10:08:34
+280,"Tv vinte e tres de maio, 930",SP,São Paulo,2025-11-11 04:25:34
+281,"AVENIDA EIXO MONUMENTAL, 2145, sala 10, ASA NORTE, Brasília",DF,Brasília,2025-11-04 06:36:34
+282,"LARGO sao joao, 1640",SP,São Paulo,2025-10-30 18:21:34
+283,"LARGO QUINZE DE NOVEMBRO, 720, sala 20, CENTRO, São Paulo",SP,São Paulo,2025-11-05 09:04:34
+284,"ALAMEDA COPACABANA, 2458, apto 201, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 21:50:34
+285,"PRAÇA QUINZE DE NOVEMBRO, 4168, CENTRO, São Paulo",SP,São Paulo,2025-11-23 13:59:34
+286,"Travessa uruguaiana, 4048",RJ,Rio de Janeiro,2025-11-09 02:26:34
+287,"Estrada tupis, 707",MG,Belo Horizonte,2025-11-13 22:03:34
+288,"VIELA DOS ANDRADAS, 3355, bloco B, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-24 16:29:34
+289,"LARGO COPACABANA, 3817, ao lado da escola, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 15:53:34
+290,"ESTRADA EIXO MONUMENTAL, 1058, ASA NORTE",DF,Brasília,2025-11-10 18:56:34
+291,"ESTRADA PRIMEIRO DE MARÇO, 2492, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-21 09:50:34
+292,"praça brigadeiro faria lima, 4251, itam bibi",SP,São Paulo,2025-10-30 18:33:34
+293,"ALAMEDA REBOUCAS, 1026, próximo ao mercado, PINHEIROS, São Paulo",SP,São Paulo,2025-11-07 03:44:34
+294,"entregar na estrada protasio alves, 4849 perto da praça, petropolis",RS,Porto Alegre,2025-11-20 23:10:34
+295,"R. boavista, 233",PE,Recife,2025-10-27 00:00:34
+296,"TRAVESSA NOVE DE JULHO, 4687, REPUBLICA",SP,São Paulo,2025-11-07 00:48:34
+297,"ALAMEDA BORGES DE MEDEIROS, 2475, CENTRO",RS,Porto Alegre,2025-11-18 23:24:34
+298,"LARGO MARQUES DE ITU, 598, , VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-21 06:23:34
+299,"largo dos andradas, 1672, centro",RS,Porto Alegre,2025-11-07 16:29:34
+300,"PRAÇA BOA VIAGEM, 3267, BOA VIAGEM, Recife",PE,Recife,2025-11-02 09:17:34
+301,"AVENIDA EIXO MONUMENTAL, 2615, ASA NORTE, Brasília",DF,Brasília,2025-11-12 17:32:34
+302,"Tv. bahia, 1155",MG,Belo Horizonte,2025-11-17 07:54:34
+303,"TRAVESSA AFONSO PENA, 1309, sala 20, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-28 02:03:34
+304,"TRAVESSA BOA VIAGEM, 1306, BOA VIAGEM",PE,Recife,2025-11-10 06:18:34
+305,"LARGO marques de itu, 190",SP,São Paulo,2025-11-10 06:34:34
+306,"Praça consolacao, 399",SP,São Paulo,2025-11-11 00:53:34
+307,"Al. dos andradas, 4397",RS,Porto Alegre,2025-11-13 15:53:34
+308,"praça nove de julho, 3304, republica",SP,São Paulo,2025-11-25 08:46:34
+309,"entregar na travessa eixo monumental, 2970 próximo ao mercado, asa norte",DF,Brasília,2025-11-24 08:17:34
+310,"ALAMEDA BAHIA, 974, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-23 08:26:34
+311,"PRAÇA BOAVISTA, 1182, BOA VIAGEM, Recife",PE,Recife,2025-11-07 04:24:34
+312,"R protasio alves, 372",RS,Porto Alegre,2025-11-04 09:58:34
+313,"entregar na largo dos andradas, 1221 ao lado da escola, centro",RS,Porto Alegre,2025-11-22 09:50:34
+314,"entregar na estrada boa viagem, 3220 perto do metrô, boa viagem",PE,Recife,2025-10-31 11:12:34
+315,"largo boavista, 4612, boa viagem",PE,Recife,2025-11-11 20:26:34
+316,"entregar na avenida boavista, 3413 próximo ao mercado, boa viagem",PE,Recife,2025-10-31 20:54:34
+317,"LARGO DAS FLORES, 2176, ao lado da escola, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 13:03:34
+318,"entregar na largo oswaldo cruz, 1397 perto do metrô, botafogo",RJ,Rio de Janeiro,2025-11-03 01:00:34
+319,"Est. do comercio, 1985",PE,Recife,2025-11-20 20:21:34
+320,"VIELA BOA VIAGEM, 1241, BOA VIAGEM",PE,Recife,2025-11-04 14:23:34
+321,"LARGO PROTASIO ALVES, 511, perto da praça, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-10 14:14:34
+322,"LARGO BOA VIAGEM, 4305, BOA VIAGEM",PE,Recife,2025-11-16 15:20:34
+323,"praça w3 norte, 4476, asa norte",DF,Brasília,2025-11-04 21:06:34
+324,"LARGO NOVE DE JULHO, 1576, REPUBLICA, São Paulo",SP,São Paulo,2025-11-18 03:30:34
+325,"ALAMEDA BRIGADEIRO FARIA LIMA, 2368, perto da praça, ITAM BIBI, São Paulo",SP,São Paulo,2025-11-03 22:18:34
+326,"entregar na largo boa viagem, 2858 perto do metrô, boa viagem",PE,Recife,2025-11-18 11:42:34
+327,"VIELA W3 NORTE, 3233, sala 20, ASA NORTE, Brasília",DF,Brasília,2025-10-27 16:31:34
+328,"alameda atlantica, 648, copacabana",RJ,Rio de Janeiro,2025-10-28 06:08:34
+329,"LARGO NOVE DE JULHO, 1753, REPUBLICA, São Paulo",SP,São Paulo,2025-10-31 03:32:34
+330,"Al eixo monumental, 1125",DF,Brasília,2025-11-19 19:07:34
+331,"Tv. w3 sul, 1908",DF,Brasília,2025-11-13 10:04:34
+332,"AVENIDA dos andradas, 1127",RS,Porto Alegre,2025-10-28 15:23:34
+333,"LARGO DOS ANDRADAS, 1634, sala 10, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-16 11:08:34
+334,"AVENIDA OSWALDO CRUZ, 4704, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 21:03:34
+335,"ESTRADA ATLANTICA, 3424, apto 201, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-28 18:56:34
+336,"LARGO AGAMENON MAGALHAES, 1527, próximo ao mercado, DERBY, Recife",PE,Recife,2025-10-29 19:49:34
+337,"avenida marques de itu, 2745, vila buarque",SP,São Paulo,2025-11-12 00:15:34
+338,"LARGO W3 SUL, 1100, bloco A, ASA SUL, Brasília",DF,Brasília,2025-11-12 12:37:34
+339,"PRAÇA PRIMEIRO DE MARÇO, 1332, em frente ao banco, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-06 12:04:34
+340,"RUA QUINZE DE NOVEMBRO, 2762, sala 10, CENTRO, São Paulo",SP,São Paulo,2025-11-07 23:01:34
+341,"ESTRADA REBOUCAS, 3322, loja 1, PINHEIROS, São Paulo",SP,São Paulo,2025-11-10 10:44:34
+342,"AVENIDA AGAMENON MAGALHAES, 1514, DERBY, Recife",PE,Recife,2025-11-11 09:50:34
+343,"RUA IPIRANGA, 2137, REPUBLICA",SP,São Paulo,2025-11-19 06:01:34
+344,"entregar na praça vinte e tres de maio, 2474 perto do metrô, liberdade",SP,São Paulo,2025-11-08 20:33:34
+345,"TRAVESSA CONDE DA BOA VISTA, 509, , DERBY, Recife",PE,Recife,2025-11-12 11:39:34
+346,"ALAMEDA AGAMENON MAGALHAES, 962, próximo ao mercado, DERBY, Recife",PE,Recife,2025-11-15 01:35:34
+347,"ESTRADA BRIGADEIRO FARIA LIMA, 3918, ITAM BIBI, São Paulo",SP,São Paulo,2025-11-11 21:11:34
+348,"VIELA CONDE DA BOA VISTA, 4500, DERBY",PE,Recife,2025-11-02 02:58:34
+349,"TRAVESSA CONSOLACAO, 4881, apto 101, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-10 06:16:34
+350,"Av. conde da boa vista, 4622",PE,Recife,2025-10-31 02:52:34
+351,"entregar na travessa protasio alves, 4692 perto da praça, petropolis",RS,Porto Alegre,2025-11-21 09:55:34
+352,"LARGO W3 SUL, 953, perto da praça, ASA SUL, Brasília",DF,Brasília,2025-11-04 02:18:34
+353,"LARGO RIO BRANCO, 456, CENTRO",RJ,Rio de Janeiro,2025-11-22 04:23:34
+354,"RUA TUPIS, 4578, CENTRO",MG,Belo Horizonte,2025-11-05 11:03:34
+355,"VIELA DAS FLORES, 2085, , JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 14:12:34
+356,"rua copacabana, 3471, copacabana",RJ,Rio de Janeiro,2025-11-04 18:15:34
+357,"Avenida oswaldo cruz, 3868",RJ,Rio de Janeiro,2025-11-13 15:00:34
+358,"VIELA URUGUAIANA, 3068, CENTRO",RJ,Rio de Janeiro,2025-11-12 08:25:34
+359,"Est rio branco, 2849",RJ,Rio de Janeiro,2025-11-09 08:16:34
+360,"TRAVESSA URUGUAIANA, 29, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-17 06:06:34
+361,"VIELA W3 NORTE, 4358, ASA NORTE",DF,Brasília,2025-10-31 13:34:34
+362,"praça tupis, 1271, centro",MG,Belo Horizonte,2025-11-19 21:01:34
+363,"entregar na rua primeiro de março, 3435 , centro",RJ,Rio de Janeiro,2025-11-19 14:45:34
+364,"entregar na rua presidente vargas, 3658 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-04 19:34:34
+365,"VIELA ATLANTICA, 3596, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-09 14:01:34
+366,"estrada oswaldo cruz, 4128, botafogo",RJ,Rio de Janeiro,2025-11-18 21:13:34
+367,"praça boa viagem, 1941, boa viagem",PE,Recife,2025-10-29 16:07:34
+368,"travessa w3 sul, 3388, asa sul",DF,Brasília,2025-11-18 19:14:34
+369,"VIELA QUINZE DE NOVEMBRO, 4554, CENTRO",SP,São Paulo,2025-11-25 09:08:34
+370,"PRAÇA DO COMERCIO, 3411, SAO JOSE",PE,Recife,2025-11-22 11:25:34
+371,"LARGO QUINZE DE NOVEMBRO, 1975, apto 301, CENTRO, São Paulo",SP,São Paulo,2025-11-16 22:40:34
+372,"RUA TUPIS, 4608, CENTRO",MG,Belo Horizonte,2025-10-27 07:14:34
+373,"ESTRADA W3 SUL, 3182, ASA SUL, Brasília",DF,Brasília,2025-11-18 14:28:34
+374,"LARGO rio branco, 3040",RJ,Rio de Janeiro,2025-11-25 12:25:34
+375,"AVENIDA ATLANTICA, 1542, bloco B, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-02 23:14:34
+376,"LARGO CONSOLACAO, 1712, sala 20, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-17 20:36:34
+377,"AVENIDA REBOUCAS, 3924, PINHEIROS, São Paulo",SP,São Paulo,2025-11-04 01:04:34
+378,"entregar na viela consolacao, 1961 próximo ao mercado, consolacao",SP,São Paulo,2025-11-02 11:25:34
+379,"praça tupis, 2527, centro",MG,Belo Horizonte,2025-11-15 03:53:34
+380,"LARGO BORGES DE MEDEIROS, 808, loja 2, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-02 09:51:34
+381,"PRAÇA CONSOLACAO, 2564, CONSOLACAO",SP,São Paulo,2025-11-25 01:54:34
+382,"estrada brigadeiro faria lima, 133, itam bibi",SP,São Paulo,2025-11-09 02:12:34
+383,"ALAMEDA AFONSO PENA, 1249, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-16 13:25:34
+384,"LARGO IPIRANGA, 4511, perto do metrô, REPUBLICA, São Paulo",SP,São Paulo,2025-11-16 12:01:34
+385,"LARGO BORGES DE MEDEIROS, 3776, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-03 09:39:34
+386,"entregar na largo uruguaiana, 1508 perto do metrô, centro",RJ,Rio de Janeiro,2025-10-27 19:16:34
+387,"AVENIDA ATLANTICA, 398, , COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-13 15:56:34
+388,"Av brigadeiro faria lima, 1238",SP,São Paulo,2025-11-10 06:26:34
+389,"LARGO oswaldo cruz, 3997",RJ,Rio de Janeiro,2025-11-09 03:23:34
+390,"RUA DO OUVIDOR, 4337, próximo ao mercado, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-09 11:48:34
+391,"VIELA protasio alves, 1469",RS,Porto Alegre,2025-11-10 16:34:34
+392,"alameda reboucas, 2904, pinheiros",SP,São Paulo,2025-11-01 08:44:34
+393,"entregar na viela conde da boa vista, 3761 perto da praça, derby",PE,Recife,2025-11-04 13:30:34
+394,"RUA RIO BRANCO, 766, CENTRO",RJ,Rio de Janeiro,2025-11-14 08:14:34
+395,"RUA DOS ANDRADAS, 78, perto da praça, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-24 04:55:34
+396,"PRAÇA AMAZONAS, 4636, apto 101, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-29 03:51:34
+397,"TRAVESSA ATLANTICA, 1732, bloco B, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-11 12:47:34
+398,"entregar na alameda copacabana, 4449 perto do metrô, copacabana",RJ,Rio de Janeiro,2025-11-25 14:50:34
+399,"entregar na rua boa viagem, 1698 perto da praça, boa viagem",PE,Recife,2025-11-01 21:57:34
+400,"AVENIDA AGAMENON MAGALHAES, 2452, DERBY, Recife",PE,Recife,2025-11-08 13:13:34
+401,"PRAÇA DO COMERCIO, 3145, apto 201, SAO JOSE, Recife",PE,Recife,2025-10-31 22:03:34
+402,"praça rio branco, 440",RJ,Rio de Janeiro,2025-11-19 18:28:34
+403,"PRAÇA AGAMENON MAGALHAES, 243, próximo ao mercado, DERBY, Recife",PE,Recife,2025-11-01 06:18:34
+404,"PRAÇA BRIGADEIRO FARIA LIMA, 4531, ITAM BIBI",SP,São Paulo,2025-11-13 15:06:34
+405,"AVENIDA DO COMERCIO, 2420, apto 301, SAO JOSE, Recife",PE,Recife,2025-11-04 18:44:34
+406,"ESTRADA VINTE E TRES DE MAIO, 3113, perto do metrô, LIBERDADE, São Paulo",SP,São Paulo,2025-11-21 21:25:34
+407,"Pç. boa viagem, 873",PE,Recife,2025-10-27 11:21:34
+408,"ALAMEDA CONDE DA BOA VISTA, 838, DERBY, Recife",PE,Recife,2025-11-24 15:22:34
+409,"VIELA bahia, 847",MG,Belo Horizonte,2025-11-15 03:44:34
+410,"viela boa viagem, 102, boa viagem",PE,Recife,2025-11-13 08:00:34
+411,"entregar na travessa rio branco, 4686 perto da praça, centro",RJ,Rio de Janeiro,2025-11-05 08:39:34
+412,"alameda uruguaiana, 2467, centro",RJ,Rio de Janeiro,2025-11-11 16:45:34
+413,"VIELA PAULISTA, 2261, BELA VISTA",SP,São Paulo,2025-11-17 04:59:34
+414,"PRAÇA COPACABANA, 2062, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 00:18:34
+415,"LARGO REBOUCAS, 877, PINHEIROS, São Paulo",SP,São Paulo,2025-11-17 20:24:34
+416,"VIELA BOAVISTA, 2700, BOA VIAGEM",PE,Recife,2025-11-16 06:57:34
+417,"entregar na alameda uruguaiana, 2627 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-20 05:29:34
+418,"viela quinze de novembro, 2615, centro",SP,São Paulo,2025-11-02 22:09:34
+419,"TRAVESSA BORGES DE MEDEIROS, 2670, CENTRO",RS,Porto Alegre,2025-11-18 08:26:34
+420,"entregar na travessa primeiro de março, 4852 perto da praça, centro",RJ,Rio de Janeiro,2025-11-05 03:48:34
+421,"TRAVESSA TUPIS, 3592, sala 10, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-30 22:45:34
+422,"LARGO AFONSO PENA, 1141, próximo ao mercado, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-19 12:07:34
+423,"VIELA setembro, 3089",RJ,Rio de Janeiro,2025-11-07 05:12:34
+424,"VIELA agamenon magalhaes, 4454",PE,Recife,2025-11-04 03:11:34
+425,"AVENIDA RIO BRANCO, 2034, perto do metrô, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 15:08:34
+426,"VIELA ATLANTICA, 2717, loja 1, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-23 20:43:34
+427,"TRAVESSA NOVE DE JULHO, 4184, ao lado da escola, REPUBLICA, São Paulo",SP,São Paulo,2025-11-09 02:05:34
+428,"LARGO BRIGADEIRO FARIA LIMA, 3065, ITAM BIBI",SP,São Paulo,2025-11-11 23:12:34
+429,"estrada protasio alves, 2826",RS,Porto Alegre,2025-11-23 11:23:34
+430,"avenida rio branco, 1161, centro",RJ,Rio de Janeiro,2025-11-17 10:20:34
+431,"LARGO CONSOLACAO, 2854, CONSOLACAO",SP,São Paulo,2025-11-23 06:03:34
+432,"praça bahia, 551, centro",MG,Belo Horizonte,2025-11-24 22:42:34
+433,"PRAÇA DAS FLORES, 896, perto da praça, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-27 21:34:34
+434,"ESTRADA W3 SUL, 4522, ASA SUL, Brasília",DF,Brasília,2025-11-16 03:22:34
+435,"TRAVESSA TUPIS, 3319, perto da praça, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-21 00:07:34
+436,"VIELA AMAZONAS, 240, ao lado da escola, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-29 14:21:34
+437,"VIELA AMAZONAS, 37, perto da praça, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-20 12:01:34
+438,"AVENIDA COPACABANA, 4399, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 10:37:34
+439,"AVENIDA TUPIS, 2150, em frente ao banco, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-10 00:29:34
+440,"VIELA do comercio, 4809",PE,Recife,2025-11-15 06:10:34
+441,"Al quinze de novembro, 4835",SP,São Paulo,2025-11-16 17:34:34
+442,"avenida marques de itu, 1500, vila buarque",SP,São Paulo,2025-11-04 16:17:34
+443,"VIELA DO COMERCIO, 4886, SAO JOSE, Recife",PE,Recife,2025-11-08 08:22:34
+444,"LARGO QUINZE DE NOVEMBRO, 4403, perto do metrô, CENTRO, São Paulo",SP,São Paulo,2025-10-28 15:14:34
+445,"LARGO PAULISTA, 2367, BELA VISTA, São Paulo",SP,São Paulo,2025-11-21 09:56:34
+446,"rua bahia, 2942",MG,Belo Horizonte,2025-11-22 13:57:34
+447,"LARGO DO COMERCIO, 3352, em frente ao banco, SAO JOSE, Recife",PE,Recife,2025-11-12 21:56:34
+448,"LARGO bahia, 1371",MG,Belo Horizonte,2025-11-01 13:31:34
+449,"entregar na alameda atlantica, 1842 próximo ao mercado, copacabana",RJ,Rio de Janeiro,2025-11-21 06:13:34
+450,"Avenida borges de medeiros, 4692",RS,Porto Alegre,2025-11-02 02:57:34
+451,"entregar na rua conde da boa vista, 3616 perto da praça, derby",PE,Recife,2025-11-13 17:02:34
+452,"ALAMEDA IPIRANGA, 265, REPUBLICA",SP,São Paulo,2025-11-18 08:54:34
+453,"LARGO RIO BRANCO, 962, apto 301, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-19 21:12:34
+454,"entregar na viela da aurora, 1360 perto da praça, boa vista",PE,Recife,2025-11-01 13:57:34
+455,"rua consolacao, 4671, consolacao",SP,São Paulo,2025-11-09 12:11:34
+456,"ESTRADA W3 NORTE, 2652, próximo ao mercado, ASA NORTE, Brasília",DF,Brasília,2025-11-17 02:32:34
+457,"AVENIDA PROTASIO ALVES, 1111, loja 1, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-10-28 19:32:34
+458,"ESTRADA URUGUAIANA, 2046, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-04 09:56:34
+459,"VIELA IPIRANGA, 4010, REPUBLICA, São Paulo",SP,São Paulo,2025-11-08 00:32:34
+460,"VIELA afonso pena, 3703",MG,Belo Horizonte,2025-11-14 04:02:34
+461,"PRAÇA VINTE E TRES DE MAIO, 3725, LIBERDADE",SP,São Paulo,2025-11-16 02:49:34
+462,"LARGO RIO BRANCO, 2935, apto 101, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 03:24:34
+463,"VIELA CONSOLACAO, 1736, CONSOLACAO",SP,São Paulo,2025-11-18 09:56:34
+464,"entregar na praça sao joao, 4484 perto da praça, republica",SP,São Paulo,2025-11-08 04:59:34
+465,"rua boavista, 377",PE,Recife,2025-11-26 16:50:34
+466,"LARGO paulista, 3740",SP,São Paulo,2025-11-19 21:51:34
+467,"ALAMEDA URUGUAIANA, 1303, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-24 00:26:34
+468,"AVENIDA NOVE DE JULHO, 3047, perto do metrô, REPUBLICA, São Paulo",SP,São Paulo,2025-11-21 19:24:34
+469,"TRAVESSA MARQUES DE ITU, 3517, , VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-04 17:49:34
+470,"LARGO CONSOLACAO, 639, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-08 13:16:34
+471,"RUA BAHIA, 67, próximo ao mercado, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-31 16:54:34
+472,"Est amazonas, 3914",MG,Belo Horizonte,2025-11-14 18:03:34
+473,"avenida presidente vargas, 2567, centro",RJ,Rio de Janeiro,2025-10-29 11:41:34
+474,"Est. do comercio, 1171",PE,Recife,2025-11-07 00:39:34
+475,"PRAÇA BAHIA, 1746, perto do metrô, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-22 07:10:34
+476,"Tv bahia, 711",MG,Belo Horizonte,2025-11-02 17:12:34
+477,"praça do comercio, 3518, sao jose",PE,Recife,2025-11-01 16:34:34
+478,"entregar na avenida vinte e tres de maio, 2033 ao lado da escola, liberdade",SP,São Paulo,2025-11-06 21:11:34
+479,"RUA SAO JOAO, 2472, REPUBLICA, São Paulo",SP,São Paulo,2025-11-10 01:17:34
+480,"VIELA REBOUCAS, 2422, , PINHEIROS, São Paulo",SP,São Paulo,2025-11-01 13:18:34
+481,"AVENIDA DO COMERCIO, 1975, SAO JOSE",PE,Recife,2025-11-06 01:45:34
+482,"rua w3 sul, 2959, asa sul",DF,Brasília,2025-11-22 07:54:34
+483,"PRAÇA AFONSO PENA, 4476, perto da praça, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-02 05:00:34
+484,"R. copacabana, 4812",RJ,Rio de Janeiro,2025-11-18 14:47:34
+485,"viela oswaldo cruz, 4151, botafogo",RJ,Rio de Janeiro,2025-11-05 22:17:34
+486,"VIELA afonso pena, 3296",MG,Belo Horizonte,2025-11-18 18:30:34
+487,"entregar na travessa rio branco, 1273 próximo ao mercado, centro",RJ,Rio de Janeiro,2025-11-14 02:09:34
+488,"ALAMEDA COPACABANA, 3584, perto da praça, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-25 13:44:34
+489,"entregar na avenida amazonas, 3715 ao lado da escola, centro",MG,Belo Horizonte,2025-11-25 11:07:34
+490,"AVENIDA QUINZE DE NOVEMBRO, 104, perto da praça, CENTRO, São Paulo",SP,São Paulo,2025-11-04 20:39:34
+491,"entregar na praça borges de medeiros, 4285 perto do metrô, centro",RS,Porto Alegre,2025-11-18 15:26:34
+492,"ALAMEDA URUGUAIANA, 968, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-16 07:32:34
+493,"AVENIDA W3 SUL, 2155, ao lado da escola, ASA SUL, Brasília",DF,Brasília,2025-11-06 18:18:34
+494,"PRAÇA TUPIS, 455, CENTRO",MG,Belo Horizonte,2025-10-30 02:39:34
+495,"ESTRADA CONDE DA BOA VISTA, 2090, apto 101, DERBY, Recife",PE,Recife,2025-10-29 02:06:34
+496,"Tv. primeiro de março, 4169",RJ,Rio de Janeiro,2025-10-30 20:34:34
+497,"LARGO ATLANTICA, 2982, COPACABANA",RJ,Rio de Janeiro,2025-10-28 16:38:34
+498,"viela atlantica, 1840, copacabana",RJ,Rio de Janeiro,2025-11-19 06:51:34
+499,"entregar na alameda boa viagem, 639 próximo ao mercado, boa viagem",PE,Recife,2025-11-23 04:06:34
+500,"ESTRADA OSWALDO CRUZ, 1829, bloco A, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-25 08:45:34
+501,"alameda tupis, 2546, centro",MG,Belo Horizonte,2025-11-24 03:20:34
+502,"praça do ouvidor, 1644, centro",RJ,Rio de Janeiro,2025-11-08 11:02:34
+503,"entregar na largo ipiranga, 3017 em frente ao banco, republica",SP,São Paulo,2025-11-02 14:03:34
+504,"travessa w3 norte, 1234",DF,Brasília,2025-11-26 13:15:34
+505,"rua da aurora, 2745",PE,Recife,2025-10-29 21:03:34
+506,"entregar na avenida marques de itu, 1681 perto da praça, vila buarque",SP,São Paulo,2025-11-13 05:46:34
+507,"Al setembro, 763",RJ,Rio de Janeiro,2025-10-29 04:23:34
+508,"entregar na largo conde da boa vista, 696 , derby",PE,Recife,2025-11-10 16:09:34
+509,"entregar na avenida agamenon magalhaes, 4849 , derby",PE,Recife,2025-11-12 23:41:34
+510,"ALAMEDA IPIRANGA, 2139, sala 20, REPUBLICA, São Paulo",SP,São Paulo,2025-10-28 08:05:34
+511,"praça boa viagem, 3709, boa viagem",PE,Recife,2025-11-19 18:37:34
+512,"Av uruguaiana, 1274",RJ,Rio de Janeiro,2025-11-12 06:29:34
+513,"avenida afonso pena, 4391, centro",MG,Belo Horizonte,2025-10-27 14:21:34
+514,"LARGO MARQUES DE ITU, 2171, apto 101, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-24 14:58:34
+515,"RUA MARQUES DE ITU, 1762, sala 20, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-22 18:04:34
+516,"entregar na praça ipiranga, 3247 , republica",SP,São Paulo,2025-11-05 11:33:34
+517,"RUA QUINZE DE NOVEMBRO, 3313, loja 2, CENTRO, São Paulo",SP,São Paulo,2025-11-08 21:14:34
+518,"av ipiranga, 3786",SP,São Paulo,2025-11-01 16:42:34
+519,"RUA DO OUVIDOR, 1821, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 08:26:34
+520,"Al. rio branco, 615",RJ,Rio de Janeiro,2025-11-20 00:21:34
+521,"Av. uruguaiana, 2717",RJ,Rio de Janeiro,2025-10-27 06:46:34
+522,"VIELA PAULISTA, 3236, BELA VISTA",SP,São Paulo,2025-11-26 08:06:34
+523,"ESTRADA AMAZONAS, 2900, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-28 15:32:34
+524,"LARGO vinte e tres de maio, 1218",SP,São Paulo,2025-11-06 11:18:34
+525,"LARGO afonso pena, 500",MG,Belo Horizonte,2025-11-14 16:23:34
+526,"TRAVESSA REBOUCAS, 4454, , PINHEIROS, São Paulo",SP,São Paulo,2025-11-13 22:27:34
+527,"entregar na largo dos andradas, 2819 ao lado da escola, centro",RS,Porto Alegre,2025-11-16 08:32:34
+528,"entregar na rua quinze de novembro, 2613 perto da praça, centro",SP,São Paulo,2025-11-26 12:46:34
+529,"PRAÇA DOS ANDRADAS, 4785, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-21 17:34:34
+530,"ALAMEDA IPIRANGA, 4372, , REPUBLICA, São Paulo",SP,São Paulo,2025-11-02 13:13:34
+531,"PRAÇA DO COMERCIO, 1424, SAO JOSE, Recife",PE,Recife,2025-11-19 02:29:34
+532,"entregar na rua da aurora, 2881 ao lado da escola, boa vista",PE,Recife,2025-11-22 02:37:34
+533,"ALAMEDA BORGES DE MEDEIROS, 1439, CENTRO",RS,Porto Alegre,2025-11-25 18:46:34
+534,"entregar na travessa brigadeiro faria lima, 164 em frente ao banco, itam bibi",SP,São Paulo,2025-11-26 09:51:34
+535,"ESTRADA REBOUCAS, 2792, perto da praça, PINHEIROS, São Paulo",SP,São Paulo,2025-10-28 10:46:34
+536,"ESTRADA DAS FLORES, 4806, perto da praça, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-02 16:55:34
+537,"praça w3 sul, 595, asa sul",DF,Brasília,2025-11-03 23:24:34
+538,"praça presidente vargas, 2473, centro",RJ,Rio de Janeiro,2025-11-22 15:03:34
+539,"LARGO AMAZONAS, 2600, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-04 03:05:34
+540,"TRAVESSA DA AURORA, 4825, apto 201, BOA VISTA, Recife",PE,Recife,2025-11-14 11:03:34
+541,"ESTRADA SAO JOAO, 1456, , REPUBLICA, São Paulo",SP,São Paulo,2025-10-26 22:13:34
+542,"entregar na rua agamenon magalhaes, 1492 próximo ao mercado, derby",PE,Recife,2025-10-28 01:35:34
+543,"largo presidente vargas, 1153, centro",RJ,Rio de Janeiro,2025-11-03 18:34:34
+544,"PRAÇA DA AURORA, 1376, , BOA VISTA, Recife",PE,Recife,2025-10-30 22:07:34
+545,"largo boavista, 94, boa viagem",PE,Recife,2025-11-20 13:05:34
+546,"PRAÇA COPACABANA, 2103, apto 101, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 20:46:34
+547,"LARGO DO COMERCIO, 3438, SAO JOSE, Recife",PE,Recife,2025-10-29 07:18:34
+548,"PRAÇA DO COMERCIO, 4474, SAO JOSE",PE,Recife,2025-11-23 04:59:34
+549,"Est. brigadeiro faria lima, 3697",SP,São Paulo,2025-11-17 20:29:34
+550,"avenida nove de julho, 608, republica",SP,São Paulo,2025-11-21 08:39:34
+551,"entregar na avenida copacabana, 2769 ao lado da escola, copacabana",RJ,Rio de Janeiro,2025-10-29 05:04:34
+552,"entregar na viela das flores, 1352 em frente ao banco, jardim",RJ,Rio de Janeiro,2025-11-21 19:43:34
+553,"TRAVESSA BOAVISTA, 1557, BOA VIAGEM",PE,Recife,2025-11-04 03:03:34
+554,"alameda w3 norte, 2307, asa norte",DF,Brasília,2025-11-19 17:46:34
+555,"LARGO agamenon magalhaes, 1259",PE,Recife,2025-11-26 07:44:34
+556,"LARGO sao joao, 1636",SP,São Paulo,2025-11-20 15:09:34
+557,"AVENIDA SAO JOAO, 3880, apto 101, REPUBLICA, São Paulo",SP,São Paulo,2025-11-17 08:19:34
+558,"ALAMEDA BORGES DE MEDEIROS, 747, ao lado da escola, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-14 15:26:34
+559,"PRAÇA DO COMERCIO, 1529, SAO JOSE",PE,Recife,2025-11-25 12:21:34
+560,"ALAMEDA TUPIS, 1854, sala 10, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-08 19:40:34
+561,"AVENIDA PRESIDENTE VARGAS, 2817, bloco A, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-13 02:35:34
+562,"RUA EIXO MONUMENTAL, 3172, bloco A, ASA NORTE, Brasília",DF,Brasília,2025-11-13 03:06:34
+563,"travessa dos andradas, 3902, centro",RS,Porto Alegre,2025-11-24 07:52:34
+564,"ESTRADA ATLANTICA, 986, loja 2, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-21 15:36:34
+565,"ESTRADA REBOUCAS, 350, PINHEIROS",SP,São Paulo,2025-11-23 23:22:34
+566,"estrada reboucas, 4875, pinheiros",SP,São Paulo,2025-11-15 20:51:34
+567,"entregar na avenida copacabana, 3180 em frente ao banco, copacabana",RJ,Rio de Janeiro,2025-11-09 09:55:34
+568,"LARGO VINTE E TRES DE MAIO, 102, bloco B, LIBERDADE, São Paulo",SP,São Paulo,2025-11-08 03:59:34
+569,"AVENIDA AFONSO PENA, 3396, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-22 02:12:34
+570,"AVENIDA PRESIDENTE VARGAS, 4610, apto 101, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 10:54:34
+571,"praça w3 norte, 3367, asa norte",DF,Brasília,2025-11-14 00:18:34
+572,"rua dos andradas, 1411, centro",RS,Porto Alegre,2025-11-14 16:10:34
+573,"rua agamenon magalhaes, 3243, derby",PE,Recife,2025-11-04 13:46:34
+574,"Alameda dos andradas, 3052",RS,Porto Alegre,2025-10-31 11:30:34
+575,"LARGO VINTE E TRES DE MAIO, 805, apto 301, LIBERDADE, São Paulo",SP,São Paulo,2025-11-22 11:02:34
+576,"PRAÇA BAHIA, 2208, em frente ao banco, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-07 00:44:34
+577,"LARGO REBOUCAS, 1732, loja 1, PINHEIROS, São Paulo",SP,São Paulo,2025-11-03 05:01:34
+578,"entregar na praça w3 sul, 461 perto da praça, asa sul",DF,Brasília,2025-11-24 11:04:34
+579,"VIELA PROTASIO ALVES, 1112, bloco A, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-10-29 02:48:34
+580,"TRAVESSA QUINZE DE NOVEMBRO, 1645, , CENTRO, São Paulo",SP,São Paulo,2025-11-19 19:20:34
+581,"praça oswaldo cruz, 1632, botafogo",RJ,Rio de Janeiro,2025-11-15 06:17:34
+582,"AVENIDA AGAMENON MAGALHAES, 251, DERBY, Recife",PE,Recife,2025-11-15 05:11:34
+583,"entregar na estrada bahia, 3888 ao lado da escola, centro",MG,Belo Horizonte,2025-11-15 09:39:34
+584,"avenida nove de julho, 2336",SP,São Paulo,2025-11-25 14:55:34
+585,"TRAVESSA CONSOLACAO, 1845, perto da praça, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-18 00:23:34
+586,"RUA PROTASIO ALVES, 73, PETROPOLIS",RS,Porto Alegre,2025-10-28 16:08:34
+587,"rua quinze de novembro, 1834, centro",SP,São Paulo,2025-11-07 11:04:34
+588,"VIELA VINTE E TRES DE MAIO, 3085, sala 20, LIBERDADE, São Paulo",SP,São Paulo,2025-11-12 12:36:34
+589,"ALAMEDA TUPIS, 4266, bloco B, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-14 02:43:34
+590,"PRAÇA DO OUVIDOR, 4600, ao lado da escola, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 11:30:34
+591,"largo presidente vargas, 523, centro",RJ,Rio de Janeiro,2025-11-18 00:29:34
+592,"ALAMEDA VINTE E TRES DE MAIO, 2448, LIBERDADE, São Paulo",SP,São Paulo,2025-11-22 04:01:34
+593,"RUA IPIRANGA, 4916, REPUBLICA",SP,São Paulo,2025-11-05 10:06:34
+594,"rua uruguaiana, 4075, centro",RJ,Rio de Janeiro,2025-11-18 07:24:34
+595,"RUA DO COMERCIO, 4777, ao lado da escola, SAO JOSE, Recife",PE,Recife,2025-10-31 14:28:34
+596,"entregar na largo brigadeiro faria lima, 2937 próximo ao mercado, itam bibi",SP,São Paulo,2025-10-30 14:56:34
+597,"estrada eixo monumental, 2407",DF,Brasília,2025-11-21 21:33:34
+598,"ESTRADA EIXO MONUMENTAL, 2750, , ASA NORTE, Brasília",DF,Brasília,2025-11-19 09:35:34
+599,"viela marques de itu, 2715, vila buarque",SP,São Paulo,2025-11-18 02:31:34
+600,"av tupis, 3855",MG,Belo Horizonte,2025-11-06 02:12:34
+601,"entregar na largo copacabana, 1594 , copacabana",RJ,Rio de Janeiro,2025-10-29 23:25:34
+602,"Al w3 sul, 3385",DF,Brasília,2025-11-22 14:28:34
+603,"largo afonso pena, 1174, centro",MG,Belo Horizonte,2025-10-29 22:38:34
+604,"LARGO RIO BRANCO, 2725, perto da praça, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-16 00:46:34
+605,"LARGO DO OUVIDOR, 2241, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-02 15:13:34
+606,"LARGO PAULISTA, 722, BELA VISTA, São Paulo",SP,São Paulo,2025-11-07 07:09:34
+607,"VIELA AMAZONAS, 3515, CENTRO",MG,Belo Horizonte,2025-11-14 20:47:34
+608,"Travessa w3 norte, 3057",DF,Brasília,2025-11-02 04:37:34
+609,"RUA DAS FLORES, 2039, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-04 09:30:34
+610,"entregar na avenida uruguaiana, 3143 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-17 15:45:34
+611,"ALAMEDA ATLANTICA, 2383, COPACABANA",RJ,Rio de Janeiro,2025-11-03 04:11:34
+612,"PRAÇA W3 SUL, 3553, perto da praça, ASA SUL, Brasília",DF,Brasília,2025-11-16 05:27:34
+613,"Est reboucas, 3305",SP,São Paulo,2025-11-18 21:41:34
+614,"entregar na rua consolacao, 4831 perto da praça, consolacao",SP,São Paulo,2025-11-23 09:04:34
+615,"VIELA ATLANTICA, 2096, bloco A, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 19:11:34
+616,"Av oswaldo cruz, 162",RJ,Rio de Janeiro,2025-11-23 07:21:34
+617,"avenida do comercio, 4484, sao jose",PE,Recife,2025-11-10 22:40:34
+618,"RUA CONSOLACAO, 2467, CONSOLACAO",SP,São Paulo,2025-11-05 17:07:34
+619,"ALAMEDA W3 SUL, 4962, perto da praça, ASA SUL, Brasília",DF,Brasília,2025-11-13 17:17:34
+620,"ALAMEDA PRIMEIRO DE MARÇO, 934, apto 101, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-11 14:11:34
+621,"ALAMEDA REBOUCAS, 4286, PINHEIROS, São Paulo",SP,São Paulo,2025-11-14 22:23:34
+622,"entregar na estrada sao joao, 323 em frente ao banco, republica",SP,São Paulo,2025-10-28 14:05:34
+623,"Pç. dos andradas, 1922",RS,Porto Alegre,2025-11-05 17:51:34
+624,"LARGO primeiro de março, 1222",RJ,Rio de Janeiro,2025-11-02 21:43:34
+625,"travessa nove de julho, 3742, republica",SP,São Paulo,2025-11-18 06:46:34
+626,"ESTRADA PRESIDENTE VARGAS, 324, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-14 23:29:34
+627,"AVENIDA AMAZONAS, 779, , CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-26 16:07:34
+628,"PRAÇA PAULISTA, 2929, BELA VISTA",SP,São Paulo,2025-10-27 01:32:34
+629,"PRAÇA RIO BRANCO, 2808, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-23 08:24:34
+630,"ALAMEDA TUPIS, 3160, em frente ao banco, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-01 07:08:34
+631,"AVENIDA PAULISTA, 1086, perto do metrô, BELA VISTA, São Paulo",SP,São Paulo,2025-11-25 15:43:34
+632,"LARGO AFONSO PENA, 4661, em frente ao banco, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-21 01:25:34
+633,"RUA DA AURORA, 1071, BOA VISTA",PE,Recife,2025-10-28 05:42:34
+634,"LARGO afonso pena, 377",MG,Belo Horizonte,2025-11-06 10:49:34
+635,"entregar na travessa w3 sul, 2772 ao lado da escola, asa sul",DF,Brasília,2025-11-03 22:10:34
+636,"VIELA PRESIDENTE VARGAS, 2037, CENTRO",RJ,Rio de Janeiro,2025-11-14 23:06:34
+637,"entregar na estrada do comercio, 4574 , sao jose",PE,Recife,2025-11-25 23:50:34
+638,"LARGO PAULISTA, 4062, apto 201, BELA VISTA, São Paulo",SP,São Paulo,2025-11-24 05:29:34
+639,"Pç ipiranga, 2279",SP,São Paulo,2025-11-09 00:25:34
+640,"TRAVESSA AGAMENON MAGALHAES, 646, DERBY",PE,Recife,2025-11-12 02:21:34
+641,"largo rio branco, 3663, centro",RJ,Rio de Janeiro,2025-11-23 05:02:34
+642,"AVENIDA DAS FLORES, 3305, JARDIM",RJ,Rio de Janeiro,2025-11-25 03:14:34
+643,"entregar na avenida do ouvidor, 4950 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-17 04:14:34
+644,"largo consolacao, 2793, consolacao",SP,São Paulo,2025-10-31 18:57:34
+645,"entregar na largo brigadeiro faria lima, 2720 ao lado da escola, itam bibi",SP,São Paulo,2025-11-07 05:04:34
+646,"LARGO conde da boa vista, 935",PE,Recife,2025-11-26 10:27:34
+647,"Pç sao joao, 871",SP,São Paulo,2025-11-11 15:57:34
+648,"entregar na avenida afonso pena, 2084 perto da praça, centro",MG,Belo Horizonte,2025-11-20 16:50:34
+649,"TRAVESSA AGAMENON MAGALHAES, 3745, apto 301, DERBY, Recife",PE,Recife,2025-11-04 10:43:34
+650,"rua afonso pena, 4824",MG,Belo Horizonte,2025-11-11 23:12:34
+651,"Est. protasio alves, 4087",RS,Porto Alegre,2025-11-09 06:56:34
+652,"ESTRADA DOS ANDRADAS, 4740, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-03 16:43:34
+653,"PRAÇA DO COMERCIO, 4130, SAO JOSE",PE,Recife,2025-11-13 00:51:34
+654,"alameda ipiranga, 3260, republica",SP,São Paulo,2025-11-17 05:58:34
+655,"entregar na estrada uruguaiana, 3382 perto do metrô, centro",RJ,Rio de Janeiro,2025-10-28 21:17:34
+656,"PRAÇA MARQUES DE ITU, 4535, perto da praça, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-20 14:10:34
+657,"PRAÇA SAO JOAO, 1087, perto do metrô, REPUBLICA, São Paulo",SP,São Paulo,2025-10-27 15:17:34
+658,"PRAÇA W3 NORTE, 946, sala 20, ASA NORTE, Brasília",DF,Brasília,2025-11-09 05:12:34
+659,"ALAMEDA AFONSO PENA, 3461, , CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-10 17:48:34
+660,"ESTRADA DO COMERCIO, 435, , SAO JOSE, Recife",PE,Recife,2025-11-20 12:01:34
+661,"ALAMEDA PAULISTA, 2053, BELA VISTA, São Paulo",SP,São Paulo,2025-10-31 19:05:34
+662,"Travessa sao joao, 4434",SP,São Paulo,2025-10-31 06:43:34
+663,"TRAVESSA EIXO MONUMENTAL, 4598, ASA NORTE",DF,Brasília,2025-11-19 03:59:34
+664,"RUA SAO JOAO, 3126, REPUBLICA",SP,São Paulo,2025-11-12 23:29:34
+665,"RUA EIXO MONUMENTAL, 107, próximo ao mercado, ASA NORTE, Brasília",DF,Brasília,2025-11-20 00:54:34
+666,"TRAVESSA BAHIA, 3013, bloco B, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-08 21:11:34
+667,"TRAVESSA REBOUCAS, 2410, PINHEIROS",SP,São Paulo,2025-11-20 23:45:34
+668,"estrada quinze de novembro, 4210",SP,São Paulo,2025-11-25 07:32:34
+669,"ALAMEDA EIXO MONUMENTAL, 1066, ASA NORTE, Brasília",DF,Brasília,2025-11-08 12:49:34
+670,"LARGO boavista, 1269",PE,Recife,2025-10-28 10:11:34
+671,"ALAMEDA OSWALDO CRUZ, 4019, bloco B, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-09 09:45:34
+672,"entregar na travessa boa viagem, 1507 , boa viagem",PE,Recife,2025-11-01 04:39:34
+673,"viela afonso pena, 754, centro",MG,Belo Horizonte,2025-11-19 14:07:34
+674,"praça boavista, 2956, boa viagem",PE,Recife,2025-11-20 01:16:34
+675,"RUA DOS ANDRADAS, 940, próximo ao mercado, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-12 12:52:34
+676,"RUA IPIRANGA, 2630, REPUBLICA",SP,São Paulo,2025-10-28 17:25:34
+677,"entregar na alameda nove de julho, 203 próximo ao mercado, republica",SP,São Paulo,2025-11-10 04:21:34
+678,"RUA BORGES DE MEDEIROS, 2429, perto da praça, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-16 04:44:34
+679,"entregar na estrada presidente vargas, 4408 , centro",RJ,Rio de Janeiro,2025-11-06 18:36:34
+680,"VIELA CONSOLACAO, 852, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-08 21:53:34
+681,"avenida amazonas, 1260",MG,Belo Horizonte,2025-11-04 10:47:34
+682,"AVENIDA RIO BRANCO, 445, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 12:14:34
+683,"TRAVESSA COPACABANA, 2119, COPACABANA",RJ,Rio de Janeiro,2025-11-14 06:09:34
+684,"VIELA agamenon magalhaes, 2592",PE,Recife,2025-11-05 17:15:34
+685,"Av do ouvidor, 4798",RJ,Rio de Janeiro,2025-10-30 18:27:34
+686,"AVENIDA PROTASIO ALVES, 2375, sala 10, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-07 18:31:34
+687,"VIELA BAHIA, 3237, , CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-11 15:15:34
+688,"ESTRADA BRIGADEIRO FARIA LIMA, 3204, bloco A, ITAM BIBI, São Paulo",SP,São Paulo,2025-11-17 00:40:34
+689,"entregar na praça marques de itu, 92 ao lado da escola, vila buarque",SP,São Paulo,2025-11-22 17:47:34
+690,"entregar na viela do ouvidor, 4401 , centro",RJ,Rio de Janeiro,2025-11-17 14:02:34
+691,"TRAVESSA DA AURORA, 3381, ao lado da escola, BOA VISTA, Recife",PE,Recife,2025-11-22 15:38:34
+692,"Al brigadeiro faria lima, 1592",SP,São Paulo,2025-11-05 01:55:34
+693,"LARGO oswaldo cruz, 4503",RJ,Rio de Janeiro,2025-11-05 18:33:34
+694,"TRAVESSA PRESIDENTE VARGAS, 4757, CENTRO",RJ,Rio de Janeiro,2025-10-27 10:27:34
+695,"travessa uruguaiana, 820, centro",RJ,Rio de Janeiro,2025-11-07 17:52:34
+696,"PRAÇA REBOUCAS, 3981, PINHEIROS",SP,São Paulo,2025-11-16 01:07:34
+697,"entregar na estrada marques de itu, 4634 próximo ao mercado, vila buarque",SP,São Paulo,2025-11-01 10:22:34
+698,"RUA PAULISTA, 2566, BELA VISTA, São Paulo",SP,São Paulo,2025-11-01 13:04:34
+699,"ALAMEDA AMAZONAS, 2945, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-04 21:28:34
+700,"largo dos andradas, 3649, centro",RS,Porto Alegre,2025-11-02 11:18:34
+701,"AVENIDA EIXO MONUMENTAL, 1440, ao lado da escola, ASA NORTE, Brasília",DF,Brasília,2025-11-24 11:55:34
+702,"TRAVESSA URUGUAIANA, 2157, perto do metrô, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-23 21:45:34
+703,"entregar na rua das flores, 4767 em frente ao banco, jardim",RJ,Rio de Janeiro,2025-11-02 02:36:34
+704,"entregar na alameda atlantica, 4453 em frente ao banco, copacabana",RJ,Rio de Janeiro,2025-11-06 16:26:34
+705,"TRAVESSA AGAMENON MAGALHAES, 4831, próximo ao mercado, DERBY, Recife",PE,Recife,2025-11-22 06:17:34
+706,"avenida protasio alves, 3251, petropolis",RS,Porto Alegre,2025-11-10 20:07:34
+707,"ESTRADA IPIRANGA, 4212, REPUBLICA, São Paulo",SP,São Paulo,2025-11-12 15:38:34
+708,"LARGO setembro, 2940",RJ,Rio de Janeiro,2025-11-02 05:35:34
+709,"ALAMEDA COPACABANA, 3027, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-24 23:36:34
+710,"PRAÇA W3 SUL, 3180, ASA SUL",DF,Brasília,2025-10-28 05:53:34
+711,"RUA atlantica, 2655",RJ,Rio de Janeiro,2025-11-06 11:56:34
+712,"ESTRADA NOVE DE JULHO, 3086, em frente ao banco, REPUBLICA, São Paulo",SP,São Paulo,2025-11-15 02:08:34
+713,"ALAMEDA COPACABANA, 3083, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-10 08:27:34
+714,"entregar na largo da aurora, 3950 , boa vista",PE,Recife,2025-11-10 16:21:34
+715,"entregar na travessa paulista, 632 perto do metrô, bela vista",SP,São Paulo,2025-11-18 14:40:34
+716,"entregar na estrada quinze de novembro, 2968 perto do metrô, centro",SP,São Paulo,2025-10-31 17:07:34
+717,"VIELA BRIGADEIRO FARIA LIMA, 2706, , ITAM BIBI, São Paulo",SP,São Paulo,2025-11-10 23:19:34
+718,"TRAVESSA DOS ANDRADAS, 4840, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-06 07:48:34
+719,"entregar na rua ipiranga, 1048 ao lado da escola, republica",SP,São Paulo,2025-11-21 16:09:34
+720,"RUA PROTASIO ALVES, 4689, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-25 15:33:34
+721,"entregar na viela quinze de novembro, 4910 perto do metrô, centro",SP,São Paulo,2025-11-25 21:03:34
+722,"AVENIDA SAO JOAO, 1775, REPUBLICA",SP,São Paulo,2025-11-07 04:54:34
+723,"ESTRADA DOS ANDRADAS, 1798, loja 1, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-07 15:59:34
+724,"ALAMEDA QUINZE DE NOVEMBRO, 1374, perto do metrô, CENTRO, São Paulo",SP,São Paulo,2025-11-16 06:11:34
+725,"TRAVESSA COPACABANA, 3099, COPACABANA",RJ,Rio de Janeiro,2025-11-22 17:48:34
+726,"entregar na viela reboucas, 1226 , pinheiros",SP,São Paulo,2025-11-21 04:52:34
+727,"AVENIDA ATLANTICA, 764, COPACABANA",RJ,Rio de Janeiro,2025-11-05 15:52:34
+728,"entregar na rua w3 norte, 3535 em frente ao banco, asa norte",DF,Brasília,2025-11-15 19:05:34
+729,"VIELA W3 SUL, 1880, loja 2, ASA SUL, Brasília",DF,Brasília,2025-11-01 08:27:34
+730,"viela presidente vargas, 1097, centro",RJ,Rio de Janeiro,2025-11-11 12:51:34
+731,"entregar na alameda rio branco, 4902 em frente ao banco, centro",RJ,Rio de Janeiro,2025-11-18 14:49:34
+732,"avenida do ouvidor, 4258",RJ,Rio de Janeiro,2025-11-06 14:05:34
+733,"VIELA boa viagem, 2968",PE,Recife,2025-11-13 00:12:34
+734,"ALAMEDA NOVE DE JULHO, 4392, REPUBLICA",SP,São Paulo,2025-11-08 09:10:34
+735,"VIELA VINTE E TRES DE MAIO, 1669, LIBERDADE",SP,São Paulo,2025-11-09 03:19:34
+736,"entregar na praça quinze de novembro, 4581 em frente ao banco, centro",SP,São Paulo,2025-11-18 11:13:34
+737,"VIELA DA AURORA, 1132, apto 101, BOA VISTA, Recife",PE,Recife,2025-11-03 13:21:34
+738,"entregar na avenida paulista, 1757 em frente ao banco, bela vista",SP,São Paulo,2025-11-01 09:58:34
+739,"RUA EIXO MONUMENTAL, 1317, ASA NORTE",DF,Brasília,2025-10-27 00:49:34
+740,"entregar na estrada rio branco, 3864 em frente ao banco, centro",RJ,Rio de Janeiro,2025-11-24 18:33:34
+741,"entregar na praça brigadeiro faria lima, 656 , itam bibi",SP,São Paulo,2025-11-03 07:50:34
+742,"Al agamenon magalhaes, 4895",PE,Recife,2025-11-06 05:21:34
+743,"travessa do ouvidor, 4245, centro",RJ,Rio de Janeiro,2025-11-20 18:59:34
+744,"TRAVESSA PROTASIO ALVES, 1389, , PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-15 13:08:34
+745,"estrada do ouvidor, 712, centro",RJ,Rio de Janeiro,2025-11-02 08:27:34
+746,"VIELA AGAMENON MAGALHAES, 4802, DERBY, Recife",PE,Recife,2025-11-10 20:02:34
+747,"avenida copacabana, 4503, copacabana",RJ,Rio de Janeiro,2025-11-03 02:51:34
+748,"PRAÇA DA AURORA, 2266, BOA VISTA, Recife",PE,Recife,2025-11-07 14:20:34
+749,"RUA AGAMENON MAGALHAES, 2139, DERBY, Recife",PE,Recife,2025-11-13 04:43:34
+750,"avenida eixo monumental, 4122, asa norte",DF,Brasília,2025-11-16 16:58:34
+751,"ALAMEDA PROTASIO ALVES, 4407, bloco B, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-17 22:21:34
+752,"LARGO DO COMERCIO, 1993, sala 20, SAO JOSE, Recife",PE,Recife,2025-10-27 06:06:34
+753,"Rua tupis, 3949",MG,Belo Horizonte,2025-11-24 08:09:34
+754,"TRAVESSA BRIGADEIRO FARIA LIMA, 2587, ITAM BIBI",SP,São Paulo,2025-10-27 09:16:34
+755,"RUA W3 NORTE, 2158, ASA NORTE, Brasília",DF,Brasília,2025-11-17 18:24:34
+756,"AVENIDA BOAVISTA, 4543, BOA VIAGEM, Recife",PE,Recife,2025-11-11 10:27:34
+757,"ALAMEDA CONSOLACAO, 1498, perto do metrô, CONSOLACAO, São Paulo",SP,São Paulo,2025-10-28 14:18:34
+758,"TRAVESSA REBOUCAS, 1983, sala 10, PINHEIROS, São Paulo",SP,São Paulo,2025-11-20 13:37:34
+759,"PRAÇA IPIRANGA, 1278, apto 101, REPUBLICA, São Paulo",SP,São Paulo,2025-11-23 18:06:34
+760,"rua borges de medeiros, 4436",RS,Porto Alegre,2025-11-15 01:29:34
+761,"ALAMEDA BORGES DE MEDEIROS, 4021, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-02 04:32:34
+762,"TRAVESSA AGAMENON MAGALHAES, 4725, DERBY, Recife",PE,Recife,2025-11-25 03:58:34
+763,"LARGO amazonas, 4430",MG,Belo Horizonte,2025-11-13 23:00:34
+764,"LARGO QUINZE DE NOVEMBRO, 987, ao lado da escola, CENTRO, São Paulo",SP,São Paulo,2025-11-12 10:05:34
+765,"RUA DO OUVIDOR, 1727, CENTRO",RJ,Rio de Janeiro,2025-11-08 17:29:34
+766,"entregar na alameda conde da boa vista, 1534 próximo ao mercado, derby",PE,Recife,2025-11-19 12:19:34
+767,"PRAÇA BOAVISTA, 1507, BOA VIAGEM",PE,Recife,2025-11-13 14:23:34
+768,"praça conde da boa vista, 3282, derby",PE,Recife,2025-11-12 15:13:34
+769,"TRAVESSA URUGUAIANA, 819, próximo ao mercado, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 13:14:34
+770,"VIELA AMAZONAS, 1607, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-31 21:40:34
+771,"RUA DOS ANDRADAS, 1447, CENTRO",RS,Porto Alegre,2025-11-11 15:52:34
+772,"praça w3 sul, 3987, asa sul",DF,Brasília,2025-11-18 02:55:34
+773,"VIELA OSWALDO CRUZ, 811, perto da praça, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-25 13:57:34
+774,"LARGO NOVE DE JULHO, 789, REPUBLICA",SP,São Paulo,2025-11-03 10:33:34
+775,"entregar na praça conde da boa vista, 4591 próximo ao mercado, derby",PE,Recife,2025-11-15 20:23:34
+776,"PRAÇA PRIMEIRO DE MARÇO, 4961, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 02:08:34
+777,"estrada w3 norte, 2332, asa norte",DF,Brasília,2025-11-15 23:17:34
+778,"LARGO BORGES DE MEDEIROS, 643, CENTRO",RS,Porto Alegre,2025-11-07 11:20:34
+779,"ESTRADA SETEMBRO, 2764, CENTRO",RJ,Rio de Janeiro,2025-11-06 01:13:34
+780,"AVENIDA AGAMENON MAGALHAES, 649, DERBY, Recife",PE,Recife,2025-11-16 13:29:34
+781,"entregar na alameda boa viagem, 2192 perto do metrô, boa viagem",PE,Recife,2025-11-14 11:53:34
+782,"entregar na praça bahia, 4809 em frente ao banco, centro",MG,Belo Horizonte,2025-11-13 15:38:34
+783,"ESTRADA DAS FLORES, 1923, próximo ao mercado, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-26 21:05:34
+784,"TRAVESSA RIO BRANCO, 1368, CENTRO",RJ,Rio de Janeiro,2025-11-23 17:45:34
+785,"RUA DOS ANDRADAS, 216, loja 1, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-10 18:43:34
+786,"ESTRADA NOVE DE JULHO, 691, em frente ao banco, REPUBLICA, São Paulo",SP,São Paulo,2025-11-17 13:34:34
+787,"LARGO SAO JOAO, 1036, REPUBLICA, São Paulo",SP,São Paulo,2025-11-10 15:48:34
+788,"PRAÇA ATLANTICA, 2665, loja 2, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-12 02:50:34
+789,"LARGO VINTE E TRES DE MAIO, 1107, ao lado da escola, LIBERDADE, São Paulo",SP,São Paulo,2025-11-21 02:11:34
+790,"VIELA TUPIS, 4289, perto do metrô, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-09 10:51:34
+791,"LARGO DA AURORA, 4421, BOA VISTA, Recife",PE,Recife,2025-11-01 18:21:34
+792,"praça marques de itu, 3377, vila buarque",SP,São Paulo,2025-11-22 11:49:34
+793,"estrada do ouvidor, 2818, centro",RJ,Rio de Janeiro,2025-11-11 03:49:34
+794,"LARGO borges de medeiros, 2455",RS,Porto Alegre,2025-11-01 11:11:34
+795,"rua brigadeiro faria lima, 4491, itam bibi",SP,São Paulo,2025-11-20 06:53:34
+796,"VIELA EIXO MONUMENTAL, 3234, ASA NORTE, Brasília",DF,Brasília,2025-11-20 22:02:34
+797,"viela do comercio, 1808, sao jose",PE,Recife,2025-11-24 07:09:34
+798,"ALAMEDA IPIRANGA, 2333, perto do metrô, REPUBLICA, São Paulo",SP,São Paulo,2025-11-09 12:23:34
+799,"AVENIDA REBOUCAS, 1495, PINHEIROS, São Paulo",SP,São Paulo,2025-11-17 17:09:34
+800,"LARGO TUPIS, 2230, ao lado da escola, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-11 14:29:34
+801,"entregar na estrada das flores, 407 , jardim",RJ,Rio de Janeiro,2025-11-21 17:31:34
+802,"ESTRADA VINTE E TRES DE MAIO, 3592, , LIBERDADE, São Paulo",SP,São Paulo,2025-11-19 18:40:34
+803,"largo do ouvidor, 1780, centro",RJ,Rio de Janeiro,2025-11-13 10:59:34
+804,"PRAÇA BORGES DE MEDEIROS, 3799, , CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-16 17:56:34
+805,"RUA SETEMBRO, 2184, loja 1, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-24 03:19:34
+806,"TRAVESSA QUINZE DE NOVEMBRO, 2049, loja 1, CENTRO, São Paulo",SP,São Paulo,2025-10-31 20:42:34
+807,"VIELA IPIRANGA, 3629, REPUBLICA, São Paulo",SP,São Paulo,2025-11-03 19:37:34
+808,"AVENIDA TUPIS, 4270, perto da praça, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-11 08:06:34
+809,"PRAÇA MARQUES DE ITU, 1300, perto do metrô, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-24 20:50:34
+810,"AVENIDA EIXO MONUMENTAL, 2076, ASA NORTE",DF,Brasília,2025-11-06 11:37:34
+811,"R conde da boa vista, 1785",PE,Recife,2025-11-06 07:29:34
+812,"entregar na estrada do ouvidor, 2262 , centro",RJ,Rio de Janeiro,2025-11-14 13:49:34
+813,"LARGO ATLANTICA, 4885, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 18:34:34
+814,"LARGO PAULISTA, 749, ao lado da escola, BELA VISTA, São Paulo",SP,São Paulo,2025-11-16 00:46:34
+815,"PRAÇA OSWALDO CRUZ, 1261, ao lado da escola, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 17:41:34
+816,"entregar na travessa borges de medeiros, 2595 perto do metrô, centro",RS,Porto Alegre,2025-11-02 08:58:34
+817,"TRAVESSA BAHIA, 175, em frente ao banco, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-14 21:41:34
+818,"RUA NOVE DE JULHO, 3976, em frente ao banco, REPUBLICA, São Paulo",SP,São Paulo,2025-11-09 11:15:34
+819,"TRAVESSA BORGES DE MEDEIROS, 4643, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-09 09:29:34
+820,"ALAMEDA TUPIS, 4905, bloco A, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-21 18:16:34
+821,"LARGO SETEMBRO, 2423, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-09 09:20:34
+822,"VIELA do ouvidor, 1520",RJ,Rio de Janeiro,2025-11-02 01:34:34
+823,"AVENIDA BOA VIAGEM, 4416, loja 1, BOA VIAGEM, Recife",PE,Recife,2025-11-20 04:06:34
+824,"estrada borges de medeiros, 2320, centro",RS,Porto Alegre,2025-11-13 00:29:34
+825,"AVENIDA PRIMEIRO DE MARÇO, 4287, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-25 16:38:34
+826,"TRAVESSA ATLANTICA, 877, COPACABANA",RJ,Rio de Janeiro,2025-11-20 17:47:34
+827,"entregar na largo do comercio, 4308 perto do metrô, sao jose",PE,Recife,2025-11-08 12:46:34
+828,"TRAVESSA CONDE DA BOA VISTA, 4964, , DERBY, Recife",PE,Recife,2025-11-26 14:08:34
+829,"AVENIDA BORGES DE MEDEIROS, 3835, , CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-15 03:02:34
+830,"PRAÇA AFONSO PENA, 478, bloco B, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-18 04:47:34
+831,"ALAMEDA COPACABANA, 639, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-27 04:43:34
+832,"TRAVESSA PRESIDENTE VARGAS, 4356, CENTRO",RJ,Rio de Janeiro,2025-11-20 14:16:34
+833,"ESTRADA IPIRANGA, 4575, ao lado da escola, REPUBLICA, São Paulo",SP,São Paulo,2025-11-12 21:43:34
+834,"LARGO da aurora, 3499",PE,Recife,2025-11-01 15:14:34
+835,"entregar na praça agamenon magalhaes, 1296 ao lado da escola, derby",PE,Recife,2025-11-12 08:52:34
+836,"PRAÇA BOA VIAGEM, 3046, BOA VIAGEM",PE,Recife,2025-11-02 00:22:34
+837,"entregar na travessa boa viagem, 4614 perto da praça, boa viagem",PE,Recife,2025-11-14 02:50:34
+838,"PRAÇA NOVE DE JULHO, 3707, REPUBLICA",SP,São Paulo,2025-10-27 08:49:34
+839,"Al atlantica, 4881",RJ,Rio de Janeiro,2025-10-29 11:49:34
+840,"TRAVESSA MARQUES DE ITU, 1760, sala 20, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-25 21:57:34
+841,"estrada vinte e tres de maio, 773",SP,São Paulo,2025-11-15 16:41:34
+842,"PRAÇA NOVE DE JULHO, 4770, REPUBLICA, São Paulo",SP,São Paulo,2025-11-19 11:58:34
+843,"AVENIDA MARQUES DE ITU, 4674, VILA BUARQUE",SP,São Paulo,2025-11-08 14:03:34
+844,"PRAÇA COPACABANA, 3953, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-10 22:05:34
+845,"ALAMEDA PRESIDENTE VARGAS, 307, ao lado da escola, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-14 18:00:34
+846,"PRAÇA OSWALDO CRUZ, 2851, loja 1, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-13 16:54:34
+847,"Rua brigadeiro faria lima, 3134",SP,São Paulo,2025-11-10 19:29:34
+848,"entregar na estrada w3 norte, 2678 perto do metrô, asa norte",DF,Brasília,2025-11-19 16:46:34
+849,"entregar na largo agamenon magalhaes, 4876 ao lado da escola, derby",PE,Recife,2025-11-24 13:22:34
+850,"VIELA SAO JOAO, 1213, REPUBLICA, São Paulo",SP,São Paulo,2025-11-16 18:19:34
+851,"VIELA oswaldo cruz, 2151",RJ,Rio de Janeiro,2025-11-10 07:00:34
+852,"entregar na estrada uruguaiana, 3940 perto da praça, centro",RJ,Rio de Janeiro,2025-11-11 08:08:34
+853,"Travessa reboucas, 1986",SP,São Paulo,2025-11-02 07:29:34
+854,"AVENIDA RIO BRANCO, 3389, CENTRO",RJ,Rio de Janeiro,2025-11-15 09:37:34
+855,"PRAÇA BOA VIAGEM, 4866, , BOA VIAGEM, Recife",PE,Recife,2025-11-02 11:39:34
+856,"LARGO DA AURORA, 1195, BOA VISTA",PE,Recife,2025-11-25 13:37:34
+857,"Est. conde da boa vista, 703",PE,Recife,2025-11-19 00:50:34
+858,"alameda setembro, 113, centro",RJ,Rio de Janeiro,2025-11-04 17:30:34
+859,"largo bahia, 187, centro",MG,Belo Horizonte,2025-11-19 21:15:34
+860,"entregar na travessa consolacao, 4477 próximo ao mercado, consolacao",SP,São Paulo,2025-11-09 05:10:34
+861,"entregar na rua setembro, 3086 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-10 19:33:34
+862,"RUA PAULISTA, 2327, BELA VISTA, São Paulo",SP,São Paulo,2025-10-31 22:10:34
+863,"RUA VINTE E TRES DE MAIO, 3809, , LIBERDADE, São Paulo",SP,São Paulo,2025-11-24 08:07:34
+864,"Praça vinte e tres de maio, 884",SP,São Paulo,2025-10-30 00:25:34
+865,"VIELA BRIGADEIRO FARIA LIMA, 4166, , ITAM BIBI, São Paulo",SP,São Paulo,2025-10-29 10:18:34
+866,"AVENIDA W3 NORTE, 1528, ASA NORTE, Brasília",DF,Brasília,2025-11-10 06:14:34
+867,"entregar na rua das flores, 2027 próximo ao mercado, jardim",RJ,Rio de Janeiro,2025-11-16 05:24:34
+868,"RUA PAULISTA, 2841, próximo ao mercado, BELA VISTA, São Paulo",SP,São Paulo,2025-11-15 00:30:34
+869,"ALAMEDA IPIRANGA, 508, próximo ao mercado, REPUBLICA, São Paulo",SP,São Paulo,2025-10-29 07:53:34
+870,"ALAMEDA DAS FLORES, 1848, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-16 08:07:34
+871,"entregar na avenida uruguaiana, 3132 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-07 00:06:34
+872,"entregar na viela brigadeiro faria lima, 1970 perto da praça, itam bibi",SP,São Paulo,2025-11-13 10:51:34
+873,"LARGO BOAVISTA, 4442, BOA VIAGEM, Recife",PE,Recife,2025-11-20 00:41:34
+874,"travessa w3 norte, 1132, asa norte",DF,Brasília,2025-11-03 21:52:34
+875,"ESTRADA W3 SUL, 3524, apto 201, ASA SUL, Brasília",DF,Brasília,2025-11-06 01:51:34
+876,"entregar na praça paulista, 556 ao lado da escola, bela vista",SP,São Paulo,2025-10-26 21:42:34
+877,"PRAÇA QUINZE DE NOVEMBRO, 1193, , CENTRO, São Paulo",SP,São Paulo,2025-11-02 09:53:34
+878,"VIELA AFONSO PENA, 2486, CENTRO",MG,Belo Horizonte,2025-11-02 23:50:34
+879,"Est vinte e tres de maio, 1540",SP,São Paulo,2025-11-21 20:01:34
+880,"TRAVESSA VINTE E TRES DE MAIO, 4886, LIBERDADE, São Paulo",SP,São Paulo,2025-11-18 23:48:34
+881,"AVENIDA DA AURORA, 3905, BOA VISTA, Recife",PE,Recife,2025-11-10 01:19:34
+882,"ESTRADA CONDE DA BOA VISTA, 3175, DERBY",PE,Recife,2025-11-11 16:39:34
+883,"TRAVESSA REBOUCAS, 265, PINHEIROS",SP,São Paulo,2025-11-02 19:50:34
+884,"VIELA VINTE E TRES DE MAIO, 1824, perto do metrô, LIBERDADE, São Paulo",SP,São Paulo,2025-11-20 14:45:34
+885,"LARGO QUINZE DE NOVEMBRO, 4014, próximo ao mercado, CENTRO, São Paulo",SP,São Paulo,2025-10-30 05:53:34
+886,"VIELA IPIRANGA, 3317, , REPUBLICA, São Paulo",SP,São Paulo,2025-11-06 20:57:34
+887,"entregar na praça do comercio, 3229 perto do metrô, sao jose",PE,Recife,2025-11-08 01:15:34
+888,"rua w3 sul, 4266",DF,Brasília,2025-11-12 18:53:34
+889,"entregar na viela ipiranga, 322 em frente ao banco, republica",SP,São Paulo,2025-11-10 00:46:34
+890,"ALAMEDA REBOUCAS, 3601, PINHEIROS",SP,São Paulo,2025-10-29 11:00:34
+891,"LARGO SAO JOAO, 1364, REPUBLICA",SP,São Paulo,2025-11-17 00:51:34
+892,"ESTRADA OSWALDO CRUZ, 3798, loja 2, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-23 21:17:34
+893,"ESTRADA PRIMEIRO DE MARÇO, 4796, ao lado da escola, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-22 08:23:34
+894,"LARGO BOA VIAGEM, 205, BOA VIAGEM, Recife",PE,Recife,2025-11-12 01:52:34
+895,"largo reboucas, 739, pinheiros",SP,São Paulo,2025-11-15 22:08:34
+896,"Av paulista, 748",SP,São Paulo,2025-11-12 00:26:34
+897,"entregar na viela rio branco, 4192 perto da praça, centro",RJ,Rio de Janeiro,2025-11-14 03:25:34
+898,"entregar na estrada atlantica, 2746 perto do metrô, copacabana",RJ,Rio de Janeiro,2025-10-30 16:39:34
+899,"ESTRADA SETEMBRO, 421, CENTRO",RJ,Rio de Janeiro,2025-11-17 11:03:34
+900,"Al bahia, 1481",MG,Belo Horizonte,2025-10-27 14:49:34
+901,"RUA NOVE DE JULHO, 3758, REPUBLICA",SP,São Paulo,2025-10-30 05:15:34
+902,"LARGO DO OUVIDOR, 1949, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 23:19:34
+903,"VIELA tupis, 3620",MG,Belo Horizonte,2025-11-19 03:32:34
+904,"TRAVESSA EIXO MONUMENTAL, 401, ASA NORTE, Brasília",DF,Brasília,2025-11-22 19:08:34
+905,"RUA DA AURORA, 1191, , BOA VISTA, Recife",PE,Recife,2025-11-05 01:56:34
+906,"Pç. marques de itu, 719",SP,São Paulo,2025-11-13 15:39:34
+907,"ESTRADA SAO JOAO, 3731, ao lado da escola, REPUBLICA, São Paulo",SP,São Paulo,2025-11-15 19:44:34
+908,"PRAÇA MARQUES DE ITU, 3020, VILA BUARQUE",SP,São Paulo,2025-10-31 18:01:34
+909,"AVENIDA AMAZONAS, 2399, CENTRO",MG,Belo Horizonte,2025-11-22 17:05:34
+910,"PRAÇA VINTE E TRES DE MAIO, 4318, LIBERDADE",SP,São Paulo,2025-11-10 14:05:34
+911,"entregar na rua consolacao, 896 perto do metrô, consolacao",SP,São Paulo,2025-11-06 04:44:34
+912,"entregar na alameda dos andradas, 3499 próximo ao mercado, centro",RS,Porto Alegre,2025-11-18 04:13:34
+913,"ESTRADA DA AURORA, 4610, BOA VISTA",PE,Recife,2025-11-09 21:09:34
+914,"entregar na largo borges de medeiros, 1474 perto da praça, centro",RS,Porto Alegre,2025-11-04 11:37:34
+915,"AVENIDA DO OUVIDOR, 197, CENTRO",RJ,Rio de Janeiro,2025-11-06 17:02:34
+916,"VIELA consolacao, 3392",SP,São Paulo,2025-11-15 02:58:34
+917,"RUA CONSOLACAO, 1649, próximo ao mercado, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-18 18:30:34
+918,"Praça marques de itu, 51",SP,São Paulo,2025-11-16 08:03:34
+919,"estrada das flores, 1590, jardim",RJ,Rio de Janeiro,2025-10-31 09:50:34
+920,"LARGO DOS ANDRADAS, 292, perto da praça, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-11 16:09:34
+921,"PRAÇA TUPIS, 3789, loja 1, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-27 21:46:34
+922,"ALAMEDA W3 SUL, 4629, perto do metrô, ASA SUL, Brasília",DF,Brasília,2025-11-16 03:15:34
+923,"TRAVESSA DAS FLORES, 4731, próximo ao mercado, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 09:45:34
+924,"alameda setembro, 256, centro",RJ,Rio de Janeiro,2025-11-14 00:15:34
+925,"entregar na viela paulista, 1536 , bela vista",SP,São Paulo,2025-10-30 11:04:34
+926,"RUA BOA VIAGEM, 2225, BOA VIAGEM",PE,Recife,2025-11-24 04:53:34
+927,"PRAÇA IPIRANGA, 3703, sala 10, REPUBLICA, São Paulo",SP,São Paulo,2025-11-20 04:30:34
+928,"AVENIDA QUINZE DE NOVEMBRO, 3066, , CENTRO, São Paulo",SP,São Paulo,2025-11-02 13:51:34
+929,"LARGO rio branco, 4146",RJ,Rio de Janeiro,2025-10-29 04:40:34
+930,"PRAÇA REBOUCAS, 3961, ao lado da escola, PINHEIROS, São Paulo",SP,São Paulo,2025-11-17 10:40:34
+931,"ESTRADA PRESIDENTE VARGAS, 1681, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-12 08:04:34
+932,"avenida w3 sul, 34, asa sul",DF,Brasília,2025-10-28 19:06:34
+933,"Pç. rio branco, 3825",RJ,Rio de Janeiro,2025-11-09 23:02:34
+934,"RUA MARQUES DE ITU, 4732, sala 10, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-06 14:29:34
+935,"travessa reboucas, 2348, pinheiros",SP,São Paulo,2025-11-09 10:00:34
+936,"AVENIDA BAHIA, 2234, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-21 12:42:34
+937,"entregar na avenida do ouvidor, 1693 próximo ao mercado, centro",RJ,Rio de Janeiro,2025-11-09 10:32:34
+938,"ALAMEDA SETEMBRO, 4703, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-21 18:30:34
+939,"LARGO BOAVISTA, 416, BOA VIAGEM, Recife",PE,Recife,2025-11-26 04:52:34
+940,"Av. oswaldo cruz, 3143",RJ,Rio de Janeiro,2025-11-13 08:38:34
+941,"praça bahia, 2560, centro",MG,Belo Horizonte,2025-10-31 14:04:34
+942,"entregar na avenida w3 norte, 3815 perto da praça, asa norte",DF,Brasília,2025-11-23 22:20:34
+943,"LARGO PRESIDENTE VARGAS, 2543, perto do metrô, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-04 06:19:34
+944,"TRAVESSA BRIGADEIRO FARIA LIMA, 1178, bloco B, ITAM BIBI, São Paulo",SP,São Paulo,2025-11-18 09:24:34
+945,"PRAÇA QUINZE DE NOVEMBRO, 2661, CENTRO",SP,São Paulo,2025-11-11 20:45:34
+946,"AVENIDA DOS ANDRADAS, 2880, CENTRO",RS,Porto Alegre,2025-11-12 15:31:34
+947,"estrada da aurora, 4162",PE,Recife,2025-10-30 21:59:34
+948,"PRAÇA PRESIDENTE VARGAS, 4556, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 11:15:34
+949,"VIELA TUPIS, 4838, CENTRO",MG,Belo Horizonte,2025-11-19 01:34:34
+950,"ESTRADA EIXO MONUMENTAL, 3952, ASA NORTE",DF,Brasília,2025-11-24 10:36:34
+951,"VIELA AMAZONAS, 4647, sala 20, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-08 22:34:34
+952,"AVENIDA QUINZE DE NOVEMBRO, 4704, loja 2, CENTRO, São Paulo",SP,São Paulo,2025-11-23 02:11:34
+953,"praça tupis, 4548",MG,Belo Horizonte,2025-11-21 11:24:34
+954,"AVENIDA COPACABANA, 4886, loja 1, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-16 05:08:34
+955,"AVENIDA OSWALDO CRUZ, 1783, apto 201, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 01:52:34
+956,"ESTRADA DO OUVIDOR, 1223, CENTRO",RJ,Rio de Janeiro,2025-11-09 11:25:34
+957,"TRAVESSA BAHIA, 1685, próximo ao mercado, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-17 01:59:34
+958,"VIELA marques de itu, 2821",SP,São Paulo,2025-11-07 04:24:34
+959,"alameda uruguaiana, 512, centro",RJ,Rio de Janeiro,2025-10-29 03:46:34
+960,"PRAÇA DO OUVIDOR, 899, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-30 20:34:34
+961,"VIELA AMAZONAS, 2607, em frente ao banco, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-14 08:22:34
+962,"TRAVESSA W3 NORTE, 1421, ASA NORTE",DF,Brasília,2025-11-22 14:14:34
+963,"PRAÇA DO COMERCIO, 3418, SAO JOSE, Recife",PE,Recife,2025-11-16 23:41:34
+964,"RUA URUGUAIANA, 588, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-21 20:53:34
+965,"VIELA borges de medeiros, 1113",RS,Porto Alegre,2025-11-06 06:54:34
+966,"VIELA TUPIS, 1473, CENTRO",MG,Belo Horizonte,2025-11-10 07:14:34
+967,"VIELA BAHIA, 2911, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-21 07:11:34
+968,"LARGO DO OUVIDOR, 1940, ao lado da escola, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-18 06:50:34
+969,"praça w3 norte, 275",DF,Brasília,2025-11-04 09:42:34
+970,"AVENIDA DOS ANDRADAS, 1164, perto do metrô, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-10 12:20:34
+971,"entregar na avenida w3 sul, 4288 , asa sul",DF,Brasília,2025-11-19 05:09:34
+972,"alameda copacabana, 433, copacabana",RJ,Rio de Janeiro,2025-11-09 20:19:34
+973,"LARGO TUPIS, 4702, próximo ao mercado, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-13 08:58:34
+974,"Alameda sao joao, 1373",SP,São Paulo,2025-11-03 02:33:34
+975,"LARGO OSWALDO CRUZ, 4737, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 19:07:34
+976,"RUA SAO JOAO, 2350, REPUBLICA",SP,São Paulo,2025-11-24 16:17:34
+977,"ALAMEDA COPACABANA, 2065, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 12:32:34
+978,"entregar na rua nove de julho, 914 perto da praça, republica",SP,São Paulo,2025-10-28 02:02:34
+979,"LARGO SETEMBRO, 3030, apto 201, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-17 22:34:34
+980,"ESTRADA BORGES DE MEDEIROS, 4321, , CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-16 18:40:34
+981,"LARGO SETEMBRO, 3383, loja 1, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-18 23:21:34
+982,"TRAVESSA PAULISTA, 4733, próximo ao mercado, BELA VISTA, São Paulo",SP,São Paulo,2025-11-25 00:33:34
+983,"RUA PRIMEIRO DE MARÇO, 1373, CENTRO",RJ,Rio de Janeiro,2025-11-14 05:30:34
+984,"TRAVESSA DOS ANDRADAS, 3112, perto do metrô, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-14 05:33:34
+985,"viela setembro, 98, centro",RJ,Rio de Janeiro,2025-10-28 06:25:34
+986,"entregar na rua boa viagem, 798 perto do metrô, boa viagem",PE,Recife,2025-11-15 07:10:34
+987,"praça vinte e tres de maio, 2215, liberdade",SP,São Paulo,2025-11-01 17:33:34
+988,"LARGO AGAMENON MAGALHAES, 1981, perto do metrô, DERBY, Recife",PE,Recife,2025-11-08 14:16:34
+989,"entregar na estrada boavista, 2567 , boa viagem",PE,Recife,2025-11-05 19:56:34
+990,"RUA copacabana, 3369",RJ,Rio de Janeiro,2025-11-22 23:21:34
+991,"travessa da aurora, 2321, boa vista",PE,Recife,2025-11-20 19:48:34
+992,"RUA RIO BRANCO, 4868, perto da praça, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-27 01:09:34
+993,"AVENIDA PRIMEIRO DE MARÇO, 708, bloco B, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-22 08:07:34
+994,"avenida quinze de novembro, 1510, centro",SP,São Paulo,2025-11-17 06:07:34
+995,"LARGO COPACABANA, 2265, loja 1, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 23:00:34
+996,"ALAMEDA BOA VIAGEM, 1327, apto 101, BOA VIAGEM, Recife",PE,Recife,2025-11-18 19:25:34
+997,"praça do comercio, 493, sao jose",PE,Recife,2025-10-27 12:38:34
+998,"AVENIDA BAHIA, 4029, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-07 08:38:34
+999,"entregar na avenida borges de medeiros, 1179 em frente ao banco, centro",RS,Porto Alegre,2025-11-20 01:08:34
+1000,"LARGO presidente vargas, 2122",RJ,Rio de Janeiro,2025-11-24 18:13:34
+1001,"LARGO NOVE DE JULHO, 154, REPUBLICA",SP,São Paulo,2025-11-22 00:09:34
+1002,"rua do ouvidor, 3199, centro",RJ,Rio de Janeiro,2025-11-21 22:28:34
+1003,"RUA AGAMENON MAGALHAES, 4223, em frente ao banco, DERBY, Recife",PE,Recife,2025-11-11 07:24:34
+1004,"TRAVESSA COPACABANA, 28, COPACABANA",RJ,Rio de Janeiro,2025-10-26 21:57:34
+1005,"entregar na avenida dos andradas, 4647 próximo ao mercado, centro",RS,Porto Alegre,2025-11-15 23:30:34
+1006,"rua agamenon magalhaes, 743, derby",PE,Recife,2025-11-09 10:44:34
+1007,"ALAMEDA TUPIS, 1664, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-09 19:25:34
+1008,"Alameda reboucas, 3196",SP,São Paulo,2025-11-11 17:53:34
+1009,"Tv bahia, 1147",MG,Belo Horizonte,2025-11-25 21:12:34
+1010,"LARGO ipiranga, 3185",SP,São Paulo,2025-11-11 02:56:34
+1011,"rua bahia, 304, centro",MG,Belo Horizonte,2025-11-25 09:59:34
+1012,"VIELA ATLANTICA, 969, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 00:07:34
+1013,"LARGO W3 SUL, 4396, ASA SUL, Brasília",DF,Brasília,2025-11-03 02:35:34
+1014,"RUA COPACABANA, 1160, COPACABANA",RJ,Rio de Janeiro,2025-11-06 20:19:34
+1015,"Tv atlantica, 1070",RJ,Rio de Janeiro,2025-11-06 18:52:34
+1016,"entregar na avenida marques de itu, 3738 perto da praça, vila buarque",SP,São Paulo,2025-10-31 02:45:34
+1017,"entregar na avenida presidente vargas, 4073 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-19 17:58:34
+1018,"VIELA REBOUCAS, 2764, loja 1, PINHEIROS, São Paulo",SP,São Paulo,2025-11-16 17:06:34
+1019,"ESTRADA W3 NORTE, 2635, apto 301, ASA NORTE, Brasília",DF,Brasília,2025-11-02 19:12:34
+1020,"Praça quinze de novembro, 518",SP,São Paulo,2025-11-22 07:39:34
+1021,"ESTRADA CONDE DA BOA VISTA, 3594, DERBY, Recife",PE,Recife,2025-10-28 02:47:34
+1022,"AVENIDA URUGUAIANA, 3082, apto 201, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-26 05:44:34
+1023,"RUA do ouvidor, 1470",RJ,Rio de Janeiro,2025-10-29 11:23:34
+1024,"ESTRADA DOS ANDRADAS, 1689, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-06 12:16:34
+1025,"VIELA BAHIA, 1960, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-06 22:47:34
+1026,"LARGO QUINZE DE NOVEMBRO, 722, próximo ao mercado, CENTRO, São Paulo",SP,São Paulo,2025-11-15 07:49:34
+1027,"Tv. eixo monumental, 1573",DF,Brasília,2025-11-07 08:54:34
+1028,"TRAVESSA W3 NORTE, 3803, apto 301, ASA NORTE, Brasília",DF,Brasília,2025-11-18 19:37:34
+1029,"ESTRADA PRIMEIRO DE MARÇO, 3887, CENTRO",RJ,Rio de Janeiro,2025-11-21 15:07:34
+1030,"rua atlantica, 2984, copacabana",RJ,Rio de Janeiro,2025-11-20 07:33:34
+1031,"LARGO boavista, 355",PE,Recife,2025-10-28 03:38:34
+1032,"entregar na rua paulista, 3974 , bela vista",SP,São Paulo,2025-11-24 13:03:34
+1033,"PRAÇA BAHIA, 3433, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-02 22:52:34
+1034,"travessa boa viagem, 903, boa viagem",PE,Recife,2025-11-19 17:34:34
+1035,"TRAVESSA AFONSO PENA, 3077, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-24 05:12:34
+1036,"RUA BORGES DE MEDEIROS, 3571, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-20 01:20:34
+1037,"VIELA QUINZE DE NOVEMBRO, 3060, CENTRO, São Paulo",SP,São Paulo,2025-11-11 21:37:34
+1038,"alameda da aurora, 1657, boa vista",PE,Recife,2025-11-22 19:05:34
+1039,"alameda oswaldo cruz, 1119",RJ,Rio de Janeiro,2025-11-12 07:39:34
+1040,"entregar na travessa boavista, 2418 perto da praça, boa viagem",PE,Recife,2025-11-01 00:10:34
+1041,"TRAVESSA PAULISTA, 709, BELA VISTA",SP,São Paulo,2025-10-30 04:18:34
+1042,"largo consolacao, 3791, consolacao",SP,São Paulo,2025-11-25 21:22:34
+1043,"TRAVESSA IPIRANGA, 2682, REPUBLICA",SP,São Paulo,2025-11-08 12:52:34
+1044,"R. setembro, 3423",RJ,Rio de Janeiro,2025-11-10 21:00:34
+1045,"entregar na rua protasio alves, 3488 em frente ao banco, petropolis",RS,Porto Alegre,2025-11-10 21:57:34
+1046,"LARGO PRESIDENTE VARGAS, 4058, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-24 03:01:34
+1047,"VIELA DO OUVIDOR, 1786, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 11:34:34
+1048,"RUA RIO BRANCO, 3931, próximo ao mercado, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 22:20:34
+1049,"LARGO DAS FLORES, 3800, apto 201, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 22:24:34
+1050,"PRAÇA QUINZE DE NOVEMBRO, 3804, perto do metrô, CENTRO, São Paulo",SP,São Paulo,2025-11-26 00:45:34
+1051,"Praça do comercio, 4350",PE,Recife,2025-11-13 12:05:34
+1052,"entregar na travessa w3 norte, 664 próximo ao mercado, asa norte",DF,Brasília,2025-11-03 19:17:34
+1053,"RUA CONDE DA BOA VISTA, 910, DERBY",PE,Recife,2025-11-15 06:10:34
+1054,"PRAÇA ATLANTICA, 3002, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-06 03:04:34
+1055,"travessa copacabana, 1134, copacabana",RJ,Rio de Janeiro,2025-11-19 03:42:34
+1056,"travessa dos andradas, 1847, centro",RS,Porto Alegre,2025-11-15 12:17:34
+1057,"Alameda amazonas, 447",MG,Belo Horizonte,2025-11-15 06:18:34
+1058,"AVENIDA PROTASIO ALVES, 3852, ao lado da escola, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-05 02:52:34
+1059,"LARGO SAO JOAO, 3016, apto 101, REPUBLICA, São Paulo",SP,São Paulo,2025-11-20 06:44:34
+1060,"viela rio branco, 1465, centro",RJ,Rio de Janeiro,2025-10-27 18:43:34
+1061,"ALAMEDA PAULISTA, 918, perto da praça, BELA VISTA, São Paulo",SP,São Paulo,2025-11-11 15:54:34
+1062,"RUA CONSOLACAO, 2402, CONSOLACAO",SP,São Paulo,2025-11-05 02:50:34
+1063,"LARGO URUGUAIANA, 2841, CENTRO",RJ,Rio de Janeiro,2025-11-11 21:08:34
+1064,"Al. das flores, 1549",RJ,Rio de Janeiro,2025-10-30 12:56:34
+1065,"entregar na praça w3 sul, 3373 próximo ao mercado, asa sul",DF,Brasília,2025-11-05 23:59:34
+1066,"LARGO BOA VIAGEM, 4861, perto do metrô, BOA VIAGEM, Recife",PE,Recife,2025-11-10 03:21:34
+1067,"ALAMEDA TUPIS, 4647, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-29 11:39:34
+1068,"travessa nove de julho, 3967, republica",SP,São Paulo,2025-11-17 19:40:34
+1069,"ALAMEDA DA AURORA, 3735, BOA VISTA, Recife",PE,Recife,2025-11-07 15:04:34
+1070,"ALAMEDA W3 NORTE, 1494, ASA NORTE, Brasília",DF,Brasília,2025-10-30 22:05:34
+1071,"Est. setembro, 1949",RJ,Rio de Janeiro,2025-11-16 02:41:34
+1072,"ALAMEDA BAHIA, 3029, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-20 03:04:34
+1073,"PRAÇA ATLANTICA, 2817, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 06:15:34
+1074,"alameda paulista, 996",SP,São Paulo,2025-10-28 05:00:34
+1075,"LARGO SETEMBRO, 2624, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-25 21:15:34
+1076,"PRAÇA PROTASIO ALVES, 2422, PETROPOLIS",RS,Porto Alegre,2025-10-29 11:01:34
+1077,"LARGO SETEMBRO, 2775, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 04:52:34
+1078,"Estrada atlantica, 4514",RJ,Rio de Janeiro,2025-11-26 08:10:34
+1079,"LARGO brigadeiro faria lima, 2928",SP,São Paulo,2025-11-25 01:08:34
+1080,"TRAVESSA REBOUCAS, 2277, PINHEIROS, São Paulo",SP,São Paulo,2025-11-26 18:15:34
+1081,"AVENIDA BAHIA, 4193, CENTRO",MG,Belo Horizonte,2025-11-20 05:29:34
+1082,"RUA PROTASIO ALVES, 2958, PETROPOLIS",RS,Porto Alegre,2025-11-21 21:55:34
+1083,"praça amazonas, 3164, centro",MG,Belo Horizonte,2025-11-26 11:27:34
+1084,"ALAMEDA DA AURORA, 3651, bloco A, BOA VISTA, Recife",PE,Recife,2025-11-24 14:03:34
+1085,"viela bahia, 3625, centro",MG,Belo Horizonte,2025-11-20 20:52:34
+1086,"VIELA AMAZONAS, 1144, bloco B, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-07 18:40:34
+1087,"ALAMEDA CONSOLACAO, 3889, bloco A, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-16 17:50:34
+1088,"AVENIDA DO COMERCIO, 55, SAO JOSE",PE,Recife,2025-11-06 12:23:34
+1089,"LARGO QUINZE DE NOVEMBRO, 4653, apto 201, CENTRO, São Paulo",SP,São Paulo,2025-11-20 14:56:34
+1090,"ALAMEDA DO COMERCIO, 4538, SAO JOSE",PE,Recife,2025-11-25 10:56:34
+1091,"LARGO MARQUES DE ITU, 4582, em frente ao banco, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-19 19:59:34
+1092,"estrada do ouvidor, 2152, centro",RJ,Rio de Janeiro,2025-10-26 23:56:34
+1093,"AVENIDA DOS ANDRADAS, 2357, CENTRO",RS,Porto Alegre,2025-11-21 04:51:34
+1094,"RUA IPIRANGA, 978, sala 10, REPUBLICA, São Paulo",SP,São Paulo,2025-11-11 18:11:34
+1095,"LARGO CONDE DA BOA VISTA, 4634, DERBY",PE,Recife,2025-10-30 12:09:34
+1096,"entregar na avenida dos andradas, 3058 perto do metrô, centro",RS,Porto Alegre,2025-11-08 19:55:34
+1097,"Est nove de julho, 4765",SP,São Paulo,2025-11-16 05:53:34
+1098,"Praça uruguaiana, 1338",RJ,Rio de Janeiro,2025-11-15 07:09:34
+1099,"rua da aurora, 2375, boa vista",PE,Recife,2025-11-09 23:50:34
+1100,"TRAVESSA COPACABANA, 1502, apto 101, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 15:15:34
+1101,"praça boa viagem, 2467, boa viagem",PE,Recife,2025-11-04 22:05:34
+1102,"entregar na avenida conde da boa vista, 4378 próximo ao mercado, derby",PE,Recife,2025-10-31 16:49:34
+1103,"ALAMEDA URUGUAIANA, 3056, loja 2, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-13 09:51:34
+1104,"AVENIDA PAULISTA, 1785, BELA VISTA, São Paulo",SP,São Paulo,2025-11-10 12:56:34
+1105,"AVENIDA REBOUCAS, 3419, PINHEIROS",SP,São Paulo,2025-10-28 18:42:34
+1106,"rua uruguaiana, 3929, centro",RJ,Rio de Janeiro,2025-11-16 22:26:34
+1107,"entregar na largo uruguaiana, 4896 próximo ao mercado, centro",RJ,Rio de Janeiro,2025-11-20 22:30:34
+1108,"AVENIDA DAS FLORES, 1822, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 22:40:34
+1109,"ALAMEDA BRIGADEIRO FARIA LIMA, 1027, ITAM BIBI, São Paulo",SP,São Paulo,2025-11-22 18:22:34
+1110,"AVENIDA PRIMEIRO DE MARÇO, 155, loja 2, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-02 07:47:34
+1111,"AVENIDA REBOUCAS, 269, bloco A, PINHEIROS, São Paulo",SP,São Paulo,2025-11-08 19:19:34
+1112,"Alameda primeiro de março, 355",RJ,Rio de Janeiro,2025-11-05 20:01:34
+1113,"AVENIDA PRESIDENTE VARGAS, 4930, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 14:38:34
+1114,"RUA DA AURORA, 744, BOA VISTA, Recife",PE,Recife,2025-10-29 21:32:34
+1115,"PRAÇA DA AURORA, 1316, bloco A, BOA VISTA, Recife",PE,Recife,2025-11-01 21:10:34
+1116,"AVENIDA IPIRANGA, 812, bloco B, REPUBLICA, São Paulo",SP,São Paulo,2025-11-02 20:16:34
+1117,"TRAVESSA CONSOLACAO, 2309, CONSOLACAO, São Paulo",SP,São Paulo,2025-10-29 03:49:34
+1118,"TRAVESSA PRESIDENTE VARGAS, 4131, loja 2, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-14 22:12:34
+1119,"LARGO QUINZE DE NOVEMBRO, 880, CENTRO, São Paulo",SP,São Paulo,2025-10-31 09:25:34
+1120,"TRAVESSA AMAZONAS, 4213, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-13 17:01:34
+1121,"AVENIDA boa viagem, 3817",PE,Recife,2025-11-22 05:01:34
+1122,"ALAMEDA CONDE DA BOA VISTA, 4565, , DERBY, Recife",PE,Recife,2025-11-24 10:18:34
+1123,"VIELA PRIMEIRO DE MARÇO, 2324, CENTRO",RJ,Rio de Janeiro,2025-11-06 21:30:34
+1124,"TRAVESSA BAHIA, 4538, CENTRO",MG,Belo Horizonte,2025-11-17 07:37:34
+1125,"LARGO COPACABANA, 3011, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-25 23:18:34
+1126,"entregar na viela presidente vargas, 3589 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-05 18:42:34
+1127,"VIELA SETEMBRO, 3282, ao lado da escola, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-22 20:50:34
+1128,"AVENIDA PAULISTA, 2980, BELA VISTA, São Paulo",SP,São Paulo,2025-11-16 14:11:34
+1129,"AVENIDA AGAMENON MAGALHAES, 1908, loja 1, DERBY, Recife",PE,Recife,2025-11-03 05:32:34
+1130,"VIELA VINTE E TRES DE MAIO, 2918, LIBERDADE",SP,São Paulo,2025-11-05 01:24:34
+1131,"ALAMEDA BORGES DE MEDEIROS, 1208, loja 2, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-23 17:33:34
+1132,"LARGO BORGES DE MEDEIROS, 1891, perto da praça, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-26 17:02:34
+1133,"AVENIDA OSWALDO CRUZ, 4081, , BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-21 08:11:34
+1134,"entregar na estrada boa viagem, 2481 ao lado da escola, boa viagem",PE,Recife,2025-11-23 18:07:34
+1135,"LARGO W3 SUL, 3818, ASA SUL, Brasília",DF,Brasília,2025-11-16 23:18:34
+1136,"alameda borges de medeiros, 4444, centro",RS,Porto Alegre,2025-11-01 03:15:34
+1137,"rua das flores, 3526",RJ,Rio de Janeiro,2025-11-12 09:55:34
+1138,"LARGO do comercio, 3766",PE,Recife,2025-11-21 03:07:34
+1139,"ESTRADA MARQUES DE ITU, 4027, VILA BUARQUE",SP,São Paulo,2025-11-22 11:04:34
+1140,"entregar na largo do comercio, 897 perto do metrô, sao jose",PE,Recife,2025-11-10 23:14:34
+1141,"entregar na largo w3 norte, 3899 perto da praça, asa norte",DF,Brasília,2025-11-10 19:24:34
+1142,"LARGO NOVE DE JULHO, 4842, REPUBLICA",SP,São Paulo,2025-11-06 23:27:34
+1143,"Pç. sao joao, 504",SP,São Paulo,2025-11-22 09:27:34
+1144,"praça das flores, 3118",RJ,Rio de Janeiro,2025-11-15 09:23:34
+1145,"RUA DA AURORA, 2001, BOA VISTA, Recife",PE,Recife,2025-11-19 00:30:34
+1146,"Avenida rio branco, 2498",RJ,Rio de Janeiro,2025-11-21 20:15:34
+1147,"RUA BOA VIAGEM, 3776, em frente ao banco, BOA VIAGEM, Recife",PE,Recife,2025-11-08 03:52:34
+1148,"ALAMEDA AFONSO PENA, 168, em frente ao banco, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-08 20:29:34
+1149,"entregar na viela do comercio, 2642 , sao jose",PE,Recife,2025-11-01 05:43:34
+1150,"entregar na praça consolacao, 4070 perto do metrô, consolacao",SP,São Paulo,2025-11-16 15:10:34
+1151,"PRAÇA MARQUES DE ITU, 3572, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-10 23:55:34
+1152,"travessa copacabana, 2355, copacabana",RJ,Rio de Janeiro,2025-11-25 11:13:34
+1153,"TRAVESSA AGAMENON MAGALHAES, 754, ao lado da escola, DERBY, Recife",PE,Recife,2025-11-23 02:28:34
+1154,"AVENIDA VINTE E TRES DE MAIO, 4641, bloco A, LIBERDADE, São Paulo",SP,São Paulo,2025-11-11 07:36:34
+1155,"entregar na avenida da aurora, 2473 próximo ao mercado, boa vista",PE,Recife,2025-11-12 23:15:34
+1156,"TRAVESSA BOA VIAGEM, 3395, BOA VIAGEM",PE,Recife,2025-11-18 01:17:34
+1157,"ESTRADA TUPIS, 153, perto do metrô, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-10 15:13:34
+1158,"travessa borges de medeiros, 3829, centro",RS,Porto Alegre,2025-10-28 00:15:34
+1159,"RUA AMAZONAS, 4279, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-15 06:40:34
+1160,"ESTRADA IPIRANGA, 2460, loja 1, REPUBLICA, São Paulo",SP,São Paulo,2025-11-13 09:54:34
+1161,"travessa copacabana, 3379, copacabana",RJ,Rio de Janeiro,2025-10-31 11:08:34
+1162,"ALAMEDA PAULISTA, 4926, BELA VISTA, São Paulo",SP,São Paulo,2025-11-14 13:42:34
+1163,"TRAVESSA SETEMBRO, 227, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 11:20:34
+1164,"VIELA BORGES DE MEDEIROS, 3458, , CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-20 15:32:34
+1165,"RUA URUGUAIANA, 2117, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-05 03:38:34
+1166,"LARGO atlantica, 164",RJ,Rio de Janeiro,2025-11-16 01:30:34
+1167,"VIELA COPACABANA, 2978, perto do metrô, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 18:24:34
+1168,"entregar na travessa uruguaiana, 917 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-10 17:16:34
+1169,"Al w3 sul, 4067",DF,Brasília,2025-11-07 17:00:34
+1170,"PRAÇA BOA VIAGEM, 4787, em frente ao banco, BOA VIAGEM, Recife",PE,Recife,2025-10-31 21:02:34
+1171,"VIELA IPIRANGA, 1786, REPUBLICA, São Paulo",SP,São Paulo,2025-11-23 15:36:34
+1172,"largo vinte e tres de maio, 3346, liberdade",SP,São Paulo,2025-10-30 02:46:34
+1173,"praça borges de medeiros, 926, centro",RS,Porto Alegre,2025-11-09 07:19:34
+1174,"alameda ipiranga, 1188, republica",SP,São Paulo,2025-11-10 22:26:34
+1175,"R. marques de itu, 4963",SP,São Paulo,2025-11-03 23:34:34
+1176,"VIELA NOVE DE JULHO, 2534, perto do metrô, REPUBLICA, São Paulo",SP,São Paulo,2025-11-14 23:42:34
+1177,"TRAVESSA W3 NORTE, 3625, ASA NORTE",DF,Brasília,2025-11-26 07:50:34
+1178,"ALAMEDA NOVE DE JULHO, 740, apto 301, REPUBLICA, São Paulo",SP,São Paulo,2025-11-17 13:54:34
+1179,"LARGO PAULISTA, 2599, loja 1, BELA VISTA, São Paulo",SP,São Paulo,2025-11-01 19:32:34
+1180,"LARGO RIO BRANCO, 3860, em frente ao banco, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-28 10:04:34
+1181,"AVENIDA AMAZONAS, 1314, próximo ao mercado, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-10 18:27:34
+1182,"PRAÇA AFONSO PENA, 3714, , CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-02 19:08:34
+1183,"LARGO quinze de novembro, 1115",SP,São Paulo,2025-11-20 00:30:34
+1184,"AVENIDA BOA VIAGEM, 908, BOA VIAGEM, Recife",PE,Recife,2025-11-19 04:04:34
+1185,"VIELA URUGUAIANA, 2617, CENTRO",RJ,Rio de Janeiro,2025-11-10 21:41:34
+1186,"ESTRADA NOVE DE JULHO, 4859, sala 20, REPUBLICA, São Paulo",SP,São Paulo,2025-11-01 11:37:34
+1187,"VIELA RIO BRANCO, 3012, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-14 07:56:34
+1188,"entregar na rua brigadeiro faria lima, 189 perto do metrô, itam bibi",SP,São Paulo,2025-11-07 00:35:34
+1189,"largo rio branco, 1625, centro",RJ,Rio de Janeiro,2025-11-04 15:46:34
+1190,"viela agamenon magalhaes, 4919, derby",PE,Recife,2025-11-22 18:26:34
+1191,"AVENIDA PAULISTA, 116, ao lado da escola, BELA VISTA, São Paulo",SP,São Paulo,2025-11-13 05:57:34
+1192,"AVENIDA BORGES DE MEDEIROS, 1839, perto da praça, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-20 12:31:34
+1193,"VIELA BORGES DE MEDEIROS, 1067, CENTRO",RS,Porto Alegre,2025-10-30 14:11:34
+1194,"ALAMEDA CONSOLACAO, 1552, CONSOLACAO",SP,São Paulo,2025-11-21 06:59:34
+1195,"rua setembro, 2378, centro",RJ,Rio de Janeiro,2025-11-19 01:21:34
+1196,"PRAÇA IPIRANGA, 4776, perto do metrô, REPUBLICA, São Paulo",SP,São Paulo,2025-11-12 18:49:34
+1197,"ESTRADA DOS ANDRADAS, 2649, em frente ao banco, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-05 14:04:34
+1198,"viela do comercio, 4893, sao jose",PE,Recife,2025-11-24 17:14:34
+1199,"RUA OSWALDO CRUZ, 2727, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-11 09:11:34
+1200,"entregar na rua atlantica, 2078 ao lado da escola, copacabana",RJ,Rio de Janeiro,2025-11-14 11:24:34
+1201,"Est conde da boa vista, 4584",PE,Recife,2025-11-18 15:17:34
+1202,"PRAÇA BORGES DE MEDEIROS, 3835, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-24 10:04:34
+1203,"viela w3 sul, 1162, asa sul",DF,Brasília,2025-11-23 10:47:34
+1204,"LARGO URUGUAIANA, 2302, próximo ao mercado, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-28 07:31:34
+1205,"alameda nove de julho, 4236, republica",SP,São Paulo,2025-11-13 15:29:34
+1206,"ESTRADA BORGES DE MEDEIROS, 4553, loja 2, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-25 14:40:34
+1207,"travessa oswaldo cruz, 1501",RJ,Rio de Janeiro,2025-11-18 15:04:34
+1208,"VIELA TUPIS, 951, CENTRO",MG,Belo Horizonte,2025-11-25 06:27:34
+1209,"LARGO EIXO MONUMENTAL, 3750, ASA NORTE",DF,Brasília,2025-11-22 20:54:34
+1210,"Av setembro, 2864",RJ,Rio de Janeiro,2025-10-30 11:38:34
+1211,"ALAMEDA PAULISTA, 4615, ao lado da escola, BELA VISTA, São Paulo",SP,São Paulo,2025-11-20 02:49:34
+1212,"Est w3 sul, 3412",DF,Brasília,2025-11-02 05:06:34
+1213,"praça presidente vargas, 213, centro",RJ,Rio de Janeiro,2025-11-04 23:42:34
+1214,"Praça agamenon magalhaes, 4837",PE,Recife,2025-11-22 20:44:34
+1215,"LARGO TUPIS, 3720, próximo ao mercado, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-06 23:49:34
+1216,"rua boavista, 3712, boa viagem",PE,Recife,2025-10-26 21:03:34
+1217,"TRAVESSA URUGUAIANA, 399, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-16 19:02:34
+1218,"VIELA COPACABANA, 759, COPACABANA",RJ,Rio de Janeiro,2025-11-18 15:34:34
+1219,"AVENIDA AGAMENON MAGALHAES, 169, apto 301, DERBY, Recife",PE,Recife,2025-11-21 08:00:34
+1220,"Alameda agamenon magalhaes, 1263",PE,Recife,2025-11-11 07:02:34
+1221,"ESTRADA MARQUES DE ITU, 2942, , VILA BUARQUE, São Paulo",SP,São Paulo,2025-10-31 09:17:34
+1222,"LARGO REBOUCAS, 3650, PINHEIROS",SP,São Paulo,2025-11-11 12:13:34
+1223,"AVENIDA AMAZONAS, 3462, sala 20, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-07 15:22:34
+1224,"entregar na avenida amazonas, 332 próximo ao mercado, centro",MG,Belo Horizonte,2025-11-11 23:35:34
+1225,"LARGO SETEMBRO, 4320, perto do metrô, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-10 18:31:34
+1226,"VIELA TUPIS, 649, loja 2, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-17 16:41:34
+1227,"TRAVESSA MARQUES DE ITU, 4286, VILA BUARQUE",SP,São Paulo,2025-11-17 02:46:34
+1228,"entregar na avenida eixo monumental, 370 , asa norte",DF,Brasília,2025-11-10 07:23:34
+1229,"LARGO PRESIDENTE VARGAS, 4657, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 12:12:34
+1230,"RUA RIO BRANCO, 934, perto do metrô, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-12 14:59:34
+1231,"VIELA quinze de novembro, 371",SP,São Paulo,2025-10-28 22:30:34
+1232,"entregar na largo boa viagem, 3686 próximo ao mercado, boa viagem",PE,Recife,2025-11-16 15:36:34
+1233,"avenida quinze de novembro, 4949, centro",SP,São Paulo,2025-10-29 23:43:34
+1234,"RUA AMAZONAS, 48, CENTRO",MG,Belo Horizonte,2025-11-23 20:39:34
+1235,"LARGO DOS ANDRADAS, 3319, bloco B, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-03 05:30:34
+1236,"VIELA conde da boa vista, 2480",PE,Recife,2025-11-22 20:37:34
+1237,"RUA PRIMEIRO DE MARÇO, 1542, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 05:08:34
+1238,"TRAVESSA SETEMBRO, 3570, bloco A, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 18:30:34
+1239,"ESTRADA TUPIS, 3883, CENTRO",MG,Belo Horizonte,2025-11-26 17:39:34
+1240,"LARGO SETEMBRO, 3974, CENTRO",RJ,Rio de Janeiro,2025-11-26 06:12:34
+1241,"entregar na travessa ipiranga, 2416 em frente ao banco, republica",SP,São Paulo,2025-11-25 10:49:34
+1242,"VIELA PRESIDENTE VARGAS, 3406, loja 2, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 02:11:34
+1243,"ALAMEDA EIXO MONUMENTAL, 304, ASA NORTE",DF,Brasília,2025-11-14 05:17:34
+1244,"entregar na travessa borges de medeiros, 498 , centro",RS,Porto Alegre,2025-11-13 02:29:34
+1245,"AVENIDA EIXO MONUMENTAL, 2195, em frente ao banco, ASA NORTE, Brasília",DF,Brasília,2025-10-29 05:42:34
+1246,"PRAÇA BORGES DE MEDEIROS, 3673, em frente ao banco, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-26 15:31:34
+1247,"LARGO REBOUCAS, 2817, PINHEIROS",SP,São Paulo,2025-11-19 04:35:34
+1248,"largo boavista, 1075, boa viagem",PE,Recife,2025-11-02 22:25:34
+1249,"PRAÇA AFONSO PENA, 3870, apto 201, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-07 14:31:34
+1250,"LARGO RIO BRANCO, 1058, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 15:11:34
+1251,"AVENIDA BORGES DE MEDEIROS, 3408, CENTRO",RS,Porto Alegre,2025-11-17 13:36:34
+1252,"rua eixo monumental, 149, asa norte",DF,Brasília,2025-10-29 12:27:34
+1253,"Est. paulista, 4125",SP,São Paulo,2025-11-16 07:42:34
+1254,"AVENIDA BRIGADEIRO FARIA LIMA, 4604, ITAM BIBI, São Paulo",SP,São Paulo,2025-11-11 12:28:34
+1255,"rua da aurora, 4564, boa vista",PE,Recife,2025-10-29 15:55:34
+1256,"AVENIDA PROTASIO ALVES, 414, PETROPOLIS",RS,Porto Alegre,2025-11-01 05:56:34
+1257,"AVENIDA PRIMEIRO DE MARÇO, 4995, apto 101, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-31 03:47:34
+1258,"AVENIDA PROTASIO ALVES, 1369, , PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-10-30 13:51:34
+1259,"ESTRADA CONDE DA BOA VISTA, 2394, em frente ao banco, DERBY, Recife",PE,Recife,2025-11-02 04:18:34
+1260,"estrada presidente vargas, 2980, centro",RJ,Rio de Janeiro,2025-10-31 16:42:34
+1261,"LARGO REBOUCAS, 3406, , PINHEIROS, São Paulo",SP,São Paulo,2025-11-19 05:28:34
+1262,"estrada sao joao, 699, republica",SP,São Paulo,2025-11-14 22:01:34
+1263,"PRAÇA AFONSO PENA, 2011, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-02 04:23:34
+1264,"ESTRADA BRIGADEIRO FARIA LIMA, 3513, ITAM BIBI",SP,São Paulo,2025-10-28 06:52:34
+1265,"PRAÇA TUPIS, 244, CENTRO",MG,Belo Horizonte,2025-11-22 20:04:34
+1266,"avenida w3 sul, 695, asa sul",DF,Brasília,2025-11-16 08:00:34
+1267,"VIELA PAULISTA, 504, BELA VISTA",SP,São Paulo,2025-11-02 19:07:34
+1268,"rua setembro, 4259, centro",RJ,Rio de Janeiro,2025-11-13 07:53:34
+1269,"alameda eixo monumental, 2570, asa norte",DF,Brasília,2025-11-26 11:52:34
+1270,"ESTRADA W3 SUL, 3310, ASA SUL",DF,Brasília,2025-11-06 13:53:34
+1271,"LARGO W3 NORTE, 2829, loja 1, ASA NORTE, Brasília",DF,Brasília,2025-11-02 13:53:34
+1272,"entregar na avenida marques de itu, 303 próximo ao mercado, vila buarque",SP,São Paulo,2025-11-13 21:03:34
+1273,"Alameda uruguaiana, 1751",RJ,Rio de Janeiro,2025-11-10 10:01:34
+1274,"RUA PAULISTA, 229, bloco A, BELA VISTA, São Paulo",SP,São Paulo,2025-11-08 12:34:34
+1275,"VIELA marques de itu, 4140",SP,São Paulo,2025-10-31 09:33:34
+1276,"Pç. protasio alves, 1015",RS,Porto Alegre,2025-11-12 11:13:34
+1277,"LARGO DO OUVIDOR, 2777, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-31 21:12:34
+1278,"travessa w3 norte, 2870, asa norte",DF,Brasília,2025-11-16 22:59:34
+1279,"VIELA URUGUAIANA, 4258, perto da praça, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-23 10:16:34
+1280,"Pç reboucas, 3722",SP,São Paulo,2025-11-04 06:56:34
+1281,"avenida afonso pena, 756",MG,Belo Horizonte,2025-10-29 16:19:34
+1282,"largo consolacao, 640, consolacao",SP,São Paulo,2025-11-05 04:24:34
+1283,"entregar na viela eixo monumental, 2161 em frente ao banco, asa norte",DF,Brasília,2025-11-06 07:21:34
+1284,"VIELA BORGES DE MEDEIROS, 1335, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-10 16:18:34
+1285,"ESTRADA TUPIS, 4205, bloco A, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-22 22:36:34
+1286,"LARGO TUPIS, 268, perto da praça, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-27 03:26:34
+1287,"VIELA primeiro de março, 904",RJ,Rio de Janeiro,2025-11-08 11:47:34
+1288,"estrada w3 sul, 965, asa sul",DF,Brasília,2025-11-17 09:30:34
+1289,"LARGO SAO JOAO, 230, apto 201, REPUBLICA, São Paulo",SP,São Paulo,2025-11-22 02:23:34
+1290,"ALAMEDA OSWALDO CRUZ, 2323, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 21:18:34
+1291,"avenida do ouvidor, 4486, centro",RJ,Rio de Janeiro,2025-11-24 19:23:34
+1292,"ALAMEDA DOS ANDRADAS, 4635, CENTRO",RS,Porto Alegre,2025-10-29 09:59:34
+1293,"LARGO DO COMERCIO, 4962, SAO JOSE, Recife",PE,Recife,2025-11-02 16:17:34
+1294,"LARGO TUPIS, 3679, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-10-29 21:29:34
+1295,"VIELA RIO BRANCO, 3173, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 08:28:34
+1296,"RUA W3 NORTE, 3630, próximo ao mercado, ASA NORTE, Brasília",DF,Brasília,2025-11-06 17:54:34
+1297,"RUA PAULISTA, 4686, perto do metrô, BELA VISTA, São Paulo",SP,São Paulo,2025-11-17 03:08:34
+1298,"entregar na avenida primeiro de março, 1577 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-08 19:13:34
+1299,"entregar na travessa w3 sul, 3899 , asa sul",DF,Brasília,2025-11-22 22:50:34
+1300,"estrada w3 norte, 156, asa norte",DF,Brasília,2025-11-01 14:34:34
+1301,"entregar na avenida bahia, 4371 próximo ao mercado, centro",MG,Belo Horizonte,2025-11-14 02:47:34
+1302,"RUA BORGES DE MEDEIROS, 2785, CENTRO",RS,Porto Alegre,2025-11-21 07:48:34
+1303,"praça w3 sul, 3130, asa sul",DF,Brasília,2025-11-24 17:43:34
+1304,"ESTRADA W3 NORTE, 2338, ASA NORTE, Brasília",DF,Brasília,2025-11-21 12:00:34
+1305,"ESTRADA RIO BRANCO, 2514, CENTRO",RJ,Rio de Janeiro,2025-11-05 15:46:34
+1306,"ESTRADA BOA VIAGEM, 223, , BOA VIAGEM, Recife",PE,Recife,2025-11-17 08:43:34
+1307,"estrada boa viagem, 3382, boa viagem",PE,Recife,2025-11-18 07:57:34
+1308,"RUA PRIMEIRO DE MARÇO, 1660, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-02 01:12:34
+1309,"LARGO IPIRANGA, 4167, bloco A, REPUBLICA, São Paulo",SP,São Paulo,2025-11-14 17:32:34
+1310,"entregar na praça oswaldo cruz, 3808 em frente ao banco, botafogo",RJ,Rio de Janeiro,2025-11-24 05:48:34
+1311,"travessa afonso pena, 153, centro",MG,Belo Horizonte,2025-11-09 02:06:34
+1312,"TRAVESSA PRESIDENTE VARGAS, 4545, perto da praça, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-17 02:23:34
+1313,"AVENIDA BAHIA, 4100, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-01 16:26:34
+1314,"entregar na estrada w3 norte, 2009 em frente ao banco, asa norte",DF,Brasília,2025-10-27 03:21:34
+1315,"RUA ATLANTICA, 3807, bloco B, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-17 00:39:34
+1316,"rua do ouvidor, 3951, centro",RJ,Rio de Janeiro,2025-11-07 11:56:34
+1317,"entregar na praça do comercio, 1743 ao lado da escola, sao jose",PE,Recife,2025-11-17 19:39:34
+1318,"avenida w3 norte, 2463",DF,Brasília,2025-11-04 16:56:34
+1319,"ALAMEDA URUGUAIANA, 3539, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 03:58:34
+1320,"PRAÇA BOA VIAGEM, 2142, loja 2, BOA VIAGEM, Recife",PE,Recife,2025-11-18 13:07:34
+1321,"PRAÇA BOA VIAGEM, 1726, BOA VIAGEM",PE,Recife,2025-10-27 01:28:34
+1322,"entregar na estrada das flores, 17 em frente ao banco, jardim",RJ,Rio de Janeiro,2025-11-26 20:06:34
+1323,"VIELA QUINZE DE NOVEMBRO, 4554, perto do metrô, CENTRO, São Paulo",SP,São Paulo,2025-11-11 08:15:34
+1324,"av rio branco, 4413",RJ,Rio de Janeiro,2025-10-30 23:21:34
+1325,"PRAÇA PRIMEIRO DE MARÇO, 3084, bloco B, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 08:38:34
+1326,"avenida do ouvidor, 3791, centro",RJ,Rio de Janeiro,2025-10-28 14:21:34
+1327,"TRAVESSA DO OUVIDOR, 163, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-04 22:27:34
+1328,"AVENIDA REBOUCAS, 2484, apto 301, PINHEIROS, São Paulo",SP,São Paulo,2025-11-19 05:26:34
+1329,"ALAMEDA ATLANTICA, 4038, perto do metrô, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 14:49:34
+1330,"VIELA REBOUCAS, 909, sala 10, PINHEIROS, São Paulo",SP,São Paulo,2025-11-08 04:18:34
+1331,"TRAVESSA PAULISTA, 4635, perto do metrô, BELA VISTA, São Paulo",SP,São Paulo,2025-11-07 02:38:34
+1332,"ESTRADA COPACABANA, 533, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-18 01:55:34
+1333,"ALAMEDA BRIGADEIRO FARIA LIMA, 1572, , ITAM BIBI, São Paulo",SP,São Paulo,2025-11-03 23:15:34
+1334,"LARGO NOVE DE JULHO, 17, REPUBLICA",SP,São Paulo,2025-11-05 23:08:34
+1335,"PRAÇA OSWALDO CRUZ, 3544, loja 1, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-18 17:06:34
+1336,"largo w3 sul, 4060, asa sul",DF,Brasília,2025-11-10 18:53:34
+1337,"RUA BRIGADEIRO FARIA LIMA, 2277, ITAM BIBI",SP,São Paulo,2025-11-09 06:29:34
+1338,"viela do ouvidor, 1595, centro",RJ,Rio de Janeiro,2025-11-24 01:58:34
+1339,"Tv das flores, 3472",RJ,Rio de Janeiro,2025-11-20 15:28:34
+1340,"avenida marques de itu, 793",SP,São Paulo,2025-11-13 20:12:34
+1341,"alameda boavista, 2025",PE,Recife,2025-11-19 09:56:34
+1342,"PRAÇA OSWALDO CRUZ, 4258, apto 301, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-27 18:00:34
+1343,"entregar na avenida bahia, 3658 , centro",MG,Belo Horizonte,2025-11-24 18:51:34
+1344,"VIELA ATLANTICA, 2567, apto 101, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 16:46:34
+1345,"entregar na rua bahia, 2470 perto do metrô, centro",MG,Belo Horizonte,2025-11-13 18:43:34
+1346,"RUA OSWALDO CRUZ, 2416, loja 1, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-14 17:10:34
+1347,"TRAVESSA AFONSO PENA, 4912, bloco B, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-26 06:25:34
+1348,"viela tupis, 830, centro",MG,Belo Horizonte,2025-11-05 22:59:34
+1349,"largo das flores, 4238, jardim",RJ,Rio de Janeiro,2025-11-08 14:43:34
+1350,"RUA PRESIDENTE VARGAS, 4876, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 13:52:34
+1351,"ALAMEDA URUGUAIANA, 2912, CENTRO",RJ,Rio de Janeiro,2025-11-10 21:10:34
+1352,"ESTRADA BAHIA, 1992, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-01 19:46:34
+1353,"ALAMEDA URUGUAIANA, 4789, CENTRO",RJ,Rio de Janeiro,2025-11-10 00:01:34
+1354,"entregar na alameda da aurora, 4782 perto da praça, boa vista",PE,Recife,2025-11-22 05:30:34
+1355,"Al boavista, 3022",PE,Recife,2025-11-25 13:17:34
+1356,"rua eixo monumental, 3458, asa norte",DF,Brasília,2025-11-20 14:09:34
+1357,"AVENIDA REBOUCAS, 2798, PINHEIROS, São Paulo",SP,São Paulo,2025-11-05 05:05:34
+1358,"entregar na praça tupis, 4739 próximo ao mercado, centro",MG,Belo Horizonte,2025-11-07 11:23:34
+1359,"ESTRADA BOAVISTA, 859, BOA VIAGEM",PE,Recife,2025-10-29 19:18:34
+1360,"RUA BRIGADEIRO FARIA LIMA, 1828, perto da praça, ITAM BIBI, São Paulo",SP,São Paulo,2025-11-12 01:36:34
+1361,"LARGO IPIRANGA, 2716, loja 1, REPUBLICA, São Paulo",SP,São Paulo,2025-11-20 08:38:34
+1362,"Praça do ouvidor, 82",RJ,Rio de Janeiro,2025-11-26 03:42:34
+1363,"ALAMEDA SETEMBRO, 3608, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-06 01:51:34
+1364,"RUA CONDE DA BOA VISTA, 244, DERBY, Recife",PE,Recife,2025-11-20 11:38:34
+1365,"alameda brigadeiro faria lima, 1428, itam bibi",SP,São Paulo,2025-10-30 03:34:34
+1366,"TRAVESSA QUINZE DE NOVEMBRO, 177, CENTRO, São Paulo",SP,São Paulo,2025-10-31 11:51:34
+1367,"RUA PRESIDENTE VARGAS, 1125, CENTRO",RJ,Rio de Janeiro,2025-11-06 17:28:34
+1368,"ALAMEDA CONSOLACAO, 3738, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-15 09:07:34
+1369,"VIELA paulista, 536",SP,São Paulo,2025-10-29 15:59:34
+1370,"TRAVESSA REBOUCAS, 4363, PINHEIROS",SP,São Paulo,2025-11-04 09:29:34
+1371,"TRAVESSA AMAZONAS, 379, bloco B, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-08 13:55:34
+1372,"alameda w3 norte, 1218, asa norte",DF,Brasília,2025-11-19 19:09:34
+1373,"entregar na estrada vinte e tres de maio, 4164 em frente ao banco, liberdade",SP,São Paulo,2025-11-19 21:44:34
+1374,"entregar na avenida dos andradas, 1372 em frente ao banco, centro",RS,Porto Alegre,2025-11-02 00:01:34
+1375,"entregar na praça protasio alves, 4085 em frente ao banco, petropolis",RS,Porto Alegre,2025-11-21 10:04:34
+1376,"LARGO CONDE DA BOA VISTA, 4054, DERBY",PE,Recife,2025-11-18 02:24:34
+1377,"TRAVESSA ATLANTICA, 1799, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-12 13:24:34
+1378,"ALAMEDA CONSOLACAO, 3482, CONSOLACAO",SP,São Paulo,2025-11-08 14:50:34
+1379,"Al conde da boa vista, 4511",PE,Recife,2025-11-02 18:31:34
+1380,"entregar na praça bahia, 1886 , centro",MG,Belo Horizonte,2025-11-12 04:10:34
+1381,"VIELA BOAVISTA, 3696, BOA VIAGEM",PE,Recife,2025-11-13 07:26:34
+1382,"PRAÇA BORGES DE MEDEIROS, 2237, CENTRO",RS,Porto Alegre,2025-11-26 15:21:34
+1383,"alameda brigadeiro faria lima, 622, itam bibi",SP,São Paulo,2025-10-29 18:31:34
+1384,"AVENIDA PROTASIO ALVES, 2265, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-23 17:45:34
+1385,"RUA CONDE DA BOA VISTA, 4474, DERBY, Recife",PE,Recife,2025-11-16 14:06:34
+1386,"ALAMEDA BOAVISTA, 2480, perto do metrô, BOA VIAGEM, Recife",PE,Recife,2025-10-30 12:37:34
+1387,"ALAMEDA URUGUAIANA, 70, sala 10, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-17 08:59:34
+1388,"VIELA AGAMENON MAGALHAES, 4751, , DERBY, Recife",PE,Recife,2025-11-11 00:17:34
+1389,"VIELA SETEMBRO, 1865, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-02 21:36:34
+1390,"entregar na travessa dos andradas, 4226 ao lado da escola, centro",RS,Porto Alegre,2025-11-02 06:03:34
+1391,"praça tupis, 704, centro",MG,Belo Horizonte,2025-10-30 14:22:34
+1392,"TRAVESSA AFONSO PENA, 3594, CENTRO",MG,Belo Horizonte,2025-10-30 03:48:34
+1393,"ESTRADA CONDE DA BOA VISTA, 4731, apto 201, DERBY, Recife",PE,Recife,2025-11-16 21:49:34
+1394,"PRAÇA BORGES DE MEDEIROS, 2784, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-13 07:06:34
+1395,"entregar na alameda agamenon magalhaes, 2672 , derby",PE,Recife,2025-11-08 18:50:34
+1396,"entregar na estrada uruguaiana, 2706 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-01 00:51:34
+1397,"VIELA AGAMENON MAGALHAES, 1673, DERBY",PE,Recife,2025-11-24 03:25:34
+1398,"largo reboucas, 890, pinheiros",SP,São Paulo,2025-11-08 06:09:34
+1399,"Av marques de itu, 1405",SP,São Paulo,2025-11-09 15:47:34
+1400,"RUA BORGES DE MEDEIROS, 1530, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-24 08:31:34
+1401,"TRAVESSA CONSOLACAO, 2385, ao lado da escola, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-24 06:46:34
+1402,"rua conde da boa vista, 1408, derby",PE,Recife,2025-10-30 07:24:34
+1403,"entregar na avenida paulista, 1058 em frente ao banco, bela vista",SP,São Paulo,2025-11-10 21:45:34
+1404,"TRAVESSA DO COMERCIO, 1065, apto 301, SAO JOSE, Recife",PE,Recife,2025-11-17 06:57:34
+1405,"entregar na estrada dos andradas, 4946 próximo ao mercado, centro",RS,Porto Alegre,2025-11-08 14:17:34
+1406,"Al tupis, 1653",MG,Belo Horizonte,2025-11-12 17:57:34
+1407,"travessa agamenon magalhaes, 4308, derby",PE,Recife,2025-10-28 01:53:34
+1408,"entregar na largo borges de medeiros, 3791 , centro",RS,Porto Alegre,2025-11-03 18:31:34
+1409,"PRAÇA TUPIS, 2437, CENTRO",MG,Belo Horizonte,2025-11-07 15:23:34
+1410,"ESTRADA IPIRANGA, 3540, REPUBLICA",SP,São Paulo,2025-11-13 23:38:34
+1411,"VIELA PRESIDENTE VARGAS, 358, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 15:32:34
+1412,"ALAMEDA W3 NORTE, 547, perto do metrô, ASA NORTE, Brasília",DF,Brasília,2025-11-03 13:51:34
+1413,"VIELA borges de medeiros, 4529",RS,Porto Alegre,2025-11-24 17:17:34
+1414,"VIELA BOA VIAGEM, 3695, BOA VIAGEM, Recife",PE,Recife,2025-11-18 14:17:34
+1415,"LARGO atlantica, 219",RJ,Rio de Janeiro,2025-11-14 10:02:34
+1416,"Tv. agamenon magalhaes, 3250",PE,Recife,2025-11-18 17:04:34
+1417,"PRAÇA URUGUAIANA, 3804, CENTRO",RJ,Rio de Janeiro,2025-11-12 18:44:34
+1418,"TRAVESSA EIXO MONUMENTAL, 3586, ASA NORTE, Brasília",DF,Brasília,2025-11-11 11:56:34
+1419,"entregar na estrada paulista, 148 , bela vista",SP,São Paulo,2025-11-21 11:42:34
+1420,"VIELA w3 norte, 1380",DF,Brasília,2025-11-05 12:40:34
+1421,"PRAÇA BAHIA, 1458, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-04 18:52:34
+1422,"TRAVESSA W3 NORTE, 3622, , ASA NORTE, Brasília",DF,Brasília,2025-10-30 23:58:34
+1423,"AVENIDA W3 SUL, 3200, próximo ao mercado, ASA SUL, Brasília",DF,Brasília,2025-11-12 19:11:34
+1424,"RUA DO OUVIDOR, 3092, apto 301, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-28 13:26:34
+1425,"travessa ipiranga, 749",SP,São Paulo,2025-11-26 20:28:34
+1426,"av reboucas, 1807",SP,São Paulo,2025-10-30 23:39:34
+1427,"entregar na rua paulista, 3406 , bela vista",SP,São Paulo,2025-10-31 10:29:34
+1428,"entregar na travessa eixo monumental, 1697 em frente ao banco, asa norte",DF,Brasília,2025-10-27 07:42:34
+1429,"travessa brigadeiro faria lima, 868, itam bibi",SP,São Paulo,2025-11-16 15:49:34
+1430,"PRAÇA AGAMENON MAGALHAES, 99, DERBY",PE,Recife,2025-11-20 06:35:34
+1431,"Al. copacabana, 3023",RJ,Rio de Janeiro,2025-10-29 14:23:34
+1432,"LARGO MARQUES DE ITU, 835, ao lado da escola, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-01 02:39:34
+1433,"avenida nove de julho, 4915, republica",SP,São Paulo,2025-11-05 22:25:34
+1434,"PRAÇA URUGUAIANA, 1437, perto do metrô, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-15 23:19:34
+1435,"entregar na praça copacabana, 145 ao lado da escola, copacabana",RJ,Rio de Janeiro,2025-11-12 08:17:34
+1436,"RUA brigadeiro faria lima, 1906",SP,São Paulo,2025-11-02 17:30:34
+1437,"entregar na viela ipiranga, 1996 , republica",SP,São Paulo,2025-11-25 16:26:34
+1438,"ALAMEDA BORGES DE MEDEIROS, 1655, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-14 14:08:34
+1439,"TRAVESSA ATLANTICA, 4900, COPACABANA",RJ,Rio de Janeiro,2025-11-03 10:41:34
+1440,"entregar na praça vinte e tres de maio, 325 em frente ao banco, liberdade",SP,São Paulo,2025-11-06 11:01:34
+1441,"travessa das flores, 2714, jardim",RJ,Rio de Janeiro,2025-11-19 14:15:34
+1442,"entregar na travessa oswaldo cruz, 1823 em frente ao banco, botafogo",RJ,Rio de Janeiro,2025-11-10 10:38:34
+1443,"RUA BAHIA, 530, loja 2, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-24 14:46:34
+1444,"Tv setembro, 1029",RJ,Rio de Janeiro,2025-11-08 02:56:34
+1445,"travessa consolacao, 4157",SP,São Paulo,2025-11-03 06:30:34
+1446,"TRAVESSA PAULISTA, 2007, BELA VISTA",SP,São Paulo,2025-11-21 01:34:34
+1447,"ALAMEDA MARQUES DE ITU, 4723, VILA BUARQUE",SP,São Paulo,2025-10-27 00:37:34
+1448,"largo vinte e tres de maio, 656, liberdade",SP,São Paulo,2025-11-14 08:39:34
+1449,"entregar na largo dos andradas, 3463 ao lado da escola, centro",RS,Porto Alegre,2025-11-03 07:01:34
+1450,"LARGO SETEMBRO, 163, loja 1, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-13 18:01:34
+1451,"ESTRADA MARQUES DE ITU, 4529, perto da praça, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-18 08:20:34
+1452,"LARGO MARQUES DE ITU, 2321, VILA BUARQUE",SP,São Paulo,2025-11-09 01:19:34
+1453,"PRAÇA COPACABANA, 1120, em frente ao banco, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 15:51:34
+1454,"RUA REBOUCAS, 106, bloco A, PINHEIROS, São Paulo",SP,São Paulo,2025-11-02 21:26:34
+1455,"VIELA BORGES DE MEDEIROS, 3407, CENTRO",RS,Porto Alegre,2025-11-03 09:25:34
+1456,"alameda borges de medeiros, 4820",RS,Porto Alegre,2025-10-29 18:51:34
+1457,"VIELA PRIMEIRO DE MARÇO, 4634, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-20 07:33:34
+1458,"LARGO DA AURORA, 3017, , BOA VISTA, Recife",PE,Recife,2025-11-06 07:50:34
+1459,"TRAVESSA AMAZONAS, 1986, CENTRO",MG,Belo Horizonte,2025-11-25 09:09:34
+1460,"entregar na estrada das flores, 2141 em frente ao banco, jardim",RJ,Rio de Janeiro,2025-10-26 23:40:34
+1461,"entregar na travessa nove de julho, 4933 perto do metrô, republica",SP,São Paulo,2025-10-31 15:49:34
+1462,"AVENIDA PRIMEIRO DE MARÇO, 3149, CENTRO",RJ,Rio de Janeiro,2025-11-04 01:52:34
+1463,"TRAVESSA RIO BRANCO, 3465, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-31 07:33:34
+1464,"viela marques de itu, 4802, vila buarque",SP,São Paulo,2025-11-03 07:01:34
+1465,"AVENIDA RIO BRANCO, 4691, sala 20, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-31 16:32:34
+1466,"VIELA consolacao, 2524",SP,São Paulo,2025-10-31 05:49:34
+1467,"entregar na avenida presidente vargas, 3423 em frente ao banco, centro",RJ,Rio de Janeiro,2025-11-06 11:03:34
+1468,"estrada amazonas, 1446, centro",MG,Belo Horizonte,2025-11-20 22:41:34
+1469,"entregar na largo reboucas, 1491 , pinheiros",SP,São Paulo,2025-11-12 01:57:34
+1470,"Est consolacao, 1647",SP,São Paulo,2025-11-01 14:33:34
+1471,"LARGO AFONSO PENA, 895, apto 201, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-24 11:44:34
+1472,"Avenida do comercio, 2268",PE,Recife,2025-11-26 02:34:34
+1473,"LARGO dos andradas, 826",RS,Porto Alegre,2025-11-18 20:07:34
+1474,"entregar na avenida atlantica, 1730 , copacabana",RJ,Rio de Janeiro,2025-11-14 01:16:34
+1475,"LARGO VINTE E TRES DE MAIO, 3877, sala 20, LIBERDADE, São Paulo",SP,São Paulo,2025-11-07 07:28:34
+1476,"PRAÇA CONDE DA BOA VISTA, 2583, apto 301, DERBY, Recife",PE,Recife,2025-10-27 09:07:34
+1477,"viela agamenon magalhaes, 469, derby",PE,Recife,2025-10-30 09:58:34
+1478,"RUA PRESIDENTE VARGAS, 3744, loja 1, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-03 16:48:34
+1479,"alameda primeiro de março, 2037, centro",RJ,Rio de Janeiro,2025-11-12 01:06:34
+1480,"VIELA dos andradas, 1540",RS,Porto Alegre,2025-11-26 00:26:34
+1481,"PRAÇA ATLANTICA, 3640, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-07 05:24:34
+1482,"PRAÇA RIO BRANCO, 3506, CENTRO",RJ,Rio de Janeiro,2025-11-04 21:52:34
+1483,"entregar na viela presidente vargas, 2408 perto da praça, centro",RJ,Rio de Janeiro,2025-11-04 15:54:34
+1484,"RUA W3 SUL, 1048, ASA SUL",DF,Brasília,2025-11-01 18:30:34
+1485,"LARGO EIXO MONUMENTAL, 1377, ASA NORTE",DF,Brasília,2025-10-27 17:19:34
+1486,"TRAVESSA W3 NORTE, 1994, ASA NORTE, Brasília",DF,Brasília,2025-11-20 23:05:34
+1487,"AVENIDA RIO BRANCO, 3563, , CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-21 09:52:34
+1488,"ALAMEDA DO COMERCIO, 1806, próximo ao mercado, SAO JOSE, Recife",PE,Recife,2025-11-05 04:52:34
+1489,"ESTRADA PRIMEIRO DE MARÇO, 4379, perto do metrô, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-11 17:59:34
+1490,"TRAVESSA BOAVISTA, 4719, bloco B, BOA VIAGEM, Recife",PE,Recife,2025-11-24 00:28:34
+1491,"VIELA DO COMERCIO, 4604, loja 1, SAO JOSE, Recife",PE,Recife,2025-11-01 13:35:34
+1492,"Av. nove de julho, 2384",SP,São Paulo,2025-11-24 10:02:34
+1493,"avenida reboucas, 4693, pinheiros",SP,São Paulo,2025-11-22 10:25:34
+1494,"entregar na alameda do ouvidor, 507 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-20 08:22:34
+1495,"entregar na praça boa viagem, 1035 perto do metrô, boa viagem",PE,Recife,2025-11-07 02:35:34
+1496,"entregar na viela presidente vargas, 76 em frente ao banco, centro",RJ,Rio de Janeiro,2025-11-16 15:57:34
+1497,"TRAVESSA SAO JOAO, 4095, em frente ao banco, REPUBLICA, São Paulo",SP,São Paulo,2025-11-22 01:31:34
+1498,"rua setembro, 4907, centro",RJ,Rio de Janeiro,2025-11-17 04:05:34
+1499,"ALAMEDA PRIMEIRO DE MARÇO, 4702, CENTRO",RJ,Rio de Janeiro,2025-11-06 14:18:34
+1500,"VIELA SAO JOAO, 482, sala 20, REPUBLICA, São Paulo",SP,São Paulo,2025-11-21 22:36:34
