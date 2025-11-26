@@ -1,0 +1,33 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: {{ include "minio.fullname" . }}-create-buckets
+  labels:
+    {{- include "minio.labels" . | nindent 4 }}
+spec:
+  template:
+    spec:
+      restartPolicy: OnFailure
+      containers:
+      - name: mc
+        image: minio/mc:latest
+        command:
+        - /bin/sh
+        - -c
+        - |
+          set -e
+          mc alias set minio http://{{ include "minio.fullname" . }}:{{ .Values.service.port }} {{ .Values.auth.rootUser }} {{ .Values.auth.rootPassword }}
+          {{- range .Values.buckets }}
+          mc mb minio/{{ .name }} || true
+          {{- if .policy }}
+          mc anonymous set {{ .policy }} minio/{{ .name }}
+          {{- end }}
+          {{- end }}
+        env:
+        - name: MINIO_ROOT_USER
+          value: {{ .Values.auth.rootUser }}
+        - name: MINIO_ROOT_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: {{ include "minio.fullname" . }}-secret
+              key: rootPassword
