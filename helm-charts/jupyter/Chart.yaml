@@ -1,0 +1,6 @@
+apiVersion: v2
+name: jupyter
+description: Jupyter Notebook com PySpark e integração Keycloak
+type: application
+version: 1.0.0
+appVersion: "latest"
