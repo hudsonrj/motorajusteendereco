@@ -1,0 +1,1501 @@
+id,endereco_livre,uf,cidade,timestamp,tipo_erro
+ERR000001,"rua brigadeiro faria lima, 1467, itam bibi, são paulo",,São Paulo,2025-11-03 08:30:34,uf_ausente
+ERR000002,"RUA PAULISTA, 4489, BELA VISTA, São Paulo - SP",SP,São Paulo,2025-11-16 07:06:34,formato_completo
+ERR000003,"PRAÇA DOS ANDRADAS, 3207, CENTRO, Porto Alegre - RS",RS,Porto Alegre,2025-11-24 04:03:34,formato_completo
+ERR000004,alameda sao joao 1599 republica são paulo sp,SP,São Paulo,2025-11-14 17:41:34,formato_sequencial
+ERR000005,"rua boa viagem, 2491, recife",PE,Recife,2025-11-06 15:13:34,bairro_ausente
+ERR000006,"uruguaiana, 3953, centro",RJ,Rio de Janeiro,2025-10-29 16:36:34,tipo_logradouro_ausente
+ERR000007,"entregar na travessa consolacao, 75 perto do metrô, consolacao",SP,São Paulo,2025-10-30 02:43:34,texto_livre
+ERR000008,"VIELA SETEMBRO, 3499, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-28 19:43:34,maiusculas
+ERR000009,"LARGO xv de novembro, 1472",PE,Recife,2025-11-10 00:28:34,abreviacao_numeral
+ERR000010,"estrada 3310 de novembro, 3310",MG,Belo Horizonte,2025-11-25 17:34:34,numeral_arabico
+ERR000011,"LARGO AGAMENON MAGALHAES, 2480, DERBY, Recife",PE,Recife,2025-11-05 21:25:34,maiusculas
+ERR000012,"largo rio branco, 3131, centro, rio",RJ,Rio,2025-11-06 00:21:34,cidade_incompleta
+ERR000013,"rua conde da boa vista, 984",PE,Recife,2025-11-24 17:18:34,erro_fonetico
+ERR000014,"travessa protasio alves, 189, petropolis, porto alegre",,Porto Alegre,2025-11-17 22:02:34,uf_ausente
+ERR000015,"estrada presidente vargas, 3146, centro, rio de janeiro",,Rio de Janeiro,2025-11-05 22:22:34,uf_ausente
+ERR000016,"estrada marques de itu, 815, apto 101, vila buarque",SP,São Paulo,2025-11-04 03:38:34,complemento
+ERR000017,rua agamenon magalhaes 3226 derby recife pe,PE,Recife,2025-10-31 02:59:34,formato_sequencial
+ERR000018,"largo w3 sul, asa sul, brasília",DF,Brasília,2025-10-31 02:15:34,numero_ausente
+ERR000019,"TRAVESSA PRIMEIRO DE MARÇO, 962, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-30 01:05:34,maiusculas
+ERR000020,"rua quinze de novembro, 4545, são paulo",SP,São Paulo,2025-11-01 10:42:34,bairro_ausente
+ERR000021,"estrada atlantica, 4712",RJ,Rio de Janeiro,2025-11-06 15:44:34,numeral_por_extenso
+ERR000022,"eixo monumental, 287, asa norte",DF,Brasília,2025-11-23 04:30:34,sem_tipo_logradouro
+ERR000023,"Est conde da boa vista, 3466",PE,Recife,2025-11-17 19:16:34,abreviacao
+ERR000024,"largo sao joao, 1146, republica, são paulo",,São Paulo,2025-11-04 10:16:34,uf_ausente
+ERR000025,"Tv xv de novembro, 812",PE,Recife,2025-11-25 14:40:34,abreviacao_numeral
+ERR000026,travessa marques de itu 1100 vila buarque são paulo sp,SP,São Paulo,2025-11-20 02:27:34,formato_sequencial
+ERR000027,"vinte e tres de maio, 3458, liberdade",SP,São Paulo,2025-11-09 12:33:34,sem_tipo_logradouro
+ERR000028,"estrada do comercio, 3278, recife",PE,Recife,2025-11-24 12:06:34,bairro_ausente
+ERR000029,"estrada amazonas, 4391",MG,Belo Horizonte,2025-11-24 00:03:34,numeral_por_extenso
+ERR000030,"travessa vinte e tres de maio, liberdade, são paulo",SP,São Paulo,2025-11-07 15:23:34,numero_ausente
+ERR000031,"PRAÇA SETEMBRO, 3553, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-26 01:34:34,formato_completo
+ERR000032,alameda copacabana 1021 copacabana rio de janeiro rj,RJ,Rio de Janeiro,2025-11-22 23:14:34,formato_sequencial
+ERR000033,"afonso pena, 2699, centro",MG,Belo Horizonte,2025-11-15 10:00:34,sem_tipo_logradouro
+ERR000034,"estrada vinte e tres de maio, 1850, liberdade, são",SP,São,2025-11-26 17:25:34,cidade_incompleta
+ERR000035,"viela brigadeiro faria lima, 861",SP,São Paulo,2025-11-21 04:03:34,erro_fonetico
+ERR000036,"largo marques de itu, vila buarque, são paulo",SP,São Paulo,2025-11-14 22:13:34,numero_ausente
+ERR000037,"alameda sao joao, 4977",SP,São Paulo,2025-10-29 19:39:34,erro_fonetico
+ERR000038,"entregar na viela boa viagem, 1481 perto do metrô, boa viagem",PE,Recife,2025-11-05 03:14:34,texto_livre
+ERR000039,"largo agamenon magalhaes, 4853, derby, recife",PE,Recife,2025-11-18 20:06:34,minusculas
+ERR000040,"estrada protasio alves, 1036, petropolis, porto alegre",RS,Porto Alegre,2025-11-14 02:02:34,minusculas
+ERR000041,"rua 3033 de novembro, 3033",SP,São Paulo,2025-11-05 01:23:34,numeral_arabico
+ERR000042,"entregar na estrada tupis, 3596 em frente ao banco, centro",MG,Belo Horizonte,2025-11-10 11:32:34,texto_livre
+ERR000043,"amazonas, 2501, centro",MG,Belo Horizonte,2025-10-27 11:23:34,sem_tipo_logradouro
+ERR000044,"boa viagem, 652, boa viagem",PE,Recife,2025-11-03 13:44:34,sem_tipo_logradouro
+ERR000045,"paulista, 693, bela vista",SP,São Paulo,2025-11-09 04:58:34,tipo_logradouro_ausente
+ERR000046,"viela do ouvidor, 4168, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-11 05:17:34,minusculas
+ERR000047,"AVENIDA w3 norte, 3322",DF,Brasília,2025-11-19 21:49:34,abreviacao
+ERR000048,"praça amazonas, centro, belo horizonte",MG,Belo Horizonte,2025-11-05 01:47:34,numero_ausente
+ERR000049,"estrada 4289 de novembro, 4289",MG,Belo Horizonte,2025-11-21 18:26:34,numeral_arabico
+ERR000050,"praça uruguaiana, 418, em frente ao banco, centro",RJ,Rio de Janeiro,2025-11-14 15:26:34,referencia_local
+ERR000051,praça primeiro de março 2047 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-10-30 17:31:34,formato_sequencial
+ERR000052,"largo marques de itu, 2405, vila buarque, são",SP,São,2025-11-20 20:02:34,cidade_incompleta
+ERR000053,"travessa agamenon magalhaes, derby, recife",PE,Recife,2025-10-31 18:50:34,numero_ausente
+ERR000054,"entregar na largo tupis, 472 , centro",MG,Belo Horizonte,2025-11-07 06:28:34,texto_livre
+ERR000055,"Praça marques de itu, 878",SP,São Paulo,2025-10-28 21:38:34,abreviacao
+ERR000056,"praça agamenon magalhaes, 73",PE,Recife,2025-11-13 05:37:34,erro_fonetico
+ERR000057,"estrada rio branco, 3365",RJ,Rio de Janeiro,2025-10-28 05:49:34,erro_fonetico
+ERR000058,"alameda setembro, 1853, centro, rio de janeiro",,Rio de Janeiro,2025-11-14 09:30:34,uf_ausente
+ERR000059,viela conde da boa vista 1493 derby recife pe,PE,Recife,2025-11-01 12:43:34,formato_sequencial
+ERR000060,"largo bahia, 1326, centro, belo horizonte",MG,Belo Horizonte,2025-11-14 21:22:34,minusculas
+ERR000061,"praça do ouvidor, 1626",RJ,Rio de Janeiro,2025-11-20 11:47:34,erro_fonetico
+ERR000062,"viela uruguaiana, 3450, , centro",RJ,Rio de Janeiro,2025-11-20 23:37:34,complemento
+ERR000063,"alameda dos andradas, 974, em frente ao banco, centro",RS,Porto Alegre,2025-11-09 04:58:34,referencia_local
+ERR000064,"praça uruguaiana, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-02 20:56:34,numero_ausente
+ERR000065,"estrada do comercio, 899",PE,Recife,2025-11-01 20:41:34,erro_fonetico
+ERR000066,"Pç setembro, 4097",RJ,Rio de Janeiro,2025-11-24 22:56:34,abreviacao
+ERR000067,"VIELA boavista, 4892",PE,Recife,2025-11-11 11:31:34,abreviacao
+ERR000068,"avenida 3514 de novembro, 3514",RS,Porto Alegre,2025-11-07 16:03:34,numeral_arabico
+ERR000069,"estrada protasio alves, 2044, petropolis, porto",RS,Porto,2025-11-02 16:54:34,cidade_incompleta
+ERR000070,"travessa nove de julho, 3516",SP,São Paulo,2025-11-10 21:59:34,numeral_por_extenso
+ERR000071,"estrada presidente vargas, 1546, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-19 17:41:34,minusculas
+ERR000072,"rua agamenon magalhaes, 2244",PE,Recife,2025-10-28 16:22:34,numeral_por_extenso
+ERR000073,"travessa xv de novembro, 745",RJ,Rio de Janeiro,2025-11-13 04:30:34,abreviacao_numeral
+ERR000074,"travessa brigadeiro faria lima, 2754, em frente ao banco, itam bibi",SP,São Paulo,2025-11-25 04:22:34,referencia_local
+ERR000075,"alameda oswaldo cruz, 902, botafogo, rio",RJ,Rio,2025-11-15 12:27:34,cidade_incompleta
+ERR000076,"Tv xv de novembro, 2621",MG,Belo Horizonte,2025-11-25 20:46:34,abreviacao_numeral
+ERR000077,"travessa boa viagem, 2338, boa viagem, recife",,Recife,2025-11-18 01:43:34,uf_ausente
+ERR000078,"estrada amazonas, 2067, centro, belo horizonte",,Belo Horizonte,2025-11-15 10:30:34,uf_ausente
+ERR000079,avenida primeiro de março 112 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-02 16:28:34,formato_sequencial
+ERR000080,"praça conde da boa vista, derby, recife",PE,Recife,2025-11-07 09:34:34,numero_ausente
+ERR000081,"TRAVESSA VINTE E TRES DE MAIO, 4787, LIBERDADE, São Paulo - SP",SP,São Paulo,2025-11-24 17:41:34,formato_completo
+ERR000082,"rua primeiro de março, 4806",RJ,Rio de Janeiro,2025-11-19 22:21:34,numeral_por_extenso
+ERR000083,"avenida presidente vargas, 4478, sala 10, centro",RJ,Rio de Janeiro,2025-11-03 05:01:34,complemento
+ERR000084,"estrada reboucas, 359, pinheiros, são paulo",SP,São Paulo,2025-11-20 07:14:34,minusculas
+ERR000085,"praça nove de julho, 2999, são paulo",SP,São Paulo,2025-11-05 22:42:34,bairro_ausente
+ERR000086,"avenida amazonas, 3956, ao lado da escola, centro",MG,Belo Horizonte,2025-10-28 03:59:34,referencia_local
+ERR000087,"estrada das flores, 4909, jardim, rio",RJ,Rio,2025-11-04 16:31:34,cidade_incompleta
+ERR000088,"RUA ATLANTICA, 1559, COPACABANA, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-10 23:15:34,formato_completo
+ERR000089,"avenida protasio alves, 1356, porto alegre",RS,Porto Alegre,2025-11-02 04:25:34,bairro_ausente
+ERR000090,"viela eixo monumental, 3284, asa norte, brasí",DF,Brasília,2025-11-20 15:49:34,cidade_incompleta
+ERR000091,"travessa paulista, 4851",SP,São Paulo,2025-11-09 22:03:34,abreviacao
+ERR000092,"alameda 2486 de novembro, 2486",DF,Brasília,2025-11-16 22:32:34,numeral_arabico
+ERR000093,"avenida 1402 de novembro, 1402",DF,Brasília,2025-11-25 03:34:34,numeral_arabico
+ERR000094,"rua sao joao, 1214, republica, são",SP,São,2025-10-28 16:32:34,cidade_incompleta
+ERR000095,travessa oswaldo cruz 1721 botafogo rio de janeiro rj,RJ,Rio de Janeiro,2025-11-23 20:08:34,formato_sequencial
+ERR000096,"da aurora, 2659, boa vista",PE,Recife,2025-10-26 21:53:34,sem_tipo_logradouro
+ERR000097,"alameda eixo monumental, 1095, ao lado da escola, asa norte",DF,Brasília,2025-11-17 10:46:34,referencia_local
+ERR000098,"praça do ouvidor, 1797, centro, rio",RJ,Rio,2025-11-21 12:48:34,cidade_incompleta
+ERR000099,"avenida w3 norte, 3130, asa norte, brasí",DF,Brasília,2025-10-30 00:09:34,cidade_incompleta
+ERR000100,"travessa 3623 de novembro, 3623",DF,Brasília,2025-11-16 12:36:34,numeral_arabico
+ERR000101,"estrada 3655 de novembro, 3655",PE,Recife,2025-11-02 21:22:34,numeral_arabico
+ERR000102,"conde da boa vista, 3925, derby",PE,Recife,2025-11-11 15:20:34,sem_tipo_logradouro
+ERR000103,"estrada quinze de novembro, 1548, centro, são paulo",,São Paulo,2025-10-26 21:38:34,uf_ausente
+ERR000104,"RUA SAO JOAO, 2541, REPUBLICA, São Paulo",SP,São Paulo,2025-10-29 14:57:34,maiusculas
+ERR000105,"travessa agamenon magalhaes, 569, derby, recife",PE,Recife,2025-11-24 07:34:34,minusculas
+ERR000106,"viela tupis, centro, belo horizonte",MG,Belo Horizonte,2025-11-21 21:01:34,numero_ausente
+ERR000107,"AVENIDA DO OUVIDOR, 3096, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-26 16:57:34,formato_completo
+ERR000108,"rua 1083 de novembro, 1083",RJ,Rio de Janeiro,2025-11-02 18:32:34,numeral_arabico
+ERR000109,"rua setembro, 77",RJ,Rio de Janeiro,2025-11-08 20:57:34,erro_fonetico
+ERR000110,"avenida boavista, 1658, boa viagem, recife",PE,Recife,2025-11-11 01:52:34,minusculas
+ERR000111,"estrada bahia, 2519, loja 2, centro",MG,Belo Horizonte,2025-11-22 13:46:34,complemento
+ERR000112,"alameda w3 norte, 4454",DF,Brasília,2025-11-26 19:43:34,erro_fonetico
+ERR000113,"alameda w3 norte, asa norte, brasília",DF,Brasília,2025-10-29 07:40:34,numero_ausente
+ERR000114,"travessa 197 de novembro, 197",RJ,Rio de Janeiro,2025-11-13 08:40:34,numeral_arabico
+ERR000115,"ALAMEDA DA AURORA, 1851, BOA VISTA, Recife - PE",PE,Recife,2025-11-04 21:57:34,formato_completo
+ERR000116,"largo primeiro de março, 1390",RJ,Rio de Janeiro,2025-11-19 17:31:34,erro_fonetico
+ERR000117,"avenida da aurora, 2734",PE,Recife,2025-11-15 17:52:34,erro_fonetico
+ERR000118,"estrada atlantica, 1459, ao lado da escola, copacabana",RJ,Rio de Janeiro,2025-11-16 01:38:34,referencia_local
+ERR000119,"amazonas, 2471, centro",MG,Belo Horizonte,2025-11-15 17:32:34,tipo_logradouro_ausente
+ERR000120,"borges de medeiros, 2175, centro",RS,Porto Alegre,2025-11-01 19:54:34,sem_tipo_logradouro
+ERR000121,"estrada setembro, 2624, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-14 06:03:34,minusculas
+ERR000122,"avenida dos andradas, 928, perto do metrô, centro",RS,Porto Alegre,2025-11-18 16:44:34,referencia_local
+ERR000123,"ESTRADA BOA VIAGEM, 1490, BOA VIAGEM, Recife - PE",PE,Recife,2025-11-15 10:18:34,formato_completo
+ERR000124,"largo amazonas, 3392, apto 201, centro",MG,Belo Horizonte,2025-10-31 23:51:34,complemento
+ERR000125,viela ipiranga 3430 republica são paulo sp,SP,São Paulo,2025-11-11 03:15:34,formato_sequencial
+ERR000126,"borges de medeiros, 3151, centro",RS,Porto Alegre,2025-11-07 22:23:34,sem_tipo_logradouro
+ERR000127,"travessa 715 de novembro, 715",DF,Brasília,2025-11-15 20:36:34,numeral_arabico
+ERR000128,"praça das flores, 4575, jardim, rio de janeiro",,Rio de Janeiro,2025-10-27 15:51:34,uf_ausente
+ERR000129,"entregar na rua primeiro de março, 2862 perto da praça, centro",RJ,Rio de Janeiro,2025-11-17 06:40:34,texto_livre
+ERR000130,"viela eixo monumental, 1987",DF,Brasília,2025-10-31 13:46:34,numeral_por_extenso
+ERR000131,"AVENIDA URUGUAIANA, 1173, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-03 20:05:34,formato_completo
+ERR000132,"praça amazonas, 444",MG,Belo Horizonte,2025-11-05 02:45:34,erro_fonetico
+ERR000133,"estrada dos andradas, 248, centro, porto alegre",RS,Porto Alegre,2025-11-15 16:44:34,minusculas
+ERR000134,"avenida ipiranga, 103, perto da praça, republica",SP,São Paulo,2025-11-02 15:19:34,referencia_local
+ERR000135,"alameda uruguaiana, 3852, perto do metrô, centro",RJ,Rio de Janeiro,2025-11-16 05:59:34,referencia_local
+ERR000136,"alameda do ouvidor, 912, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-25 00:47:34,minusculas
+ERR000137,"ESTRADA QUINZE DE NOVEMBRO, 90, CENTRO, São Paulo - SP",SP,São Paulo,2025-10-31 07:06:34,formato_completo
+ERR000138,"alameda tupis, centro, belo horizonte",MG,Belo Horizonte,2025-11-16 22:35:34,numero_ausente
+ERR000139,"amazonas, 2227, centro",MG,Belo Horizonte,2025-11-10 08:41:34,sem_tipo_logradouro
+ERR000140,"viela 459 de novembro, 459",SP,São Paulo,2025-11-14 14:57:34,numeral_arabico
+ERR000141,"avenida eixo monumental, 3838, asa norte, brasília",,Brasília,2025-11-16 00:08:34,uf_ausente
+ERR000142,"VIELA xv de novembro, 1351",PE,Recife,2025-11-06 07:37:34,abreviacao_numeral
+ERR000143,"vinte e tres de maio, 856, liberdade",SP,São Paulo,2025-11-15 01:00:34,sem_tipo_logradouro
+ERR000144,"boavista, 1963, boa viagem",PE,Recife,2025-11-21 03:43:34,tipo_logradouro_ausente
+ERR000145,"Travessa copacabana, 4892",RJ,Rio de Janeiro,2025-11-20 03:37:34,abreviacao
+ERR000146,"atlantica, 2206, copacabana",RJ,Rio de Janeiro,2025-11-08 02:47:34,sem_tipo_logradouro
+ERR000147,"rua dos andradas, 394, apto 101, centro",RS,Porto Alegre,2025-10-27 11:49:34,complemento
+ERR000148,"alameda da aurora, boa vista, recife",PE,Recife,2025-11-20 10:01:34,numero_ausente
+ERR000149,"praça agamenon magalhaes, 1062",PE,Recife,2025-11-16 06:52:34,erro_fonetico
+ERR000150,"avenida protasio alves, 4114, petropolis, porto alegre",RS,Porto Alegre,2025-11-26 01:59:34,minusculas
+ERR000151,"LARGO xv de novembro, 4804",PE,Recife,2025-11-21 16:06:34,abreviacao_numeral
+ERR000152,"avenida 765 de novembro, 765",MG,Belo Horizonte,2025-10-29 13:58:34,numeral_arabico
+ERR000153,"estrada setembro, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-03 01:08:34,numero_ausente
+ERR000154,"praça w3 sul, 3666, asa sul, brasília",DF,Brasília,2025-11-16 11:26:34,minusculas
+ERR000155,"rua 3176 de novembro, 3176",MG,Belo Horizonte,2025-11-20 01:11:34,numeral_arabico
+ERR000156,"estrada copacabana, 4645, copacabana, rio de janeiro",,Rio de Janeiro,2025-11-23 20:40:34,uf_ausente
+ERR000157,"avenida marques de itu, 4088",SP,São Paulo,2025-11-12 10:39:34,erro_fonetico
+ERR000158,"estrada sao joao, 559, republica, são",SP,São,2025-11-08 09:27:34,cidade_incompleta
+ERR000159,"avenida rio branco, 1468, rio de janeiro",RJ,Rio de Janeiro,2025-11-18 05:33:34,bairro_ausente
+ERR000160,"estrada bahia, 1016, centro, belo horizonte",,Belo Horizonte,2025-11-25 08:55:34,uf_ausente
+ERR000161,"viela sao joao, 3351, republica, são paulo",SP,São Paulo,2025-11-12 09:17:34,minusculas
+ERR000162,"praça boa viagem, 684, ao lado da escola, boa viagem",PE,Recife,2025-11-12 11:53:34,referencia_local
+ERR000163,rua atlantica 2006 copacabana rio de janeiro rj,RJ,Rio de Janeiro,2025-11-26 15:55:34,formato_sequencial
+ERR000164,"ALAMEDA PRESIDENTE VARGAS, 3079, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-08 07:55:34,maiusculas
+ERR000165,"travessa copacabana, 3181, rio de janeiro",RJ,Rio de Janeiro,2025-11-05 18:27:34,bairro_ausente
+ERR000166,"largo tupis, 4384, belo horizonte",MG,Belo Horizonte,2025-11-23 18:38:34,bairro_ausente
+ERR000167,"viela presidente vargas, 3549",RJ,Rio de Janeiro,2025-11-14 10:45:34,numeral_por_extenso
+ERR000168,"praça boa viagem, 4951, boa viagem, recife",,Recife,2025-11-19 22:02:34,uf_ausente
+ERR000169,"avenida dos andradas, 2281, porto alegre",RS,Porto Alegre,2025-11-25 03:40:34,bairro_ausente
+ERR000170,"estrada dos andradas, 1749, bloco B, centro",RS,Porto Alegre,2025-11-25 01:00:34,complemento
+ERR000171,"rua do comercio, 2962, em frente ao banco, sao jose",PE,Recife,2025-11-20 19:36:34,referencia_local
+ERR000172,"viela das flores, 2211, jardim, rio",RJ,Rio,2025-11-06 15:44:34,cidade_incompleta
+ERR000173,"AVENIDA SETEMBRO, 2244, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-24 10:54:34,formato_completo
+ERR000174,"viela bahia, 4299",MG,Belo Horizonte,2025-11-05 12:38:34,numeral_por_extenso
+ERR000175,"avenida oswaldo cruz, 3511, sala 10, botafogo",RJ,Rio de Janeiro,2025-11-21 14:27:34,complemento
+ERR000176,largo afonso pena 3896 centro belo horizonte mg,MG,Belo Horizonte,2025-11-04 15:05:34,formato_sequencial
+ERR000177,"PRAÇA AMAZONAS, 4673, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-10-31 20:14:34,formato_completo
+ERR000178,"avenida reboucas, 4739, pinheiros, são paulo",SP,São Paulo,2025-11-15 22:57:34,minusculas
+ERR000179,"rua boa viagem, 1233, recife",PE,Recife,2025-10-28 16:18:34,bairro_ausente
+ERR000180,"avenida boa viagem, 3330, boa viagem, recif",PE,Recife,2025-11-09 21:49:34,cidade_incompleta
+ERR000181,"estrada bahia, 3681",MG,Belo Horizonte,2025-11-25 14:02:34,erro_fonetico
+ERR000182,"VIELA REBOUCAS, 4474, PINHEIROS, São Paulo",SP,São Paulo,2025-11-07 08:36:34,maiusculas
+ERR000183,"Travessa da aurora, 1566",PE,Recife,2025-10-31 09:48:34,abreviacao
+ERR000184,"alameda marques de itu, 4114",SP,São Paulo,2025-11-04 05:08:34,erro_fonetico
+ERR000185,"entregar na viela tupis, 3362 próximo ao mercado, centro",MG,Belo Horizonte,2025-10-31 03:22:34,texto_livre
+ERR000186,"PRAÇA W3 SUL, 929, ASA SUL, Brasília",DF,Brasília,2025-11-12 07:26:34,maiusculas
+ERR000187,"estrada quinze de novembro, 4447, em frente ao banco, centro",SP,São Paulo,2025-11-16 23:05:34,referencia_local
+ERR000188,"amazonas, 813, centro",MG,Belo Horizonte,2025-11-01 17:44:34,sem_tipo_logradouro
+ERR000189,"viela das flores, 850, jardim, rio de janeiro",,Rio de Janeiro,2025-11-03 00:50:34,uf_ausente
+ERR000190,"avenida w3 norte, asa norte, brasília",DF,Brasília,2025-11-08 19:07:34,numero_ausente
+ERR000191,"viela 1736 de novembro, 1736",SP,São Paulo,2025-11-02 06:14:34,numeral_arabico
+ERR000192,"avenida do comercio, 1603, sao jose, recife",,Recife,2025-10-27 17:27:34,uf_ausente
+ERR000193,"VIELA tupis, 3243",MG,Belo Horizonte,2025-11-01 13:17:34,abreviacao
+ERR000194,"sao joao, 2167, republica",SP,São Paulo,2025-10-31 07:06:34,tipo_logradouro_ausente
+ERR000195,"R. xv de novembro, 3397",SP,São Paulo,2025-11-26 15:59:34,abreviacao_numeral
+ERR000196,"PRAÇA CONDE DA BOA VISTA, 2746, DERBY, Recife",PE,Recife,2025-10-27 02:22:34,maiusculas
+ERR000197,"VIELA IPIRANGA, 1579, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-10-31 18:58:34,formato_completo
+ERR000198,"ESTRADA AMAZONAS, 3199, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-14 10:16:34,maiusculas
+ERR000199,"viela paulista, 1893",SP,São Paulo,2025-11-04 16:17:34,erro_fonetico
+ERR000200,viela primeiro de março 2132 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-21 10:36:34,formato_sequencial
+ERR000201,"avenida rio branco, 211, , centro",RJ,Rio de Janeiro,2025-11-06 02:40:34,referencia_local
+ERR000202,"AVENIDA DAS FLORES, 4685, JARDIM, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-25 21:03:34,formato_completo
+ERR000203,"LARGO URUGUAIANA, 2934, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-18 23:52:34,maiusculas
+ERR000204,alameda brigadeiro faria lima 1588 itam bibi são paulo sp,SP,São Paulo,2025-10-31 13:03:34,formato_sequencial
+ERR000205,"alameda do comercio, 424, sao jose, recif",PE,Recife,2025-11-24 16:09:34,cidade_incompleta
+ERR000206,"avenida das flores, 909, rio de janeiro",RJ,Rio de Janeiro,2025-10-28 01:42:34,bairro_ausente
+ERR000207,"estrada presidente vargas, 2314, centro, rio",RJ,Rio,2025-10-29 15:44:34,cidade_incompleta
+ERR000208,"largo copacabana, 2961",RJ,Rio de Janeiro,2025-11-14 17:18:34,numeral_por_extenso
+ERR000209,"viela das flores, 603, jardim, rio de janeiro",,Rio de Janeiro,2025-10-27 00:45:34,uf_ausente
+ERR000210,"viela consolacao, 3075, loja 2, consolacao",SP,São Paulo,2025-11-01 15:38:34,complemento
+ERR000211,"R. xv de novembro, 1464",SP,São Paulo,2025-11-16 09:19:34,abreviacao_numeral
+ERR000212,"rua w3 norte, asa norte, brasília",DF,Brasília,2025-11-03 11:50:34,numero_ausente
+ERR000213,"Tv. primeiro de março, 4966",RJ,Rio de Janeiro,2025-11-10 04:01:34,abreviacao
+ERR000214,"travessa setembro, 2990",RJ,Rio de Janeiro,2025-10-29 14:48:34,erro_fonetico
+ERR000215,"boa viagem, 1801, boa viagem",PE,Recife,2025-11-02 22:41:34,sem_tipo_logradouro
+ERR000216,"alameda vinte e tres de maio, 3946",SP,São Paulo,2025-10-27 18:27:34,numeral_por_extenso
+ERR000217,"alameda eixo monumental, 3827, asa norte, brasília",,Brasília,2025-11-13 04:24:34,uf_ausente
+ERR000218,"alameda reboucas, 1417",SP,São Paulo,2025-11-04 22:32:34,numeral_por_extenso
+ERR000219,"agamenon magalhaes, 4782, derby",PE,Recife,2025-11-21 14:03:34,tipo_logradouro_ausente
+ERR000220,"viela borges de medeiros, 3655, ao lado da escola, centro",RS,Porto Alegre,2025-11-03 11:57:34,referencia_local
+ERR000221,"AVENIDA BOA VIAGEM, 4975, BOA VIAGEM, Recife - PE",PE,Recife,2025-11-13 14:13:34,formato_completo
+ERR000222,"praça da aurora, 527, recife",PE,Recife,2025-11-21 19:17:34,bairro_ausente
+ERR000223,"viela nove de julho, republica, são paulo",SP,São Paulo,2025-11-15 08:48:34,numero_ausente
+ERR000224,"estrada primeiro de março, 2644, perto da praça, centro",RJ,Rio de Janeiro,2025-11-15 13:45:34,referencia_local
+ERR000225,"praça consolacao, 3048, consolacao, são paulo",SP,São Paulo,2025-11-02 10:42:34,minusculas
+ERR000226,"praça do ouvidor, 90, apto 301, centro",RJ,Rio de Janeiro,2025-11-12 01:59:34,complemento
+ERR000227,"boa viagem, 4601, boa viagem",PE,Recife,2025-11-14 11:11:34,sem_tipo_logradouro
+ERR000228,travessa consolacao 844 consolacao são paulo sp,SP,São Paulo,2025-11-17 22:11:34,formato_sequencial
+ERR000229,"viela copacabana, 3566, sala 20, copacabana",RJ,Rio de Janeiro,2025-11-20 14:46:34,complemento
+ERR000230,"largo borges de medeiros, 384, centro, porto",RS,Porto,2025-11-13 17:42:34,cidade_incompleta
+ERR000231,"estrada bahia, 4927, bloco B, centro",MG,Belo Horizonte,2025-11-14 13:13:34,complemento
+ERR000232,"alameda das flores, 147",RJ,Rio de Janeiro,2025-11-17 15:56:34,abreviacao
+ERR000233,"rua agamenon magalhaes, derby, recife",PE,Recife,2025-11-25 10:08:34,numero_ausente
+ERR000234,"avenida das flores, 3850",RJ,Rio de Janeiro,2025-10-31 07:03:34,erro_fonetico
+ERR000235,"entregar na alameda marques de itu, 2599 em frente ao banco, vila buarque",SP,São Paulo,2025-11-24 03:00:34,texto_livre
+ERR000236,"LARGO BOA VIAGEM, 386, BOA VIAGEM, Recife - PE",PE,Recife,2025-11-16 22:20:34,formato_completo
+ERR000237,"avenida borges de medeiros, 3064",RS,Porto Alegre,2025-11-26 13:46:34,erro_fonetico
+ERR000238,"estrada do ouvidor, 862, loja 1, centro",RJ,Rio de Janeiro,2025-11-19 15:44:34,complemento
+ERR000239,"Pç. reboucas, 4404",SP,São Paulo,2025-11-18 19:42:34,abreviacao
+ERR000240,"alameda oswaldo cruz, 615, botafogo, rio",RJ,Rio,2025-11-15 22:10:34,cidade_incompleta
+ERR000241,"alameda do comercio, 1396, sao jose, recife",PE,Recife,2025-11-08 06:42:34,minusculas
+ERR000242,"praça uruguaiana, 1213, perto do metrô, centro",RJ,Rio de Janeiro,2025-11-11 23:42:34,referencia_local
+ERR000243,"travessa w3 sul, 4735, asa sul, brasília",,Brasília,2025-11-05 05:32:34,uf_ausente
+ERR000244,"boa viagem, 1851, boa viagem",PE,Recife,2025-11-18 11:04:34,sem_tipo_logradouro
+ERR000245,"praça 4576 de novembro, 4576",RJ,Rio de Janeiro,2025-11-05 00:02:34,numeral_arabico
+ERR000246,"avenida consolacao, 616, consolacao, são paulo",,São Paulo,2025-11-25 14:49:34,uf_ausente
+ERR000247,"largo consolacao, 3155",SP,São Paulo,2025-11-11 17:28:34,numeral_por_extenso
+ERR000248,"praça consolacao, 2555, são paulo",SP,São Paulo,2025-11-06 15:55:34,bairro_ausente
+ERR000249,"avenida 1066 de novembro, 1066",RS,Porto Alegre,2025-10-28 09:25:34,numeral_arabico
+ERR000250,"travessa bahia, 3279",MG,Belo Horizonte,2025-11-24 12:22:34,numeral_por_extenso
+ERR000251,"alameda paulista, 4729",SP,São Paulo,2025-11-22 05:53:34,erro_fonetico
+ERR000252,"avenida presidente vargas, 1971",RJ,Rio de Janeiro,2025-11-21 12:48:34,abreviacao
+ERR000253,"largo dos andradas, 2884, centro, porto",RS,Porto,2025-11-23 03:44:34,cidade_incompleta
+ERR000254,"viela da aurora, 1738, boa vista, recife",PE,Recife,2025-11-14 04:22:34,minusculas
+ERR000255,"praça protasio alves, 436, porto alegre",RS,Porto Alegre,2025-11-18 09:43:34,bairro_ausente
+ERR000256,"viela oswaldo cruz, 3462",RJ,Rio de Janeiro,2025-11-17 14:24:34,numeral_por_extenso
+ERR000257,"alameda quinze de novembro, 4339, centro, são paulo",,São Paulo,2025-11-10 07:43:34,uf_ausente
+ERR000258,"travessa 910 de novembro, 910",RJ,Rio de Janeiro,2025-11-23 18:52:34,numeral_arabico
+ERR000259,"atlantica, 1956, copacabana",RJ,Rio de Janeiro,2025-11-09 17:32:34,sem_tipo_logradouro
+ERR000260,"VIELA BRIGADEIRO FARIA LIMA, 3211, ITAM BIBI, São Paulo - SP",SP,São Paulo,2025-11-23 13:03:34,formato_completo
+ERR000261,"LARGO VINTE E TRES DE MAIO, 1686, LIBERDADE, São Paulo",SP,São Paulo,2025-11-01 14:27:34,maiusculas
+ERR000262,"alameda sao joao, 26",SP,São Paulo,2025-11-21 03:51:34,erro_fonetico
+ERR000263,"ALAMEDA DOS ANDRADAS, 1955, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-15 23:45:34,maiusculas
+ERR000264,"estrada paulista, 2722, são paulo",SP,São Paulo,2025-11-22 20:07:34,bairro_ausente
+ERR000265,"VIELA dos andradas, 2737",RS,Porto Alegre,2025-11-18 18:39:34,abreviacao
+ERR000266,"praça do ouvidor, 3882",RJ,Rio de Janeiro,2025-10-30 13:19:34,abreviacao
+ERR000267,"primeiro de março, 143, centro",RJ,Rio de Janeiro,2025-10-31 13:16:34,tipo_logradouro_ausente
+ERR000268,"estrada protasio alves, 1201",RS,Porto Alegre,2025-11-23 10:58:34,erro_fonetico
+ERR000269,"entregar na largo boavista, 4020 ao lado da escola, boa viagem",PE,Recife,2025-11-17 23:18:34,texto_livre
+ERR000270,"Praça nove de julho, 3759",SP,São Paulo,2025-11-16 22:28:34,abreviacao
+ERR000271,"largo w3 sul, 924, asa sul, brasí",DF,Brasília,2025-11-05 04:03:34,cidade_incompleta
+ERR000272,"estrada 3362 de novembro, 3362",RJ,Rio de Janeiro,2025-11-05 16:27:34,numeral_arabico
+ERR000273,"rua borges de medeiros, 2002, próximo ao mercado, centro",RS,Porto Alegre,2025-11-19 21:44:34,referencia_local
+ERR000274,"viela reboucas, 885, pinheiros, são",SP,São,2025-10-29 00:06:34,cidade_incompleta
+ERR000275,"LARGO W3 NORTE, 4317, ASA NORTE, Brasília",DF,Brasília,2025-11-17 23:27:34,maiusculas
+ERR000276,"viela boavista, 4827, próximo ao mercado, boa viagem",PE,Recife,2025-11-17 14:47:34,referencia_local
+ERR000277,"praça w3 sul, 1008, em frente ao banco, asa sul",DF,Brasília,2025-11-08 09:31:34,referencia_local
+ERR000278,"rua primeiro de março, 4088, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-11 23:40:34,minusculas
+ERR000279,"ALAMEDA W3 SUL, 4573, ASA SUL, Brasília",DF,Brasília,2025-11-17 05:31:34,maiusculas
+ERR000280,"alameda copacabana, 128, rio de janeiro",RJ,Rio de Janeiro,2025-11-25 14:31:34,bairro_ausente
+ERR000281,"primeiro de março, 4001, centro",RJ,Rio de Janeiro,2025-11-26 07:27:34,tipo_logradouro_ausente
+ERR000282,"rua do ouvidor, 2060, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-15 10:59:34,minusculas
+ERR000283,"estrada protasio alves, 705, petropolis, porto",RS,Porto,2025-11-21 21:37:34,cidade_incompleta
+ERR000284,"avenida 2383 de novembro, 2383",MG,Belo Horizonte,2025-11-25 04:50:34,numeral_arabico
+ERR000285,"travessa da aurora, 3165, em frente ao banco, boa vista",PE,Recife,2025-10-27 16:52:34,referencia_local
+ERR000286,"nove de julho, 4891, republica",SP,São Paulo,2025-11-21 02:22:34,tipo_logradouro_ausente
+ERR000287,"estrada boa viagem, 1635, boa viagem, recif",PE,Recife,2025-11-22 07:14:34,cidade_incompleta
+ERR000288,"reboucas, 2499, pinheiros",SP,São Paulo,2025-11-17 01:50:34,sem_tipo_logradouro
+ERR000289,"estrada tupis, 3080, , centro",MG,Belo Horizonte,2025-11-22 04:21:34,referencia_local
+ERR000290,"entregar na praça boa viagem, 3837 em frente ao banco, boa viagem",PE,Recife,2025-11-12 07:23:34,texto_livre
+ERR000291,"rua tupis, 4579",MG,Belo Horizonte,2025-11-24 16:10:34,abreviacao
+ERR000292,"travessa marques de itu, vila buarque, são paulo",SP,São Paulo,2025-11-15 16:10:34,numero_ausente
+ERR000293,"ALAMEDA W3 NORTE, 439, ASA NORTE, Brasília - DF",DF,Brasília,2025-11-22 08:07:34,formato_completo
+ERR000294,"largo do ouvidor, 4244, rio de janeiro",RJ,Rio de Janeiro,2025-10-31 19:44:34,bairro_ausente
+ERR000295,"alameda oswaldo cruz, 877, bloco B, botafogo",RJ,Rio de Janeiro,2025-11-23 11:13:34,complemento
+ERR000296,"praça dos andradas, 499",RS,Porto Alegre,2025-11-03 02:06:34,erro_fonetico
+ERR000297,"rua protasio alves, petropolis, porto alegre",RS,Porto Alegre,2025-11-22 03:02:34,numero_ausente
+ERR000298,"estrada borges de medeiros, 1832, centro, porto alegre",RS,Porto Alegre,2025-11-17 00:30:34,minusculas
+ERR000299,"largo do ouvidor, 1645",RJ,Rio de Janeiro,2025-11-24 20:40:34,erro_fonetico
+ERR000300,"avenida primeiro de março, 2026",RJ,Rio de Janeiro,2025-11-23 05:48:34,numeral_por_extenso
+ERR000301,"LARGO xv de novembro, 3201",RS,Porto Alegre,2025-11-17 08:19:34,abreviacao_numeral
+ERR000302,"travessa quinze de novembro, 4479, centro, são",SP,São,2025-10-31 01:06:34,cidade_incompleta
+ERR000303,"avenida bahia, 3542, centro, belo horizonte",MG,Belo Horizonte,2025-11-06 20:38:34,minusculas
+ERR000304,"travessa setembro, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-02 22:15:34,numero_ausente
+ERR000305,"reboucas, 3936, pinheiros",SP,São Paulo,2025-11-16 23:43:34,tipo_logradouro_ausente
+ERR000306,"PRAÇA BORGES DE MEDEIROS, 2255, CENTRO, Porto Alegre - RS",RS,Porto Alegre,2025-11-13 21:58:34,formato_completo
+ERR000307,"largo presidente vargas, 3416, perto da praça, centro",RJ,Rio de Janeiro,2025-11-26 11:20:34,referencia_local
+ERR000308,"primeiro de março, 91, centro",RJ,Rio de Janeiro,2025-11-25 00:08:34,tipo_logradouro_ausente
+ERR000309,"rua bahia, 2906, centro, belo horizonte",MG,Belo Horizonte,2025-11-11 21:20:34,minusculas
+ERR000310,"entregar na rua vinte e tres de maio, 1297 ao lado da escola, liberdade",SP,São Paulo,2025-10-30 04:36:34,texto_livre
+ERR000311,"da aurora, 4203, boa vista",PE,Recife,2025-11-21 00:40:34,sem_tipo_logradouro
+ERR000312,"praça da aurora, 3765, boa vista, recife",PE,Recife,2025-11-17 23:30:34,minusculas
+ERR000313,"AVENIDA AGAMENON MAGALHAES, 3963, DERBY, Recife - PE",PE,Recife,2025-10-27 05:11:34,formato_completo
+ERR000314,"alameda quinze de novembro, 1061, bloco B, centro",SP,São Paulo,2025-10-27 02:27:34,complemento
+ERR000315,"av agamenon magalhaes, 369",PE,Recife,2025-11-03 15:35:34,abreviacao
+ERR000316,"avenida presidente vargas, 4092, centro, rio de janeiro",,Rio de Janeiro,2025-11-16 13:00:34,uf_ausente
+ERR000317,"AVENIDA IPIRANGA, 1426, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-11-02 06:50:34,formato_completo
+ERR000318,"rua copacabana, 2052",RJ,Rio de Janeiro,2025-11-24 21:45:34,erro_fonetico
+ERR000319,"Pç bahia, 4969",MG,Belo Horizonte,2025-11-16 17:05:34,abreviacao
+ERR000320,viela bahia 1092 centro belo horizonte mg,MG,Belo Horizonte,2025-11-20 14:33:34,formato_sequencial
+ERR000321,"largo 2344 de novembro, 2344",RS,Porto Alegre,2025-11-19 21:39:34,numeral_arabico
+ERR000322,"Tv. amazonas, 705",MG,Belo Horizonte,2025-11-20 18:58:34,abreviacao
+ERR000323,"rua uruguaiana, 2946, ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-09 18:28:34,referencia_local
+ERR000324,"largo quinze de novembro, 1558",SP,São Paulo,2025-11-08 05:17:34,numeral_por_extenso
+ERR000325,"praça da aurora, 4577, boa vista, recife",PE,Recife,2025-11-01 18:21:34,minusculas
+ERR000326,"amazonas, 581, centro",MG,Belo Horizonte,2025-11-22 04:30:34,sem_tipo_logradouro
+ERR000327,"avenida 4086 de novembro, 4086",RJ,Rio de Janeiro,2025-11-25 01:15:34,numeral_arabico
+ERR000328,"boavista, 1836, boa viagem",PE,Recife,2025-10-28 12:25:34,tipo_logradouro_ausente
+ERR000329,"da aurora, 1294, boa vista",PE,Recife,2025-11-24 03:13:34,tipo_logradouro_ausente
+ERR000330,"Al. xv de novembro, 3271",SP,São Paulo,2025-11-08 04:50:34,abreviacao_numeral
+ERR000331,"rua nove de julho, 265, loja 1, republica",SP,São Paulo,2025-11-18 14:28:34,complemento
+ERR000332,estrada oswaldo cruz 1674 botafogo rio de janeiro rj,RJ,Rio de Janeiro,2025-10-30 21:28:34,formato_sequencial
+ERR000333,"oswaldo cruz, 4044, botafogo",RJ,Rio de Janeiro,2025-11-01 01:52:34,sem_tipo_logradouro
+ERR000334,"praça atlantica, 580, ao lado da escola, copacabana",RJ,Rio de Janeiro,2025-11-03 00:50:34,referencia_local
+ERR000335,"largo rio branco, 1061, centro, rio",RJ,Rio,2025-11-03 19:43:34,cidade_incompleta
+ERR000336,"largo 4159 de novembro, 4159",RJ,Rio de Janeiro,2025-11-06 09:22:34,numeral_arabico
+ERR000337,"Al. dos andradas, 1866",RS,Porto Alegre,2025-11-26 14:15:34,abreviacao
+ERR000338,"rua do comercio, 4527, sao jose, recife",,Recife,2025-11-25 08:00:34,uf_ausente
+ERR000339,"estrada do comercio, 3521, ao lado da escola, sao jose",PE,Recife,2025-11-22 17:21:34,referencia_local
+ERR000340,"praça primeiro de março, 2882",RJ,Rio de Janeiro,2025-11-16 06:51:34,numeral_por_extenso
+ERR000341,"oswaldo cruz, 1901, botafogo",RJ,Rio de Janeiro,2025-11-08 20:35:34,sem_tipo_logradouro
+ERR000342,"rua 123 de novembro, 123",MG,Belo Horizonte,2025-10-31 19:45:34,numeral_arabico
+ERR000343,"ESTRADA OSWALDO CRUZ, 3593, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-17 19:29:34,maiusculas
+ERR000344,"travessa da aurora, 2396, boa vista, recife",PE,Recife,2025-11-07 08:19:34,minusculas
+ERR000345,"avenida primeiro de março, 626, centro, rio",RJ,Rio,2025-10-27 03:36:34,cidade_incompleta
+ERR000346,"praça borges de medeiros, 1805, porto alegre",RS,Porto Alegre,2025-11-04 11:26:34,bairro_ausente
+ERR000347,"alameda eixo monumental, asa norte, brasília",DF,Brasília,2025-10-29 12:29:34,numero_ausente
+ERR000348,"entregar na avenida w3 norte, 443 em frente ao banco, asa norte",DF,Brasília,2025-11-04 01:18:34,texto_livre
+ERR000349,"avenida vinte e tres de maio, 1668, liberdade, são paulo",SP,São Paulo,2025-10-31 04:35:34,minusculas
+ERR000350,"entregar na travessa marques de itu, 1006 perto do metrô, vila buarque",SP,São Paulo,2025-10-31 16:47:34,texto_livre
+ERR000351,"largo ipiranga, 3718",SP,São Paulo,2025-11-26 04:56:34,erro_fonetico
+ERR000352,"ALAMEDA ATLANTICA, 2278, COPACABANA, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-17 18:46:34,formato_completo
+ERR000353,"VIELA vinte e tres de maio, 4058",SP,São Paulo,2025-11-14 06:47:34,abreviacao
+ERR000354,"TRAVESSA BRIGADEIRO FARIA LIMA, 3108, ITAM BIBI, São Paulo",SP,São Paulo,2025-11-05 07:15:34,maiusculas
+ERR000355,alameda oswaldo cruz 257 botafogo rio de janeiro rj,RJ,Rio de Janeiro,2025-11-02 08:50:34,formato_sequencial
+ERR000356,"praça das flores, 2151",RJ,Rio de Janeiro,2025-11-02 20:28:34,numeral_por_extenso
+ERR000357,"viela amazonas, 468",MG,Belo Horizonte,2025-11-09 08:03:34,erro_fonetico
+ERR000358,"largo sao joao, republica, são paulo",SP,São Paulo,2025-11-18 15:25:34,numero_ausente
+ERR000359,"Travessa tupis, 1081",MG,Belo Horizonte,2025-10-31 23:32:34,abreviacao
+ERR000360,"rio branco, 4447, centro",RJ,Rio de Janeiro,2025-11-16 02:24:34,tipo_logradouro_ausente
+ERR000361,"alameda atlantica, 2964, copacabana, rio",RJ,Rio,2025-11-05 11:59:34,cidade_incompleta
+ERR000362,"avenida do ouvidor, 2515, sala 10, centro",RJ,Rio de Janeiro,2025-10-30 15:21:34,complemento
+ERR000363,"rua tupis, 3604",MG,Belo Horizonte,2025-11-25 09:19:34,abreviacao
+ERR000364,"Tv. xv de novembro, 3348",DF,Brasília,2025-11-18 01:14:34,abreviacao_numeral
+ERR000365,"AVENIDA BOA VIAGEM, 3609, BOA VIAGEM, Recife",PE,Recife,2025-11-18 12:33:34,maiusculas
+ERR000366,"ESTRADA BORGES DE MEDEIROS, 1864, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-22 01:08:34,maiusculas
+ERR000367,"Tv xv de novembro, 938",RJ,Rio de Janeiro,2025-11-05 03:54:34,abreviacao_numeral
+ERR000368,praça bahia 344 centro belo horizonte mg,MG,Belo Horizonte,2025-11-04 13:46:34,formato_sequencial
+ERR000369,"entregar na alameda nove de julho, 133 ao lado da escola, republica",SP,São Paulo,2025-11-04 19:11:34,texto_livre
+ERR000370,"ipiranga, 895, republica",SP,São Paulo,2025-11-10 06:42:34,sem_tipo_logradouro
+ERR000371,"avenida protasio alves, 1942",RS,Porto Alegre,2025-11-16 02:26:34,numeral_por_extenso
+ERR000372,"afonso pena, 3494, centro",MG,Belo Horizonte,2025-11-22 20:29:34,tipo_logradouro_ausente
+ERR000373,"entregar na praça conde da boa vista, 3344 em frente ao banco, derby",PE,Recife,2025-10-27 11:10:34,texto_livre
+ERR000374,"Estrada xv de novembro, 3018",RJ,Rio de Janeiro,2025-10-28 15:51:34,abreviacao_numeral
+ERR000375,"avenida das flores, 4990",RJ,Rio de Janeiro,2025-11-01 10:17:34,numeral_por_extenso
+ERR000376,"PRAÇA PROTASIO ALVES, 1761, PETROPOLIS, Porto Alegre - RS",RS,Porto Alegre,2025-10-31 02:47:34,formato_completo
+ERR000377,"setembro, 643, centro",RJ,Rio de Janeiro,2025-10-27 13:13:34,sem_tipo_logradouro
+ERR000378,"viela protasio alves, 4416",RS,Porto Alegre,2025-10-30 03:58:34,erro_fonetico
+ERR000379,"largo oswaldo cruz, botafogo, rio de janeiro",RJ,Rio de Janeiro,2025-11-12 10:32:34,numero_ausente
+ERR000380,"alameda reboucas, 2000, apto 301, pinheiros",SP,São Paulo,2025-11-01 09:35:34,complemento
+ERR000381,"praça 946 de novembro, 946",MG,Belo Horizonte,2025-11-11 20:53:34,numeral_arabico
+ERR000382,"entregar na praça afonso pena, 653 ao lado da escola, centro",MG,Belo Horizonte,2025-11-10 17:51:34,texto_livre
+ERR000383,"largo 4958 de novembro, 4958",PE,Recife,2025-11-12 07:35:34,numeral_arabico
+ERR000384,"travessa uruguaiana, 3340, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-07 11:59:34,minusculas
+ERR000385,"praça sao joao, 2572",SP,São Paulo,2025-11-24 07:23:34,erro_fonetico
+ERR000386,"estrada protasio alves, 4719, petropolis, porto alegre",,Porto Alegre,2025-11-06 13:52:34,uf_ausente
+ERR000387,"LARGO QUINZE DE NOVEMBRO, 128, CENTRO, São Paulo",SP,São Paulo,2025-11-23 07:33:34,maiusculas
+ERR000388,"largo eixo monumental, 828, asa norte, brasília",DF,Brasília,2025-10-30 18:56:34,minusculas
+ERR000389,"amazonas, 1368, centro",MG,Belo Horizonte,2025-11-22 03:54:34,sem_tipo_logradouro
+ERR000390,"entregar na viela w3 sul, 3460 perto da praça, asa sul",DF,Brasília,2025-11-13 22:14:34,texto_livre
+ERR000391,"alameda ipiranga, 976, sala 20, republica",SP,São Paulo,2025-11-08 01:10:34,complemento
+ERR000392,"entregar na rua presidente vargas, 605 em frente ao banco, centro",RJ,Rio de Janeiro,2025-10-28 07:09:34,texto_livre
+ERR000393,"viela bahia, 2370, centro, belo horizonte",,Belo Horizonte,2025-11-04 16:03:34,uf_ausente
+ERR000394,"AVENIDA quinze de novembro, 1248",SP,São Paulo,2025-11-08 09:06:34,abreviacao
+ERR000395,"viela tupis, 2626, belo horizonte",MG,Belo Horizonte,2025-11-21 04:03:34,bairro_ausente
+ERR000396,"vinte e tres de maio, 1903, liberdade",SP,São Paulo,2025-11-11 10:46:34,tipo_logradouro_ausente
+ERR000397,"viela w3 sul, 2337, loja 1, asa sul",DF,Brasília,2025-11-16 15:40:34,complemento
+ERR000398,"travessa atlantica, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-18 01:53:34,numero_ausente
+ERR000399,"boa viagem, 2846, boa viagem",PE,Recife,2025-11-21 17:31:34,tipo_logradouro_ausente
+ERR000400,"largo 3596 de novembro, 3596",SP,São Paulo,2025-10-29 15:31:34,numeral_arabico
+ERR000401,"avenida nove de julho, 1898, republica, são",SP,São,2025-11-22 17:36:34,cidade_incompleta
+ERR000402,"Est xv de novembro, 225",DF,Brasília,2025-11-26 04:56:34,abreviacao_numeral
+ERR000403,"das flores, 1665, jardim",RJ,Rio de Janeiro,2025-10-27 02:22:34,tipo_logradouro_ausente
+ERR000404,"bahia, 3718, centro",MG,Belo Horizonte,2025-10-28 17:04:34,tipo_logradouro_ausente
+ERR000405,"largo primeiro de março, 3542, centro, rio de janeiro",,Rio de Janeiro,2025-11-18 17:54:34,uf_ausente
+ERR000406,"entregar na alameda uruguaiana, 955 , centro",RJ,Rio de Janeiro,2025-11-03 13:03:34,texto_livre
+ERR000407,"praça copacabana, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-16 12:20:34,numero_ausente
+ERR000408,"avenida xv de novembro, 2579",RS,Porto Alegre,2025-11-22 21:59:34,abreviacao_numeral
+ERR000409,praça w3 sul 1560 asa sul brasília df,DF,Brasília,2025-11-05 00:47:34,formato_sequencial
+ERR000410,"TRAVESSA DO OUVIDOR, 1122, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-10-30 13:06:34,formato_completo
+ERR000411,"alameda reboucas, 3852, pinheiros, são paulo",SP,São Paulo,2025-11-11 15:03:34,minusculas
+ERR000412,"alameda borges de medeiros, 1080",RS,Porto Alegre,2025-11-06 18:16:34,numeral_por_extenso
+ERR000413,"consolacao, 3558, consolacao",SP,São Paulo,2025-11-11 03:10:34,sem_tipo_logradouro
+ERR000414,"estrada consolacao, 318, perto do metrô, consolacao",SP,São Paulo,2025-11-18 01:25:34,referencia_local
+ERR000415,"praça ipiranga, republica, são paulo",SP,São Paulo,2025-11-05 14:53:34,numero_ausente
+ERR000416,"travessa marques de itu, 2394, vila buarque, são paulo",,São Paulo,2025-11-11 00:24:34,uf_ausente
+ERR000417,"largo da aurora, 2421",PE,Recife,2025-11-19 16:53:34,erro_fonetico
+ERR000418,"viela sao joao, 3664, apto 301, republica",SP,São Paulo,2025-11-05 07:42:34,complemento
+ERR000419,"largo quinze de novembro, 2613",SP,São Paulo,2025-11-14 22:24:34,erro_fonetico
+ERR000420,"largo uruguaiana, 4008, perto do metrô, centro",RJ,Rio de Janeiro,2025-11-19 20:31:34,referencia_local
+ERR000421,"Travessa xv de novembro, 3351",SP,São Paulo,2025-11-17 23:29:34,abreviacao_numeral
+ERR000422,"viela afonso pena, 3621, em frente ao banco, centro",MG,Belo Horizonte,2025-11-18 19:32:34,referencia_local
+ERR000423,"Travessa xv de novembro, 2784",RS,Porto Alegre,2025-11-12 07:35:34,abreviacao_numeral
+ERR000424,"travessa paulista, 904, apto 201, bela vista",SP,São Paulo,2025-11-07 03:48:34,complemento
+ERR000425,"viela das flores, 740, sala 20, jardim",RJ,Rio de Janeiro,2025-11-02 03:45:34,complemento
+ERR000426,travessa oswaldo cruz 2967 botafogo rio de janeiro rj,RJ,Rio de Janeiro,2025-11-20 14:56:34,formato_sequencial
+ERR000427,"w3 norte, 1879, asa norte",DF,Brasília,2025-11-01 14:51:34,tipo_logradouro_ausente
+ERR000428,"praça conde da boa vista, 3387",PE,Recife,2025-11-08 21:34:34,numeral_por_extenso
+ERR000429,"rua do ouvidor, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-23 04:24:34,numero_ausente
+ERR000430,"borges de medeiros, 1286, centro",RS,Porto Alegre,2025-11-17 20:35:34,tipo_logradouro_ausente
+ERR000431,"rua ipiranga, 2232",SP,São Paulo,2025-10-31 08:08:34,erro_fonetico
+ERR000432,"agamenon magalhaes, 2212, derby",PE,Recife,2025-11-24 18:17:34,sem_tipo_logradouro
+ERR000433,rua afonso pena 121 centro belo horizonte mg,MG,Belo Horizonte,2025-11-07 16:43:34,formato_sequencial
+ERR000434,"agamenon magalhaes, 4962, derby",PE,Recife,2025-11-01 10:22:34,tipo_logradouro_ausente
+ERR000435,"rua protasio alves, 2476, petropolis, porto",RS,Porto,2025-11-12 14:43:34,cidade_incompleta
+ERR000436,"nove de julho, 3085, republica",SP,São Paulo,2025-11-13 18:35:34,tipo_logradouro_ausente
+ERR000437,"afonso pena, 3960, centro",MG,Belo Horizonte,2025-10-27 22:15:34,tipo_logradouro_ausente
+ERR000438,"travessa protasio alves, 3133",RS,Porto Alegre,2025-11-03 08:26:34,abreviacao
+ERR000439,"avenida 3705 de novembro, 3705",DF,Brasília,2025-11-08 20:24:34,numeral_arabico
+ERR000440,"largo brigadeiro faria lima, 3030, itam bibi, são paulo",,São Paulo,2025-11-08 17:08:34,uf_ausente
+ERR000441,"marques de itu, 1178, vila buarque",SP,São Paulo,2025-11-23 03:39:34,sem_tipo_logradouro
+ERR000442,"largo 4862 de novembro, 4862",SP,São Paulo,2025-11-24 16:24:34,numeral_arabico
+ERR000443,"travessa dos andradas, 483, centro, porto alegre",,Porto Alegre,2025-11-18 07:30:34,uf_ausente
+ERR000444,"estrada boavista, 300, bloco B, boa viagem",PE,Recife,2025-11-07 06:54:34,complemento
+ERR000445,alameda do ouvidor 1714 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-01 05:15:34,formato_sequencial
+ERR000446,"praça borges de medeiros, 1932, loja 2, centro",RS,Porto Alegre,2025-11-04 05:17:34,complemento
+ERR000447,"avenida eixo monumental, 861, perto do metrô, asa norte",DF,Brasília,2025-11-24 08:41:34,referencia_local
+ERR000448,"estrada do ouvidor, 4260",RJ,Rio de Janeiro,2025-11-21 14:21:34,erro_fonetico
+ERR000449,"rua primeiro de março, 3475, centro, rio de janeiro",,Rio de Janeiro,2025-11-20 23:58:34,uf_ausente
+ERR000450,largo w3 sul 1146 asa sul brasília df,DF,Brasília,2025-11-13 08:49:34,formato_sequencial
+ERR000451,"sao joao, 3568, republica",SP,São Paulo,2025-11-02 23:32:34,tipo_logradouro_ausente
+ERR000452,"PRAÇA W3 SUL, 3045, ASA SUL, Brasília",DF,Brasília,2025-11-22 11:16:34,maiusculas
+ERR000453,"praça consolacao, 4255, consolacao, são",SP,São,2025-11-11 06:36:34,cidade_incompleta
+ERR000454,"estrada boavista, boa viagem, recife",PE,Recife,2025-11-04 05:49:34,numero_ausente
+ERR000455,"viela boa viagem, 1469, boa viagem, recife",PE,Recife,2025-11-11 18:49:34,minusculas
+ERR000456,"travessa marques de itu, 1633",SP,São Paulo,2025-11-09 06:28:34,erro_fonetico
+ERR000457,"RUA PRESIDENTE VARGAS, 3840, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-24 09:09:34,maiusculas
+ERR000458,"Tv eixo monumental, 2826",DF,Brasília,2025-11-18 10:57:34,abreviacao
+ERR000459,"ALAMEDA AMAZONAS, 3009, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-10-28 12:14:34,formato_completo
+ERR000460,"travessa w3 norte, 635, asa norte, brasília",DF,Brasília,2025-11-22 21:36:34,minusculas
+ERR000461,"estrada vinte e tres de maio, 2154",SP,São Paulo,2025-11-22 04:12:34,erro_fonetico
+ERR000462,"praça do comercio, 4716, sao jose, recif",PE,Recife,2025-10-26 20:54:34,cidade_incompleta
+ERR000463,"Tv dos andradas, 1378",RS,Porto Alegre,2025-11-20 17:50:34,abreviacao
+ERR000464,"estrada setembro, 1351, centro, rio de janeiro",,Rio de Janeiro,2025-10-30 20:29:34,uf_ausente
+ERR000465,"rua copacabana, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-01 06:22:34,numero_ausente
+ERR000466,"praça dos andradas, centro, porto alegre",RS,Porto Alegre,2025-11-02 17:34:34,numero_ausente
+ERR000467,"VIELA EIXO MONUMENTAL, 3091, ASA NORTE, Brasília - DF",DF,Brasília,2025-11-04 05:27:34,formato_completo
+ERR000468,"marques de itu, 4348, vila buarque",SP,São Paulo,2025-10-29 00:56:34,sem_tipo_logradouro
+ERR000469,"estrada consolacao, 2276, consolacao, são paulo",SP,São Paulo,2025-10-31 07:14:34,minusculas
+ERR000470,"largo bahia, 2053",MG,Belo Horizonte,2025-11-09 07:08:34,erro_fonetico
+ERR000471,"entregar na estrada da aurora, 208 em frente ao banco, boa vista",PE,Recife,2025-11-01 23:27:34,texto_livre
+ERR000472,"travessa amazonas, 4586",MG,Belo Horizonte,2025-11-14 09:38:34,numeral_por_extenso
+ERR000473,"entregar na travessa do ouvidor, 3622 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-20 20:12:34,texto_livre
+ERR000474,"entregar na praça marques de itu, 771 próximo ao mercado, vila buarque",SP,São Paulo,2025-11-10 20:11:34,texto_livre
+ERR000475,"rua vinte e tres de maio, 2253, liberdade, são paulo",,São Paulo,2025-11-14 19:05:34,uf_ausente
+ERR000476,"alameda nove de julho, 469",SP,São Paulo,2025-11-07 00:20:34,abreviacao
+ERR000477,estrada borges de medeiros 3879 centro porto alegre rs,RS,Porto Alegre,2025-11-01 17:47:34,formato_sequencial
+ERR000478,"RUA CONDE DA BOA VISTA, 1255, DERBY, Recife",PE,Recife,2025-10-30 16:44:34,maiusculas
+ERR000479,"avenida afonso pena, 460, belo horizonte",MG,Belo Horizonte,2025-11-05 22:46:34,bairro_ausente
+ERR000480,"avenida boa viagem, 4458, boa viagem, recif",PE,Recife,2025-10-30 14:08:34,cidade_incompleta
+ERR000481,"PRAÇA DAS FLORES, 2593, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 02:03:34,maiusculas
+ERR000482,"rua conde da boa vista, 3303, perto do metrô, derby",PE,Recife,2025-11-05 19:45:34,referencia_local
+ERR000483,"reboucas, 2185, pinheiros",SP,São Paulo,2025-11-21 06:47:34,sem_tipo_logradouro
+ERR000484,"travessa vinte e tres de maio, 4141, perto da praça, liberdade",SP,São Paulo,2025-11-05 20:56:34,referencia_local
+ERR000485,alameda do ouvidor 2243 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-15 17:28:34,formato_sequencial
+ERR000486,"avenida tupis, 4639, belo horizonte",MG,Belo Horizonte,2025-11-24 16:51:34,bairro_ausente
+ERR000487,"ESTRADA RIO BRANCO, 708, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-16 02:09:34,maiusculas
+ERR000488,"estrada das flores, 86",RJ,Rio de Janeiro,2025-11-06 09:20:34,numeral_por_extenso
+ERR000489,"travessa rio branco, 2522",RJ,Rio de Janeiro,2025-11-02 21:41:34,numeral_por_extenso
+ERR000490,"marques de itu, 3108, vila buarque",SP,São Paulo,2025-11-21 12:41:34,tipo_logradouro_ausente
+ERR000491,"viela boa viagem, 1852",PE,Recife,2025-11-18 14:38:34,numeral_por_extenso
+ERR000492,"alameda sao joao, 3602, republica, são",SP,São,2025-11-24 05:27:34,cidade_incompleta
+ERR000493,"praça conde da boa vista, 4285, recife",PE,Recife,2025-10-31 00:06:34,bairro_ausente
+ERR000494,"RUA PAULISTA, 4795, BELA VISTA, São Paulo - SP",SP,São Paulo,2025-11-22 03:13:34,formato_completo
+ERR000495,"consolacao, 2842, consolacao",SP,São Paulo,2025-11-20 10:05:34,tipo_logradouro_ausente
+ERR000496,"alameda protasio alves, petropolis, porto alegre",RS,Porto Alegre,2025-11-02 14:33:34,numero_ausente
+ERR000497,"LARGO xv de novembro, 2137",SP,São Paulo,2025-11-09 23:09:34,abreviacao_numeral
+ERR000498,"largo quinze de novembro, 1146, são paulo",SP,São Paulo,2025-11-08 10:26:34,bairro_ausente
+ERR000499,"rua do comercio, 2641",PE,Recife,2025-11-06 08:54:34,erro_fonetico
+ERR000500,"estrada do ouvidor, 3453, centro, rio de janeiro",,Rio de Janeiro,2025-11-16 10:08:34,uf_ausente
+ERR000501,"presidente vargas, 2933, centro",RJ,Rio de Janeiro,2025-11-21 06:15:34,tipo_logradouro_ausente
+ERR000502,"rua quinze de novembro, 3597, são paulo",SP,São Paulo,2025-11-08 02:05:34,bairro_ausente
+ERR000503,"viela 3880 de novembro, 3880",MG,Belo Horizonte,2025-11-17 21:26:34,numeral_arabico
+ERR000504,"boavista, 3287, boa viagem",PE,Recife,2025-11-25 13:01:34,tipo_logradouro_ausente
+ERR000505,"avenida protasio alves, 3449, próximo ao mercado, petropolis",RS,Porto Alegre,2025-10-27 02:24:34,referencia_local
+ERR000506,"ESTRADA DAS FLORES, 4196, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-28 10:53:34,maiusculas
+ERR000507,"travessa w3 sul, 4653, asa sul, brasília",DF,Brasília,2025-11-21 23:28:34,minusculas
+ERR000508,"avenida oswaldo cruz, 2534, botafogo, rio de janeiro",RJ,Rio de Janeiro,2025-11-01 09:20:34,minusculas
+ERR000509,"Est agamenon magalhaes, 3774",PE,Recife,2025-11-20 15:30:34,abreviacao
+ERR000510,"avenida 1513 de novembro, 1513",SP,São Paulo,2025-10-30 14:22:34,numeral_arabico
+ERR000511,travessa rio branco 1263 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-10-30 09:49:34,formato_sequencial
+ERR000512,"estrada dos andradas, 2824",RS,Porto Alegre,2025-11-11 03:06:34,erro_fonetico
+ERR000513,"TRAVESSA AGAMENON MAGALHAES, 3870, DERBY, Recife - PE",PE,Recife,2025-10-31 06:04:34,formato_completo
+ERR000514,"avenida ipiranga, 3176, republica, são paulo",SP,São Paulo,2025-11-16 16:24:34,minusculas
+ERR000515,"ALAMEDA BOA VIAGEM, 3479, BOA VIAGEM, Recife - PE",PE,Recife,2025-11-09 18:27:34,formato_completo
+ERR000516,"RUA BORGES DE MEDEIROS, 1817, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-02 13:26:34,maiusculas
+ERR000517,"praça conde da boa vista, 4108",PE,Recife,2025-10-28 18:08:34,abreviacao
+ERR000518,"estrada brigadeiro faria lima, 4096",SP,São Paulo,2025-11-25 14:30:34,numeral_por_extenso
+ERR000519,"AVENIDA AMAZONAS, 2782, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-11-06 15:22:34,formato_completo
+ERR000520,"ALAMEDA SETEMBRO, 2549, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-05 05:47:34,formato_completo
+ERR000521,"VIELA NOVE DE JULHO, 1471, REPUBLICA, São Paulo",SP,São Paulo,2025-11-13 23:16:34,maiusculas
+ERR000522,"entregar na largo presidente vargas, 677 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-03 17:08:34,texto_livre
+ERR000523,"rua agamenon magalhaes, 1318, apto 201, derby",PE,Recife,2025-11-08 04:25:34,complemento
+ERR000524,"RUA TUPIS, 3983, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-11-13 19:30:34,formato_completo
+ERR000525,"alameda amazonas, 950, belo horizonte",MG,Belo Horizonte,2025-11-10 09:00:34,bairro_ausente
+ERR000526,"entregar na praça dos andradas, 4383 , centro",RS,Porto Alegre,2025-11-01 15:22:34,texto_livre
+ERR000527,"viela w3 norte, 656, asa norte, brasília",DF,Brasília,2025-11-26 09:50:34,minusculas
+ERR000528,"travessa nove de julho, 4219, são paulo",SP,São Paulo,2025-11-13 19:20:34,bairro_ausente
+ERR000529,"rua sao joao, 996, republica, são paulo",,São Paulo,2025-11-12 09:46:34,uf_ausente
+ERR000530,"alameda conde da boa vista, 3488, sala 10, derby",PE,Recife,2025-11-02 20:15:34,complemento
+ERR000531,"entregar na estrada vinte e tres de maio, 2403 em frente ao banco, liberdade",SP,São Paulo,2025-11-26 06:29:34,texto_livre
+ERR000532,"rua marques de itu, 4881",SP,São Paulo,2025-11-14 21:47:34,erro_fonetico
+ERR000533,"VIELA W3 NORTE, 2037, ASA NORTE, Brasília",DF,Brasília,2025-11-24 03:43:34,maiusculas
+ERR000534,"estrada uruguaiana, 4043, próximo ao mercado, centro",RJ,Rio de Janeiro,2025-11-15 06:05:34,referencia_local
+ERR000535,"ipiranga, 333, republica",SP,São Paulo,2025-11-16 09:47:34,sem_tipo_logradouro
+ERR000536,"avenida setembro, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-03 18:28:34,numero_ausente
+ERR000537,"VIELA marques de itu, 3283",SP,São Paulo,2025-10-26 21:33:34,abreviacao
+ERR000538,"viela rio branco, 954",RJ,Rio de Janeiro,2025-11-08 12:30:34,numeral_por_extenso
+ERR000539,"entregar na travessa protasio alves, 401 ao lado da escola, petropolis",RS,Porto Alegre,2025-11-11 14:01:34,texto_livre
+ERR000540,"alameda amazonas, 1522, centro, belo",MG,Belo,2025-11-09 23:47:34,cidade_incompleta
+ERR000541,"estrada agamenon magalhaes, 2335, derby, recif",PE,Recife,2025-11-26 07:36:34,cidade_incompleta
+ERR000542,"viela das flores, 1064, jardim, rio",RJ,Rio,2025-11-18 06:11:34,cidade_incompleta
+ERR000543,"avenida 1814 de novembro, 1814",PE,Recife,2025-11-25 22:29:34,numeral_arabico
+ERR000544,"avenida brigadeiro faria lima, 2358, são paulo",SP,São Paulo,2025-11-08 07:09:34,bairro_ausente
+ERR000545,viela boavista 3897 boa viagem recife pe,PE,Recife,2025-11-26 10:28:34,formato_sequencial
+ERR000546,"praça boa viagem, 3641, boa viagem, recife",PE,Recife,2025-11-11 21:18:34,minusculas
+ERR000547,"estrada consolacao, 3196, consolacao, são",SP,São,2025-11-14 19:07:34,cidade_incompleta
+ERR000548,"entregar na largo rio branco, 4599 , centro",RJ,Rio de Janeiro,2025-11-19 21:16:34,texto_livre
+ERR000549,"alameda conde da boa vista, 2391, loja 2, derby",PE,Recife,2025-11-05 06:48:34,complemento
+ERR000550,"estrada setembro, 2881, em frente ao banco, centro",RJ,Rio de Janeiro,2025-11-02 20:01:34,referencia_local
+ERR000551,"LARGO SAO JOAO, 1923, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-10-28 03:41:34,formato_completo
+ERR000552,"AVENIDA DO COMERCIO, 795, SAO JOSE, Recife - PE",PE,Recife,2025-11-20 14:42:34,formato_completo
+ERR000553,"ESTRADA SAO JOAO, 1304, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-11-09 07:27:34,formato_completo
+ERR000554,"viela consolacao, 4910, consolacao, são",SP,São,2025-11-16 09:09:34,cidade_incompleta
+ERR000555,praça presidente vargas 4115 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-09 08:35:34,formato_sequencial
+ERR000556,"agamenon magalhaes, 3801, derby",PE,Recife,2025-10-31 06:39:34,tipo_logradouro_ausente
+ERR000557,"VIELA quinze de novembro, 2363",SP,São Paulo,2025-11-02 06:08:34,abreviacao
+ERR000558,"avenida quinze de novembro, 3141, em frente ao banco, centro",SP,São Paulo,2025-11-13 14:09:34,referencia_local
+ERR000559,"travessa das flores, jardim, rio de janeiro",RJ,Rio de Janeiro,2025-11-24 01:13:34,numero_ausente
+ERR000560,"rua 2663 de novembro, 2663",MG,Belo Horizonte,2025-11-21 02:09:34,numeral_arabico
+ERR000561,"Av dos andradas, 3034",RS,Porto Alegre,2025-11-07 00:25:34,abreviacao
+ERR000562,"travessa eixo monumental, 1323, brasília",DF,Brasília,2025-11-14 20:54:34,bairro_ausente
+ERR000563,"estrada ipiranga, 3869",SP,São Paulo,2025-11-16 16:31:34,numeral_por_extenso
+ERR000564,"rua copacabana, 1696, rio de janeiro",RJ,Rio de Janeiro,2025-11-12 13:06:34,bairro_ausente
+ERR000565,"travessa bahia, 1449, belo horizonte",MG,Belo Horizonte,2025-11-10 00:42:34,bairro_ausente
+ERR000566,"estrada boavista, 2006, recife",PE,Recife,2025-11-03 18:49:34,bairro_ausente
+ERR000567,"viela atlantica, 4258, copacabana, rio de janeiro",,Rio de Janeiro,2025-10-30 08:45:34,uf_ausente
+ERR000568,"alameda afonso pena, 4402",MG,Belo Horizonte,2025-11-04 01:08:34,erro_fonetico
+ERR000569,"rua w3 norte, 3593, asa norte, brasília",,Brasília,2025-10-30 21:46:34,uf_ausente
+ERR000570,"entregar na viela sao joao, 327 em frente ao banco, republica",SP,São Paulo,2025-11-04 04:09:34,texto_livre
+ERR000571,"viela bahia, 1017",MG,Belo Horizonte,2025-11-22 12:01:34,erro_fonetico
+ERR000572,"estrada primeiro de março, 3003, perto do metrô, centro",RJ,Rio de Janeiro,2025-11-16 15:51:34,referencia_local
+ERR000573,"largo ipiranga, 1722, republica, são",SP,São,2025-11-23 10:08:34,cidade_incompleta
+ERR000574,"largo 4027 de novembro, 4027",RJ,Rio de Janeiro,2025-11-02 12:28:34,numeral_arabico
+ERR000575,"largo sao joao, 2709, são paulo",SP,São Paulo,2025-11-04 12:13:34,bairro_ausente
+ERR000576,"rua vinte e tres de maio, 1148, liberdade, são paulo",SP,São Paulo,2025-11-10 11:48:34,minusculas
+ERR000577,"entregar na praça brigadeiro faria lima, 4617 perto do metrô, itam bibi",SP,São Paulo,2025-11-17 11:04:34,texto_livre
+ERR000578,"alameda paulista, 3894, são paulo",SP,São Paulo,2025-11-05 11:40:34,bairro_ausente
+ERR000579,"uruguaiana, 4977, centro",RJ,Rio de Janeiro,2025-10-30 08:33:34,tipo_logradouro_ausente
+ERR000580,"brigadeiro faria lima, 1734, itam bibi",SP,São Paulo,2025-11-22 02:49:34,tipo_logradouro_ausente
+ERR000581,"praça nove de julho, republica, são paulo",SP,São Paulo,2025-11-14 05:10:34,numero_ausente
+ERR000582,"praça paulista, bela vista, são paulo",SP,São Paulo,2025-11-16 04:26:34,numero_ausente
+ERR000583,"largo do comercio, sao jose, recife",PE,Recife,2025-11-11 15:19:34,numero_ausente
+ERR000584,"rua do comercio, 531, apto 301, sao jose",PE,Recife,2025-11-17 14:35:34,complemento
+ERR000585,"alameda setembro, 4986",RJ,Rio de Janeiro,2025-11-06 14:27:34,erro_fonetico
+ERR000586,"LARGO borges de medeiros, 4665",RS,Porto Alegre,2025-11-03 14:26:34,abreviacao
+ERR000587,"viela atlantica, 810, bloco A, copacabana",RJ,Rio de Janeiro,2025-11-24 12:14:34,complemento
+ERR000588,"avenida w3 norte, 459, brasília",DF,Brasília,2025-11-08 04:34:34,bairro_ausente
+ERR000589,"alameda 1497 de novembro, 1497",SP,São Paulo,2025-11-18 22:04:34,numeral_arabico
+ERR000590,"estrada tupis, 330, centro, belo",MG,Belo,2025-11-09 12:44:34,cidade_incompleta
+ERR000591,"avenida reboucas, pinheiros, são paulo",SP,São Paulo,2025-11-17 19:36:34,numero_ausente
+ERR000592,"travessa brigadeiro faria lima, 4798, itam bibi, são paulo",,São Paulo,2025-11-12 17:15:34,uf_ausente
+ERR000593,"praça oswaldo cruz, 599",RJ,Rio de Janeiro,2025-11-11 17:21:34,numeral_por_extenso
+ERR000594,"largo rio branco, 1618",RJ,Rio de Janeiro,2025-11-09 02:36:34,erro_fonetico
+ERR000595,"alameda borges de medeiros, 4664",RS,Porto Alegre,2025-10-30 17:03:34,abreviacao
+ERR000596,"travessa bahia, 4825, belo horizonte",MG,Belo Horizonte,2025-11-26 12:01:34,bairro_ausente
+ERR000597,"ALAMEDA AFONSO PENA, 4036, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-16 04:19:34,maiusculas
+ERR000598,"alameda protasio alves, 2455, petropolis, porto",RS,Porto,2025-10-30 03:34:34,cidade_incompleta
+ERR000599,"alameda boavista, boa viagem, recife",PE,Recife,2025-11-17 00:21:34,numero_ausente
+ERR000600,"Estrada primeiro de março, 3995",RJ,Rio de Janeiro,2025-10-29 04:19:34,abreviacao
+ERR000601,"borges de medeiros, 1465, centro",RS,Porto Alegre,2025-11-02 07:06:34,sem_tipo_logradouro
+ERR000602,"avenida marques de itu, 3631, bloco A, vila buarque",SP,São Paulo,2025-10-31 15:37:34,complemento
+ERR000603,"presidente vargas, 1747, centro",RJ,Rio de Janeiro,2025-11-10 11:29:34,tipo_logradouro_ausente
+ERR000604,"w3 sul, 844, asa sul",DF,Brasília,2025-10-28 01:36:34,tipo_logradouro_ausente
+ERR000605,"praça setembro, 1282",RJ,Rio de Janeiro,2025-11-02 07:59:34,numeral_por_extenso
+ERR000606,"ESTRADA PAULISTA, 4999, BELA VISTA, São Paulo",SP,São Paulo,2025-11-16 04:19:34,maiusculas
+ERR000607,"alameda afonso pena, 1874, centro, belo",MG,Belo,2025-11-11 11:26:34,cidade_incompleta
+ERR000608,"entregar na alameda setembro, 2734 perto do metrô, centro",RJ,Rio de Janeiro,2025-11-16 06:30:34,texto_livre
+ERR000609,"VIELA amazonas, 3418",MG,Belo Horizonte,2025-11-25 07:27:34,abreviacao
+ERR000610,"LARGO uruguaiana, 2247",RJ,Rio de Janeiro,2025-11-19 23:04:34,abreviacao
+ERR000611,"Alameda nove de julho, 3060",SP,São Paulo,2025-11-13 08:29:34,abreviacao
+ERR000612,"travessa eixo monumental, asa norte, brasília",DF,Brasília,2025-11-12 12:43:34,numero_ausente
+ERR000613,"travessa copacabana, 1315, loja 2, copacabana",RJ,Rio de Janeiro,2025-10-26 21:12:34,complemento
+ERR000614,"rua dos andradas, 3196, centro, porto alegre",,Porto Alegre,2025-11-19 12:11:34,uf_ausente
+ERR000615,"Rua xv de novembro, 831",PE,Recife,2025-11-18 03:26:34,abreviacao_numeral
+ERR000616,"alameda bahia, 910, centro, belo horizonte",,Belo Horizonte,2025-11-21 21:45:34,uf_ausente
+ERR000617,"viela boa viagem, 1244, boa viagem, recife",PE,Recife,2025-11-08 11:13:34,minusculas
+ERR000618,"avenida 3591 de novembro, 3591",SP,São Paulo,2025-11-16 02:15:34,numeral_arabico
+ERR000619,"alameda nove de julho, 180, republica, são paulo",SP,São Paulo,2025-11-02 17:54:34,minusculas
+ERR000620,"praça boa viagem, 3653",PE,Recife,2025-11-21 10:20:34,numeral_por_extenso
+ERR000621,"largo brigadeiro faria lima, 2968, apto 301, itam bibi",SP,São Paulo,2025-11-04 22:33:34,complemento
+ERR000622,"rua nove de julho, 1150",SP,São Paulo,2025-11-06 07:22:34,erro_fonetico
+ERR000623,"largo agamenon magalhaes, derby, recife",PE,Recife,2025-11-25 04:26:34,numero_ausente
+ERR000624,"viela das flores, jardim, rio de janeiro",RJ,Rio de Janeiro,2025-10-30 09:59:34,numero_ausente
+ERR000625,"largo w3 norte, 2316, apto 101, asa norte",DF,Brasília,2025-11-03 18:13:34,complemento
+ERR000626,"AVENIDA RIO BRANCO, 4357, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-01 03:55:34,maiusculas
+ERR000627,"largo rio branco, 4998",RJ,Rio de Janeiro,2025-11-02 18:00:34,numeral_por_extenso
+ERR000628,"alameda amazonas, 3816, belo horizonte",MG,Belo Horizonte,2025-10-28 21:40:34,bairro_ausente
+ERR000629,"avenida boavista, 1489, loja 2, boa viagem",PE,Recife,2025-11-09 22:02:34,complemento
+ERR000630,"amazonas, 3289, centro",MG,Belo Horizonte,2025-11-26 00:56:34,tipo_logradouro_ausente
+ERR000631,"rua 70 de novembro, 70",PE,Recife,2025-11-16 07:40:34,numeral_arabico
+ERR000632,"travessa nove de julho, 4788, bloco A, republica",SP,São Paulo,2025-11-12 00:07:34,complemento
+ERR000633,"praça reboucas, 4726, pinheiros, são paulo",SP,São Paulo,2025-11-20 16:36:34,minusculas
+ERR000634,"Est. marques de itu, 827",SP,São Paulo,2025-11-02 16:15:34,abreviacao
+ERR000635,"avenida da aurora, 2683, apto 301, boa vista",PE,Recife,2025-11-05 14:37:34,complemento
+ERR000636,"estrada marques de itu, 3476, vila buarque, são",SP,São,2025-11-19 14:00:34,cidade_incompleta
+ERR000637,"rua da aurora, 1125, recife",PE,Recife,2025-11-23 08:48:34,bairro_ausente
+ERR000638,"travessa xv de novembro, 3117",MG,Belo Horizonte,2025-11-12 08:37:34,abreviacao_numeral
+ERR000639,"viela consolação, 4836",SP,São Paulo,2025-11-24 15:17:34,erro_fonetico
+ERR000640,"avenida w3 sul, 1335",DF,Brasília,2025-11-23 05:02:34,numeral_por_extenso
+ERR000641,"praça da aurora, 3401",PE,Recife,2025-11-20 17:58:34,numeral_por_extenso
+ERR000642,"praça protasio alves, 3916, petropolis, porto",RS,Porto,2025-11-10 17:20:34,cidade_incompleta
+ERR000643,"rua das flores, 3114, em frente ao banco, jardim",RJ,Rio de Janeiro,2025-10-27 17:27:34,referencia_local
+ERR000644,"alameda conde da boa vista, 535, perto do metrô, derby",PE,Recife,2025-11-17 13:05:34,referencia_local
+ERR000645,"VIELA rio branco, 3862",RJ,Rio de Janeiro,2025-11-02 23:52:34,abreviacao
+ERR000646,"rua 1153 de novembro, 1153",PE,Recife,2025-11-21 02:49:34,numeral_arabico
+ERR000647,"estrada uruguaiana, 1149, centro, rio de janeiro",,Rio de Janeiro,2025-11-02 19:46:34,uf_ausente
+ERR000648,"alameda consolacao, 3045, perto da praça, consolacao",SP,São Paulo,2025-11-13 15:38:34,referencia_local
+ERR000649,"entregar na estrada w3 sul, 1488 , asa sul",DF,Brasília,2025-11-01 15:48:34,texto_livre
+ERR000650,"TRAVESSA BORGES DE MEDEIROS, 2508, CENTRO, Porto Alegre - RS",RS,Porto Alegre,2025-11-06 08:51:34,formato_completo
+ERR000651,"Praça nove de julho, 234",SP,São Paulo,2025-11-26 05:47:34,abreviacao
+ERR000652,viela setembro 381 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-14 01:03:34,formato_sequencial
+ERR000653,"estrada w3 sul, 1296",DF,Brasília,2025-11-26 08:52:34,erro_fonetico
+ERR000654,"brigadeiro faria lima, 3440, itam bibi",SP,São Paulo,2025-11-23 05:20:34,sem_tipo_logradouro
+ERR000655,"LARGO afonso pena, 1102",MG,Belo Horizonte,2025-11-11 04:52:34,abreviacao
+ERR000656,estrada nove de julho 2646 republica são paulo sp,SP,São Paulo,2025-11-15 01:07:34,formato_sequencial
+ERR000657,"largo presidente vargas, 4038",RJ,Rio de Janeiro,2025-11-22 13:17:34,numeral_por_extenso
+ERR000658,"uruguaiana, 1848, centro",RJ,Rio de Janeiro,2025-11-03 17:04:34,sem_tipo_logradouro
+ERR000659,"alameda 863 de novembro, 863",PE,Recife,2025-11-19 12:38:34,numeral_arabico
+ERR000660,"praça marques de itu, vila buarque, são paulo",SP,São Paulo,2025-11-10 01:53:34,numero_ausente
+ERR000661,"estrada vinte e tres de maio, 2687, próximo ao mercado, liberdade",SP,São Paulo,2025-11-05 16:12:34,referencia_local
+ERR000662,"viela atlantica, 394",RJ,Rio de Janeiro,2025-11-21 20:40:34,numeral_por_extenso
+ERR000663,"TRAVESSA ATLANTICA, 1327, COPACABANA, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-16 20:13:34,formato_completo
+ERR000664,"largo dos andradas, 2818",RS,Porto Alegre,2025-11-06 02:24:34,numeral_por_extenso
+ERR000665,"travessa bahia, 3713, centro, belo",MG,Belo,2025-11-09 06:42:34,cidade_incompleta
+ERR000666,"PRAÇA VINTE E TRES DE MAIO, 2763, LIBERDADE, São Paulo",SP,São Paulo,2025-11-18 09:58:34,maiusculas
+ERR000667,"largo borges de medeiros, 791, bloco A, centro",RS,Porto Alegre,2025-11-18 17:59:34,complemento
+ERR000668,viela conde da boa vista 209 derby recife pe,PE,Recife,2025-11-22 17:35:34,formato_sequencial
+ERR000669,avenida tupis 986 centro belo horizonte mg,MG,Belo Horizonte,2025-11-04 11:41:34,formato_sequencial
+ERR000670,"alameda da aurora, 3708, ao lado da escola, boa vista",PE,Recife,2025-10-27 17:54:34,referencia_local
+ERR000671,"estrada protasio alves, petropolis, porto alegre",RS,Porto Alegre,2025-11-20 15:56:34,numero_ausente
+ERR000672,"entregar na rua brigadeiro faria lima, 1628 ao lado da escola, itam bibi",SP,São Paulo,2025-11-07 16:13:34,texto_livre
+ERR000673,"entregar na rua w3 sul, 4368 ao lado da escola, asa sul",DF,Brasília,2025-11-18 22:16:34,texto_livre
+ERR000674,"praça paulista, 1301",SP,São Paulo,2025-11-05 15:09:34,erro_fonetico
+ERR000675,"estrada brigadeiro faria lima, 4431, perto da praça, itam bibi",SP,São Paulo,2025-11-18 19:24:34,referencia_local
+ERR000676,"viela sao joao, 4275, em frente ao banco, republica",SP,São Paulo,2025-11-12 10:41:34,referencia_local
+ERR000677,"rua marques de itu, 614, vila buarque, são",SP,São,2025-11-04 03:07:34,cidade_incompleta
+ERR000678,"marques de itu, 4866, vila buarque",SP,São Paulo,2025-11-25 07:41:34,sem_tipo_logradouro
+ERR000679,"largo 1313 de novembro, 1313",RJ,Rio de Janeiro,2025-11-14 15:08:34,numeral_arabico
+ERR000680,"viela afonso pena, 4845",MG,Belo Horizonte,2025-11-19 09:45:34,numeral_por_extenso
+ERR000681,"ALAMEDA BRIGADEIRO FARIA LIMA, 1151, ITAM BIBI, São Paulo - SP",SP,São Paulo,2025-11-22 21:02:34,formato_completo
+ERR000682,"travessa setembro, 3633, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-05 12:01:34,minusculas
+ERR000683,"rua boa viagem, boa viagem, recife",PE,Recife,2025-11-17 04:43:34,numero_ausente
+ERR000684,"dos andradas, 3591, centro",RS,Porto Alegre,2025-10-31 17:15:34,tipo_logradouro_ausente
+ERR000685,"estrada tupis, 577, sala 10, centro",MG,Belo Horizonte,2025-10-27 19:25:34,complemento
+ERR000686,"avenida nove de julho, 3822, ao lado da escola, republica",SP,São Paulo,2025-11-20 22:05:34,referencia_local
+ERR000687,"alameda borges de medeiros, centro, porto alegre",RS,Porto Alegre,2025-11-23 18:03:34,numero_ausente
+ERR000688,"travessa conde da boa vista, 4052, em frente ao banco, derby",PE,Recife,2025-11-25 00:43:34,referencia_local
+ERR000689,"alameda vinte e tres de maio, liberdade, são paulo",SP,São Paulo,2025-11-16 07:07:34,numero_ausente
+ERR000690,"Pç. nove de julho, 681",SP,São Paulo,2025-11-04 05:34:34,abreviacao
+ERR000691,"travessa borges de medeiros, 4843, perto do metrô, centro",RS,Porto Alegre,2025-11-18 17:00:34,referencia_local
+ERR000692,"viela borges de medeiros, centro, porto alegre",RS,Porto Alegre,2025-10-29 23:25:34,numero_ausente
+ERR000693,"avenida atlântica, 4837",RJ,Rio de Janeiro,2025-11-08 17:42:34,erro_fonetico
+ERR000694,"praça ipiranga, 4753, em frente ao banco, republica",SP,São Paulo,2025-11-03 21:47:34,referencia_local
+ERR000695,"largo da aurora, boa vista, recife",PE,Recife,2025-11-25 07:57:34,numero_ausente
+ERR000696,"RUA AMAZONAS, 1770, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-26 00:28:34,maiusculas
+ERR000697,"alameda presidente vargas, 3377",RJ,Rio de Janeiro,2025-10-30 12:27:34,abreviacao
+ERR000698,"praça da aurora, 2038, boa vista, recif",PE,Recife,2025-11-12 19:29:34,cidade_incompleta
+ERR000699,"alameda tupis, 1316",MG,Belo Horizonte,2025-11-09 03:08:34,numeral_por_extenso
+ERR000700,"VIELA BOA VIAGEM, 2856, BOA VIAGEM, Recife",PE,Recife,2025-10-30 04:55:34,maiusculas
+ERR000701,praça rio branco 2882 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-03 13:29:34,formato_sequencial
+ERR000702,"AVENIDA MARQUES DE ITU, 741, VILA BUARQUE, São Paulo - SP",SP,São Paulo,2025-11-16 01:18:34,formato_completo
+ERR000703,"viela quinze de novembro, 1657, centro, são",SP,São,2025-10-29 22:18:34,cidade_incompleta
+ERR000704,"entregar na praça da aurora, 3587 perto da praça, boa vista",PE,Recife,2025-10-27 15:29:34,texto_livre
+ERR000705,"das flores, 1555, jardim",RJ,Rio de Janeiro,2025-10-28 04:05:34,tipo_logradouro_ausente
+ERR000706,alameda eixo monumental 4587 asa norte brasília df,DF,Brasília,2025-11-21 08:10:34,formato_sequencial
+ERR000707,"copacabana, 765, copacabana",RJ,Rio de Janeiro,2025-11-04 00:51:34,sem_tipo_logradouro
+ERR000708,"alameda agamenon magalhaes, 1195, bloco A, derby",PE,Recife,2025-11-15 08:41:34,complemento
+ERR000709,"do comercio, 2408, sao jose",PE,Recife,2025-11-16 13:21:34,sem_tipo_logradouro
+ERR000710,"travessa atlantica, 4490, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-05 12:48:34,minusculas
+ERR000711,"travessa 1794 de novembro, 1794",RS,Porto Alegre,2025-10-29 13:21:34,numeral_arabico
+ERR000712,"consolacao, 102, consolacao",SP,São Paulo,2025-11-19 19:55:34,tipo_logradouro_ausente
+ERR000713,largo dos andradas 3396 centro porto alegre rs,RS,Porto Alegre,2025-11-09 02:37:34,formato_sequencial
+ERR000714,"ESTRADA AFONSO PENA, 4249, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-11-06 01:53:34,formato_completo
+ERR000715,"alameda do comercio, 2982, sao jose, recif",PE,Recife,2025-11-13 09:26:34,cidade_incompleta
+ERR000716,"entregar na praça ipiranga, 4427 , republica",SP,São Paulo,2025-10-26 22:41:34,texto_livre
+ERR000717,"travessa boa viagem, 4410, boa viagem, recife",PE,Recife,2025-11-23 04:04:34,minusculas
+ERR000718,"praça 859 de novembro, 859",RS,Porto Alegre,2025-11-03 09:04:34,numeral_arabico
+ERR000719,"travessa eixo monumental, 3812, asa norte, brasí",DF,Brasília,2025-11-08 19:20:34,cidade_incompleta
+ERR000720,"largo bahia, 4842, , centro",MG,Belo Horizonte,2025-10-27 15:48:34,referencia_local
+ERR000721,"LARGO xv de novembro, 4580",DF,Brasília,2025-11-10 22:40:34,abreviacao_numeral
+ERR000722,"praça copacabana, 536, copacabana, rio",RJ,Rio,2025-11-08 11:52:34,cidade_incompleta
+ERR000723,"largo das flores, 3530, jardim, rio de janeiro",RJ,Rio de Janeiro,2025-11-14 14:07:34,minusculas
+ERR000724,"bahia, 4411, centro",MG,Belo Horizonte,2025-11-16 13:13:34,tipo_logradouro_ausente
+ERR000725,viela protasio alves 1182 petropolis porto alegre rs,RS,Porto Alegre,2025-11-05 02:29:34,formato_sequencial
+ERR000726,"rua do ouvidor, 2936",RJ,Rio de Janeiro,2025-11-02 18:10:34,erro_fonetico
+ERR000727,"viela copacabana, 1321",RJ,Rio de Janeiro,2025-11-19 01:00:34,numeral_por_extenso
+ERR000728,"estrada quinze de novembro, 242, centro, são paulo",,São Paulo,2025-11-03 17:28:34,uf_ausente
+ERR000729,"AVENIDA RIO BRANCO, 3306, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-01 07:25:34,formato_completo
+ERR000730,"ESTRADA DOS ANDRADAS, 2813, CENTRO, Porto Alegre",RS,Porto Alegre,2025-11-23 11:27:34,maiusculas
+ERR000731,"viela quinze de novembro, 2065, centro, são paulo",,São Paulo,2025-11-24 15:33:34,uf_ausente
+ERR000732,"entregar na travessa agamenon magalhaes, 1857 perto do metrô, derby",PE,Recife,2025-11-06 18:28:34,texto_livre
+ERR000733,"avenida bahia, 4292, centro, belo",MG,Belo,2025-11-26 01:46:34,cidade_incompleta
+ERR000734,"rua eixo monumental, 3057",DF,Brasília,2025-11-21 20:16:34,erro_fonetico
+ERR000735,"RUA DO OUVIDOR, 2678, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-17 19:58:34,formato_completo
+ERR000736,"avenida conde da boa vista, 1413",PE,Recife,2025-11-06 01:18:34,numeral_por_extenso
+ERR000737,"travessa quinze de novembro, 2829",SP,São Paulo,2025-10-29 22:51:34,erro_fonetico
+ERR000738,"PRAÇA SETEMBRO, 4703, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 06:04:34,maiusculas
+ERR000739,"Est. quinze de novembro, 3647",SP,São Paulo,2025-10-28 02:53:34,abreviacao
+ERR000740,"alameda primeiro de março, 2388",RJ,Rio de Janeiro,2025-11-14 23:38:34,erro_fonetico
+ERR000741,"estrada w3 sul, 817, asa sul, brasília",,Brasília,2025-11-20 01:40:34,uf_ausente
+ERR000742,"LARGO BOAVISTA, 4490, BOA VIAGEM, Recife - PE",PE,Recife,2025-11-01 06:42:34,formato_completo
+ERR000743,"avenida 2772 de novembro, 2772",DF,Brasília,2025-11-15 16:34:34,numeral_arabico
+ERR000744,"Travessa xv de novembro, 3312",RS,Porto Alegre,2025-11-25 04:58:34,abreviacao_numeral
+ERR000745,"avenida presidente vargas, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-08 02:05:34,numero_ausente
+ERR000746,"viela w3 norte, 4476",DF,Brasília,2025-11-17 10:41:34,numeral_por_extenso
+ERR000747,"travessa bahia, 2400, em frente ao banco, centro",MG,Belo Horizonte,2025-11-13 08:44:34,referencia_local
+ERR000748,"rua borges de medeiros, 4025",RS,Porto Alegre,2025-11-16 03:19:34,erro_fonetico
+ERR000749,"do comercio, 4077, sao jose",PE,Recife,2025-11-01 23:05:34,tipo_logradouro_ausente
+ERR000750,"oswaldo cruz, 1541, botafogo",RJ,Rio de Janeiro,2025-11-17 02:02:34,sem_tipo_logradouro
+ERR000751,"Est. xv de novembro, 2570",DF,Brasília,2025-11-25 11:25:34,abreviacao_numeral
+ERR000752,"praça xv de novembro, 4406",SP,São Paulo,2025-11-03 04:16:34,abreviacao_numeral
+ERR000753,"praça quinze de novembro, 367",SP,São Paulo,2025-11-23 06:38:34,numeral_por_extenso
+ERR000754,"praça brigadeiro faria lima, 598",SP,São Paulo,2025-11-11 14:13:34,numeral_por_extenso
+ERR000755,"rua do ouvidor, 3126",RJ,Rio de Janeiro,2025-10-28 22:42:34,numeral_por_extenso
+ERR000756,"rua sao joao, 1970, apto 201, republica",SP,São Paulo,2025-11-14 13:26:34,complemento
+ERR000757,"rua agamenon magalhaes, 1278, derby, recife",PE,Recife,2025-11-07 13:10:34,minusculas
+ERR000758,"nove de julho, 4674, republica",SP,São Paulo,2025-11-20 00:02:34,tipo_logradouro_ausente
+ERR000759,"viela vinte e tres de maio, 84, em frente ao banco, liberdade",SP,São Paulo,2025-11-14 11:56:34,referencia_local
+ERR000760,"LARGO reboucas, 2077",SP,São Paulo,2025-11-24 22:00:34,abreviacao
+ERR000761,"bahia, 1827, centro",MG,Belo Horizonte,2025-11-06 17:42:34,sem_tipo_logradouro
+ERR000762,"LARGO PAULISTA, 545, BELA VISTA, São Paulo",SP,São Paulo,2025-11-09 10:39:34,maiusculas
+ERR000763,viela nove de julho 2334 republica são paulo sp,SP,São Paulo,2025-11-17 10:55:34,formato_sequencial
+ERR000764,"AVENIDA NOVE DE JULHO, 979, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-10-31 14:44:34,formato_completo
+ERR000765,"largo eixo monumental, 1645, asa norte, brasília",DF,Brasília,2025-11-10 19:19:34,minusculas
+ERR000766,"avenida 913 de novembro, 913",RS,Porto Alegre,2025-11-25 08:38:34,numeral_arabico
+ERR000767,"avenida rio branco, 1981, ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-15 06:02:34,referencia_local
+ERR000768,"LARGO xv de novembro, 4891",RJ,Rio de Janeiro,2025-11-02 14:03:34,abreviacao_numeral
+ERR000769,"R boa viagem, 4660",PE,Recife,2025-11-16 11:51:34,abreviacao
+ERR000770,"praça quinze de novembro, 3785",SP,São Paulo,2025-10-29 00:46:34,numeral_por_extenso
+ERR000771,"agamenon magalhaes, 1255, derby",PE,Recife,2025-11-10 18:35:34,tipo_logradouro_ausente
+ERR000772,"travessa quinze de novembro, 2752, são paulo",SP,São Paulo,2025-11-26 06:45:34,bairro_ausente
+ERR000773,"ALAMEDA IPIRANGA, 4562, REPUBLICA, São Paulo",SP,São Paulo,2025-11-22 03:29:34,maiusculas
+ERR000774,"avenida oswaldo cruz, 534, ao lado da escola, botafogo",RJ,Rio de Janeiro,2025-11-09 20:10:34,referencia_local
+ERR000775,"Pç xv de novembro, 3035",SP,São Paulo,2025-10-29 17:06:34,abreviacao_numeral
+ERR000776,"RUA brigadeiro faria lima, 3123",SP,São Paulo,2025-11-25 08:00:34,abreviacao
+ERR000777,travessa primeiro de março 289 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-24 20:08:34,formato_sequencial
+ERR000778,"VIELA DOS ANDRADAS, 2314, CENTRO, Porto Alegre - RS",RS,Porto Alegre,2025-11-11 21:34:34,formato_completo
+ERR000779,"alameda borges de medeiros, 2828, porto alegre",RS,Porto Alegre,2025-11-11 16:20:34,bairro_ausente
+ERR000780,"praça w3 norte, 1834, asa norte, brasília",DF,Brasília,2025-11-17 00:03:34,minusculas
+ERR000781,"VIELA QUINZE DE NOVEMBRO, 2108, CENTRO, São Paulo",SP,São Paulo,2025-11-14 21:48:34,maiusculas
+ERR000782,"alameda xv de novembro, 1180",MG,Belo Horizonte,2025-11-12 21:53:34,abreviacao_numeral
+ERR000783,"travessa w3 norte, 3296, asa norte, brasília",DF,Brasília,2025-10-31 00:27:34,minusculas
+ERR000784,"viela consolacao, 3450, em frente ao banco, consolacao",SP,São Paulo,2025-11-03 06:21:34,referencia_local
+ERR000785,"largo do comercio, 2979, sala 20, sao jose",PE,Recife,2025-11-05 08:41:34,complemento
+ERR000786,"travessa w3 sul, 2016",DF,Brasília,2025-11-04 14:13:34,numeral_por_extenso
+ERR000787,praça reboucas 3796 pinheiros são paulo sp,SP,São Paulo,2025-10-30 07:26:34,formato_sequencial
+ERR000788,"travessa marques de itu, 3219, vila buarque, são paulo",SP,São Paulo,2025-11-11 17:15:34,minusculas
+ERR000789,"Al xv de novembro, 3377",MG,Belo Horizonte,2025-11-20 10:14:34,abreviacao_numeral
+ERR000790,"viela paulista, 4240, perto da praça, bela vista",SP,São Paulo,2025-10-27 06:48:34,referencia_local
+ERR000791,"VIELA CONSOLACAO, 4649, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-17 21:06:34,maiusculas
+ERR000792,"viela setembro, 4711",RJ,Rio de Janeiro,2025-11-22 07:29:34,numeral_por_extenso
+ERR000793,"travessa tupis, 1070, centro, belo horizonte",,Belo Horizonte,2025-11-16 00:50:34,uf_ausente
+ERR000794,"w3 sul, 796, asa sul",DF,Brasília,2025-11-24 20:49:34,sem_tipo_logradouro
+ERR000795,"praça oswaldo cruz, 737, sala 20, botafogo",RJ,Rio de Janeiro,2025-11-19 21:40:34,complemento
+ERR000796,"entregar na alameda consolacao, 541 ao lado da escola, consolacao",SP,São Paulo,2025-10-28 10:12:34,texto_livre
+ERR000797,"LARGO BAHIA, 2774, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-17 11:43:34,maiusculas
+ERR000798,"ESTRADA EIXO MONUMENTAL, 1246, ASA NORTE, Brasília",DF,Brasília,2025-11-13 17:15:34,maiusculas
+ERR000799,estrada afonso pena 4602 centro belo horizonte mg,MG,Belo Horizonte,2025-11-06 05:05:34,formato_sequencial
+ERR000800,"travessa vinte e tres de maio, 929, liberdade, são paulo",SP,São Paulo,2025-10-28 06:43:34,minusculas
+ERR000801,"estrada atlantica, 3121, copacabana, rio de janeiro",,Rio de Janeiro,2025-11-14 05:39:34,uf_ausente
+ERR000802,"PRAÇA DAS FLORES, 3613, JARDIM, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-12 20:18:34,maiusculas
+ERR000803,"entregar na praça da aurora, 697 , boa vista",PE,Recife,2025-11-21 16:10:34,texto_livre
+ERR000804,"viela marques de itu, 1225",SP,São Paulo,2025-10-27 23:37:34,erro_fonetico
+ERR000805,"entregar na alameda boa viagem, 681 ao lado da escola, boa viagem",PE,Recife,2025-11-01 05:48:34,texto_livre
+ERR000806,"estrada afonso pena, 2992, centro, belo",MG,Belo,2025-11-20 04:32:34,cidade_incompleta
+ERR000807,"rua w3 sul, 4011, apto 201, asa sul",DF,Brasília,2025-11-25 00:34:34,complemento
+ERR000808,"alameda marques de itu, 3678, próximo ao mercado, vila buarque",SP,São Paulo,2025-11-25 12:02:34,referencia_local
+ERR000809,avenida tupis 2728 centro belo horizonte mg,MG,Belo Horizonte,2025-11-25 15:54:34,formato_sequencial
+ERR000810,"RUA DO OUVIDOR, 2480, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-20 05:25:34,formato_completo
+ERR000811,"RUA DO COMERCIO, 2215, SAO JOSE, Recife - PE",PE,Recife,2025-11-16 08:58:34,formato_completo
+ERR000812,"viela protasio alves, 3336, apto 201, petropolis",RS,Porto Alegre,2025-10-27 09:03:34,complemento
+ERR000813,"nove de julho, 4005, republica",SP,São Paulo,2025-11-18 17:51:34,tipo_logradouro_ausente
+ERR000814,"avenida bahia, centro, belo horizonte",MG,Belo Horizonte,2025-10-29 17:48:34,numero_ausente
+ERR000815,"uruguaiana, 1991, centro",RJ,Rio de Janeiro,2025-11-21 09:45:34,sem_tipo_logradouro
+ERR000816,"setembro, 716, centro",RJ,Rio de Janeiro,2025-11-25 21:49:34,sem_tipo_logradouro
+ERR000817,"avenida boavista, 1280, recife",PE,Recife,2025-11-06 09:59:34,bairro_ausente
+ERR000818,"avenida presidente vargas, 461, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-19 20:50:34,minusculas
+ERR000819,"rio branco, 752, centro",RJ,Rio de Janeiro,2025-11-26 06:59:34,sem_tipo_logradouro
+ERR000820,"brigadeiro faria lima, 410, itam bibi",SP,São Paulo,2025-11-14 10:09:34,sem_tipo_logradouro
+ERR000821,"travessa w3 sul, 3900",DF,Brasília,2025-11-04 05:11:34,numeral_por_extenso
+ERR000822,"LARGO xv de novembro, 2360",SP,São Paulo,2025-11-21 04:49:34,abreviacao_numeral
+ERR000823,"estrada rio branco, 1620, centro, rio",RJ,Rio,2025-11-22 03:13:34,cidade_incompleta
+ERR000824,"avenida reboucas, 621",SP,São Paulo,2025-11-21 10:01:34,numeral_por_extenso
+ERR000825,"brigadeiro faria lima, 3234, itam bibi",SP,São Paulo,2025-11-07 07:17:34,tipo_logradouro_ausente
+ERR000826,"travessa sao joao, 3495, republica, são",SP,São,2025-10-31 09:02:34,cidade_incompleta
+ERR000827,"ipiranga, 2062, republica",SP,São Paulo,2025-11-02 15:45:34,tipo_logradouro_ausente
+ERR000828,"entregar na avenida oswaldo cruz, 4047 perto do metrô, botafogo",RJ,Rio de Janeiro,2025-11-25 01:01:34,texto_livre
+ERR000829,"Av amazonas, 3654",MG,Belo Horizonte,2025-11-05 18:29:34,abreviacao
+ERR000830,"avenida conde da boa vista, 4663, derby, recif",PE,Recife,2025-11-03 10:21:34,cidade_incompleta
+ERR000831,"largo da aurora, 3035, boa vista, recife",,Recife,2025-11-17 05:29:34,uf_ausente
+ERR000832,"TRAVESSA W3 NORTE, 1869, ASA NORTE, Brasília",DF,Brasília,2025-11-24 22:27:34,maiusculas
+ERR000833,"largo afonso pena, 3782, loja 1, centro",MG,Belo Horizonte,2025-11-12 06:21:34,complemento
+ERR000834,"estrada setembro, 3159, , centro",RJ,Rio de Janeiro,2025-10-30 15:59:34,referencia_local
+ERR000835,"VIELA BOA VIAGEM, 1224, BOA VIAGEM, Recife - PE",PE,Recife,2025-11-15 20:22:34,formato_completo
+ERR000836,"ESTRADA QUINZE DE NOVEMBRO, 4858, CENTRO, São Paulo",SP,São Paulo,2025-11-20 17:48:34,maiusculas
+ERR000837,"largo agamenon magalhaes, 1228, derby, recif",PE,Recife,2025-11-16 14:48:34,cidade_incompleta
+ERR000838,"borges de medeiros, 1297, centro",RS,Porto Alegre,2025-10-31 03:32:34,tipo_logradouro_ausente
+ERR000839,"travessa brigadeiro faria lima, 3986, itam bibi, são paulo",,São Paulo,2025-11-13 06:55:34,uf_ausente
+ERR000840,"entregar na largo paulista, 490 , bela vista",SP,São Paulo,2025-11-24 10:04:34,texto_livre
+ERR000841,"alameda 1159 de novembro, 1159",RS,Porto Alegre,2025-11-10 04:58:34,numeral_arabico
+ERR000842,"VIELA consolacao, 4019",SP,São Paulo,2025-11-06 15:28:34,abreviacao
+ERR000843,"viela marques de itu, 999, vila buarque, são paulo",SP,São Paulo,2025-11-10 11:28:34,minusculas
+ERR000844,"estrada conde da boa vista, 3028, derby, recife",,Recife,2025-11-24 20:21:34,uf_ausente
+ERR000845,"viela conde da boa vista, 2017",PE,Recife,2025-10-27 10:05:34,numeral_por_extenso
+ERR000846,"praça brigadeiro faria lima, 3901, itam bibi, são",SP,São,2025-11-09 10:13:34,cidade_incompleta
+ERR000847,"travessa boavista, 1042, bloco B, boa viagem",PE,Recife,2025-10-28 13:04:34,complemento
+ERR000848,"travessa ipiranga, 4003, republica, são paulo",,São Paulo,2025-10-29 20:29:34,uf_ausente
+ERR000849,"avenida protasio alves, 3147, petropolis, porto alegre",RS,Porto Alegre,2025-11-07 10:44:34,minusculas
+ERR000850,"largo w3 sul, 3791, asa sul, brasí",DF,Brasília,2025-11-24 06:25:34,cidade_incompleta
+ERR000851,"entregar na alameda reboucas, 1173 , pinheiros",SP,São Paulo,2025-11-11 13:35:34,texto_livre
+ERR000852,"praça do ouvidor, 2918, centro, rio de janeiro",,Rio de Janeiro,2025-11-09 15:59:34,uf_ausente
+ERR000853,"praça vinte e tres de maio, 3971, bloco B, liberdade",SP,São Paulo,2025-10-29 03:37:34,complemento
+ERR000854,"Av xv de novembro, 2422",SP,São Paulo,2025-10-29 14:16:34,abreviacao_numeral
+ERR000855,"ALAMEDA PROTASIO ALVES, 2034, PETROPOLIS, Porto Alegre - RS",RS,Porto Alegre,2025-11-12 21:57:34,formato_completo
+ERR000856,"alameda do ouvidor, 2139",RJ,Rio de Janeiro,2025-11-22 11:48:34,numeral_por_extenso
+ERR000857,"entregar na viela das flores, 645 em frente ao banco, jardim",RJ,Rio de Janeiro,2025-11-02 16:21:34,texto_livre
+ERR000858,"estrada do comercio, 4865, recife",PE,Recife,2025-11-02 10:43:34,bairro_ausente
+ERR000859,"largo vinte e tres de maio, 2261",SP,São Paulo,2025-11-04 01:20:34,numeral_por_extenso
+ERR000860,"estrada sao joao, 4805, republica, são paulo",SP,São Paulo,2025-11-16 20:42:34,minusculas
+ERR000861,"praça oswaldo cruz, 4527, botafogo, rio de janeiro",,Rio de Janeiro,2025-11-15 16:29:34,uf_ausente
+ERR000862,"rua do comercio, 3558, loja 1, sao jose",PE,Recife,2025-11-21 10:10:34,complemento
+ERR000863,"Al. xv de novembro, 2655",RJ,Rio de Janeiro,2025-11-02 22:04:34,abreviacao_numeral
+ERR000864,"uruguaiana, 524, centro",RJ,Rio de Janeiro,2025-11-22 16:43:34,sem_tipo_logradouro
+ERR000865,"w3 sul, 1926, asa sul",DF,Brasília,2025-11-02 09:27:34,sem_tipo_logradouro
+ERR000866,"avenida boavista, 3381, apto 101, boa viagem",PE,Recife,2025-11-11 08:15:34,complemento
+ERR000867,"viela oswaldo cruz, 3244, botafogo, rio de janeiro",RJ,Rio de Janeiro,2025-11-09 17:57:34,minusculas
+ERR000868,"largo consolação, 1304",SP,São Paulo,2025-11-02 12:35:34,erro_fonetico
+ERR000869,"R. ipiranga, 4569",SP,São Paulo,2025-11-05 22:35:34,abreviacao
+ERR000870,"rua 346 de novembro, 346",RS,Porto Alegre,2025-11-02 13:40:34,numeral_arabico
+ERR000871,"PRAÇA URUGUAIANA, 2646, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-02 00:07:34,formato_completo
+ERR000872,"agamenon magalhaes, 4180, derby",PE,Recife,2025-11-11 20:07:34,tipo_logradouro_ausente
+ERR000873,"avenida afonso pena, 329",MG,Belo Horizonte,2025-11-08 19:36:34,numeral_por_extenso
+ERR000874,"entregar na largo brigadeiro faria lima, 59 perto do metrô, itam bibi",SP,São Paulo,2025-11-24 01:53:34,texto_livre
+ERR000875,"estrada conde da boa vista, 3254",PE,Recife,2025-11-22 03:49:34,numeral_por_extenso
+ERR000876,"entregar na alameda sao joao, 4557 ao lado da escola, republica",SP,São Paulo,2025-11-14 14:56:34,texto_livre
+ERR000877,"alameda reboucas, 2741",SP,São Paulo,2025-11-16 12:24:34,numeral_por_extenso
+ERR000878,"alameda primeiro de março, 3700",RJ,Rio de Janeiro,2025-11-07 00:07:34,abreviacao
+ERR000879,"VIELA PROTASIO ALVES, 1677, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-23 19:25:34,maiusculas
+ERR000880,"presidente vargas, 1640, centro",RJ,Rio de Janeiro,2025-10-30 22:06:34,tipo_logradouro_ausente
+ERR000881,"alameda consolacao, 2957, são paulo",SP,São Paulo,2025-11-25 00:09:34,bairro_ausente
+ERR000882,"alameda brigadeiro faria lima, itam bibi, são paulo",SP,São Paulo,2025-11-26 11:49:34,numero_ausente
+ERR000883,"estrada consolacao, 2736",SP,São Paulo,2025-11-10 21:25:34,numeral_por_extenso
+ERR000884,"LARGO BOA VIAGEM, 3202, BOA VIAGEM, Recife",PE,Recife,2025-10-28 05:19:34,maiusculas
+ERR000885,"eixo monumental, 2036, asa norte",DF,Brasília,2025-11-07 16:53:34,sem_tipo_logradouro
+ERR000886,"Rua do ouvidor, 410",RJ,Rio de Janeiro,2025-10-28 20:30:34,abreviacao
+ERR000887,"VIELA BAHIA, 4654, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-23 19:26:34,maiusculas
+ERR000888,"entregar na travessa consolacao, 3467 , consolacao",SP,São Paulo,2025-11-18 07:08:34,texto_livre
+ERR000889,"alameda das flores, 287",RJ,Rio de Janeiro,2025-11-17 16:33:34,erro_fonetico
+ERR000890,"travessa tupis, 986",MG,Belo Horizonte,2025-11-21 20:42:34,abreviacao
+ERR000891,travessa rio branco 3730 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-18 12:48:34,formato_sequencial
+ERR000892,"avenida dos andradas, 1256",RS,Porto Alegre,2025-11-24 08:06:34,numeral_por_extenso
+ERR000893,"rua do comercio, 305, sao jose, recife",,Recife,2025-11-13 06:23:34,uf_ausente
+ERR000894,"R. xv de novembro, 4725",SP,São Paulo,2025-10-27 12:04:34,abreviacao_numeral
+ERR000895,"largo sao joao, 1661, republica, são",SP,São,2025-11-25 23:32:34,cidade_incompleta
+ERR000896,"Tv. reboucas, 3670",SP,São Paulo,2025-10-30 01:56:34,abreviacao
+ERR000897,"LARGO xv de novembro, 1897",MG,Belo Horizonte,2025-11-15 18:11:34,abreviacao_numeral
+ERR000898,largo conde da boa vista 3871 derby recife pe,PE,Recife,2025-11-21 09:07:34,formato_sequencial
+ERR000899,"entregar na estrada conde da boa vista, 2628 em frente ao banco, derby",PE,Recife,2025-11-21 02:24:34,texto_livre
+ERR000900,"conde da boa vista, 2847, derby",PE,Recife,2025-11-21 23:01:34,tipo_logradouro_ausente
+ERR000901,"viela borges de medeiros, 2952, , centro",RS,Porto Alegre,2025-11-07 11:53:34,referencia_local
+ERR000902,"praça uruguaiana, 2939, rio de janeiro",RJ,Rio de Janeiro,2025-11-12 02:54:34,bairro_ausente
+ERR000903,"rua paulista, bela vista, são paulo",SP,São Paulo,2025-10-28 00:40:34,numero_ausente
+ERR000904,"estrada boavista, 4700, boa viagem, recife",PE,Recife,2025-10-31 13:57:34,minusculas
+ERR000905,"avenida agamenon magalhaes, 3433",PE,Recife,2025-11-10 03:47:34,erro_fonetico
+ERR000906,"Avenida w3 sul, 4715",DF,Brasília,2025-10-28 03:07:34,abreviacao
+ERR000907,"travessa paulista, 2744, bela vista, são paulo",,São Paulo,2025-11-23 10:03:34,uf_ausente
+ERR000908,"VIELA CONDE DA BOA VISTA, 4286, DERBY, Recife - PE",PE,Recife,2025-11-19 02:27:34,formato_completo
+ERR000909,"avenida afonso pena, 1850, belo horizonte",MG,Belo Horizonte,2025-11-21 21:52:34,bairro_ausente
+ERR000910,"rua reboucas, 4133",SP,São Paulo,2025-11-11 15:51:34,erro_fonetico
+ERR000911,"ALAMEDA COPACABANA, 1982, COPACABANA, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-17 14:15:34,formato_completo
+ERR000912,"Tv. presidente vargas, 193",RJ,Rio de Janeiro,2025-11-17 17:36:34,abreviacao
+ERR000913,"avenida quinze de novembro, 550, centro, são",SP,São,2025-11-12 17:22:34,cidade_incompleta
+ERR000914,"da aurora, 87, boa vista",PE,Recife,2025-11-16 08:26:34,tipo_logradouro_ausente
+ERR000915,"alameda consolacao, 3511, consolacao, são paulo",,São Paulo,2025-11-06 01:12:34,uf_ausente
+ERR000916,"largo atlantica, 259, copacabana, rio de janeiro",,Rio de Janeiro,2025-11-16 09:48:34,uf_ausente
+ERR000917,largo nove de julho 3144 republica são paulo sp,SP,São Paulo,2025-11-02 17:22:34,formato_sequencial
+ERR000918,"LARGO DA AURORA, 224, BOA VISTA, Recife - PE",PE,Recife,2025-11-25 05:01:34,formato_completo
+ERR000919,largo rio branco 2066 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-24 18:34:34,formato_sequencial
+ERR000920,"largo presidente vargas, 3112, apto 301, centro",RJ,Rio de Janeiro,2025-11-07 05:47:34,complemento
+ERR000921,"alameda boa viagem, 4528, recife",PE,Recife,2025-11-20 01:23:34,bairro_ausente
+ERR000922,"RUA presidente vargas, 1052",RJ,Rio de Janeiro,2025-11-12 18:17:34,abreviacao
+ERR000923,"LARGO QUINZE DE NOVEMBRO, 2251, CENTRO, São Paulo - SP",SP,São Paulo,2025-11-01 03:08:34,formato_completo
+ERR000924,"alameda oswaldo cruz, 4798",RJ,Rio de Janeiro,2025-11-04 04:18:34,erro_fonetico
+ERR000925,"LARGO QUINZE DE NOVEMBRO, 2404, CENTRO, São Paulo",SP,São Paulo,2025-11-25 11:11:34,maiusculas
+ERR000926,"viela boavista, 899, boa viagem, recife",PE,Recife,2025-10-27 18:37:34,minusculas
+ERR000927,"LARGO dos andradas, 2041",RS,Porto Alegre,2025-11-01 20:58:34,abreviacao
+ERR000928,"quinze de novembro, 360, centro",SP,São Paulo,2025-11-21 13:28:34,tipo_logradouro_ausente
+ERR000929,"travessa borges de medeiros, 3643",RS,Porto Alegre,2025-11-23 15:41:34,erro_fonetico
+ERR000930,"rua uruguaiana, 3589, centro, rio de janeiro",,Rio de Janeiro,2025-11-14 22:22:34,uf_ausente
+ERR000931,"praça das flores, 4453",RJ,Rio de Janeiro,2025-11-13 05:47:34,erro_fonetico
+ERR000932,"viela vinte e tres de maio, 4566, , liberdade",SP,São Paulo,2025-11-24 18:33:34,referencia_local
+ERR000933,"largo da aurora, boa vista, recife",PE,Recife,2025-10-28 12:51:34,numero_ausente
+ERR000934,"AVENIDA URUGUAIANA, 198, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-24 02:38:34,maiusculas
+ERR000935,"entregar na largo reboucas, 4473 ao lado da escola, pinheiros",SP,São Paulo,2025-11-18 05:45:34,texto_livre
+ERR000936,viela quinze de novembro 950 centro são paulo sp,SP,São Paulo,2025-11-25 13:37:34,formato_sequencial
+ERR000937,"ALAMEDA SETEMBRO, 1092, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-26 09:46:34,formato_completo
+ERR000938,"rua protasio alves, petropolis, porto alegre",RS,Porto Alegre,2025-11-05 12:12:34,numero_ausente
+ERR000939,"rua w3 sul, 2485, asa sul, brasília",DF,Brasília,2025-11-16 12:54:34,minusculas
+ERR000940,"travessa dos andradas, 1546, centro, porto alegre",,Porto Alegre,2025-11-11 05:36:34,uf_ausente
+ERR000941,estrada presidente vargas 3178 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-06 00:15:34,formato_sequencial
+ERR000942,"estrada copacabana, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-22 18:19:34,numero_ausente
+ERR000943,"AVENIDA PROTASIO ALVES, 4638, PETROPOLIS, Porto Alegre",RS,Porto Alegre,2025-11-19 00:01:34,maiusculas
+ERR000944,"praça afonso pena, 1847, centro, belo",MG,Belo,2025-11-13 19:01:34,cidade_incompleta
+ERR000945,"RUA AMAZONAS, 2626, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-11-26 14:07:34,formato_completo
+ERR000946,"viela 3685 de novembro, 3685",PE,Recife,2025-11-03 16:19:34,numeral_arabico
+ERR000947,"viela 1289 de novembro, 1289",RS,Porto Alegre,2025-11-07 04:31:34,numeral_arabico
+ERR000948,"avenida borges de medeiros, 3546",RS,Porto Alegre,2025-11-24 03:44:34,abreviacao
+ERR000949,"rua setembro, 3028, centro, rio",RJ,Rio,2025-11-14 12:20:34,cidade_incompleta
+ERR000950,"alameda boavista, 4386, sala 10, boa viagem",PE,Recife,2025-10-30 05:17:34,complemento
+ERR000951,viela borges de medeiros 4830 centro porto alegre rs,RS,Porto Alegre,2025-10-27 23:11:34,formato_sequencial
+ERR000952,"uruguaiana, 2762, centro",RJ,Rio de Janeiro,2025-11-04 05:28:34,sem_tipo_logradouro
+ERR000953,"avenida w3 norte, 2062, asa norte, brasí",DF,Brasília,2025-10-28 11:54:34,cidade_incompleta
+ERR000954,"travessa sao joao, 2565, apto 301, republica",SP,São Paulo,2025-11-08 14:27:34,complemento
+ERR000955,"travessa marques de itu, vila buarque, são paulo",SP,São Paulo,2025-11-05 07:32:34,numero_ausente
+ERR000956,"viela nove de julho, 1543, republica, são paulo",SP,São Paulo,2025-10-31 22:31:34,minusculas
+ERR000957,praça reboucas 4447 pinheiros são paulo sp,SP,São Paulo,2025-11-16 13:58:34,formato_sequencial
+ERR000958,"tupis, 961, centro",MG,Belo Horizonte,2025-11-06 13:36:34,tipo_logradouro_ausente
+ERR000959,"entregar na estrada boavista, 4072 perto da praça, boa viagem",PE,Recife,2025-11-14 05:04:34,texto_livre
+ERR000960,"largo vinte e tres de maio, 4403, apto 201, liberdade",SP,São Paulo,2025-11-18 01:45:34,complemento
+ERR000961,avenida nove de julho 3085 republica são paulo sp,SP,São Paulo,2025-11-14 20:45:34,formato_sequencial
+ERR000962,"alameda reboucas, 4056, são paulo",SP,São Paulo,2025-10-28 03:12:34,bairro_ausente
+ERR000963,"viela vinte e tres de maio, 1632, liberdade, são",SP,São,2025-11-25 07:09:34,cidade_incompleta
+ERR000964,"avenida borges de medeiros, 3903, em frente ao banco, centro",RS,Porto Alegre,2025-11-16 17:41:34,referencia_local
+ERR000965,"Av. xv de novembro, 2961",SP,São Paulo,2025-10-30 18:32:34,abreviacao_numeral
+ERR000966,"alameda presidente vargas, 1044",RJ,Rio de Janeiro,2025-10-27 21:06:34,erro_fonetico
+ERR000967,"Tv. xv de novembro, 328",MG,Belo Horizonte,2025-11-23 10:10:34,abreviacao_numeral
+ERR000968,"alameda 3521 de novembro, 3521",SP,São Paulo,2025-11-19 13:10:34,numeral_arabico
+ERR000969,"praça vinte e tres de maio, 1937, liberdade, são paulo",SP,São Paulo,2025-11-26 03:12:34,minusculas
+ERR000970,"TRAVESSA BOA VIAGEM, 1408, BOA VIAGEM, Recife - PE",PE,Recife,2025-11-20 03:10:34,formato_completo
+ERR000971,"estrada das flores, 747, jardim, rio",RJ,Rio,2025-11-01 05:42:34,cidade_incompleta
+ERR000972,"travessa 3330 de novembro, 3330",RJ,Rio de Janeiro,2025-11-19 06:10:34,numeral_arabico
+ERR000973,"estrada paulista, 1806, bela vista, são",SP,São,2025-11-23 20:34:34,cidade_incompleta
+ERR000974,"VIELA MARQUES DE ITU, 4749, VILA BUARQUE, São Paulo - SP",SP,São Paulo,2025-11-12 14:35:34,formato_completo
+ERR000975,"avenida presidente vargas, 3347, rio de janeiro",RJ,Rio de Janeiro,2025-11-12 16:02:34,bairro_ausente
+ERR000976,viela do comercio 189 sao jose recife pe,PE,Recife,2025-11-02 12:36:34,formato_sequencial
+ERR000977,"viela borges de medeiros, 4293, sala 20, centro",RS,Porto Alegre,2025-11-26 05:17:34,complemento
+ERR000978,"largo do comercio, 4969",PE,Recife,2025-11-15 16:04:34,numeral_por_extenso
+ERR000979,"VIELA COPACABANA, 1380, COPACABANA, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-20 14:29:34,formato_completo
+ERR000980,"viela 2246 de novembro, 2246",PE,Recife,2025-11-04 10:52:34,numeral_arabico
+ERR000981,"viela brigadeiro faria lima, 4919, itam bibi, são paulo",,São Paulo,2025-10-27 20:06:34,uf_ausente
+ERR000982,"avenida ipiranga, 3705",SP,São Paulo,2025-11-08 09:26:34,abreviacao
+ERR000983,"rua do comercio, 4022, perto do metrô, sao jose",PE,Recife,2025-11-12 07:44:34,referencia_local
+ERR000984,"alameda 2853 de novembro, 2853",MG,Belo Horizonte,2025-11-18 08:51:34,numeral_arabico
+ERR000985,"LARGO NOVE DE JULHO, 1296, REPUBLICA, São Paulo",SP,São Paulo,2025-11-19 02:08:34,maiusculas
+ERR000986,"TRAVESSA W3 SUL, 298, ASA SUL, Brasília - DF",DF,Brasília,2025-11-15 19:01:34,formato_completo
+ERR000987,"brigadeiro faria lima, 1301, itam bibi",SP,São Paulo,2025-11-06 22:14:34,sem_tipo_logradouro
+ERR000988,"alameda oswaldo cruz, botafogo, rio de janeiro",RJ,Rio de Janeiro,2025-10-28 12:21:34,numero_ausente
+ERR000989,"alameda setembro, 1161, próximo ao mercado, centro",RJ,Rio de Janeiro,2025-10-30 15:35:34,referencia_local
+ERR000990,"alameda afonso pena, centro, belo horizonte",MG,Belo Horizonte,2025-11-24 12:54:34,numero_ausente
+ERR000991,"RUA RIO BRANCO, 4691, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-17 03:19:34,maiusculas
+ERR000992,"Est amazonas, 1936",MG,Belo Horizonte,2025-11-06 22:45:34,abreviacao
+ERR000993,"AVENIDA COPACABANA, 2205, COPACABANA, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-09 17:00:34,maiusculas
+ERR000994,"praça tupis, 1466, centro, belo horizonte",MG,Belo Horizonte,2025-11-09 15:34:34,minusculas
+ERR000995,"praça do ouvidor, 1408, centro, rio",RJ,Rio,2025-11-10 20:17:34,cidade_incompleta
+ERR000996,"rua protasio alves, 3227, petropolis, porto alegre",RS,Porto Alegre,2025-11-21 19:19:34,minusculas
+ERR000997,"entregar na estrada setembro, 1982 ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-01 12:20:34,texto_livre
+ERR000998,"largo ipiranga, 1435",SP,São Paulo,2025-11-04 13:39:34,erro_fonetico
+ERR000999,"avenida atlantica, 3092, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-26 11:20:34,minusculas
+ERR001000,largo w3 sul 3236 asa sul brasília df,DF,Brasília,2025-11-08 21:24:34,formato_sequencial
+ERR001001,"entregar na largo w3 sul, 4258 ao lado da escola, asa sul",DF,Brasília,2025-11-07 21:56:34,texto_livre
+ERR001002,"alameda agamenon magalhaes, 4289, perto da praça, derby",PE,Recife,2025-11-10 05:41:34,referencia_local
+ERR001003,"entregar na travessa atlantica, 602 próximo ao mercado, copacabana",RJ,Rio de Janeiro,2025-11-23 00:52:34,texto_livre
+ERR001004,"afonso pena, 3080, centro",MG,Belo Horizonte,2025-11-15 20:29:34,tipo_logradouro_ausente
+ERR001005,"travessa borges de medeiros, 132",RS,Porto Alegre,2025-11-13 00:01:34,numeral_por_extenso
+ERR001006,"largo setembro, 4837, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-06 11:24:34,minusculas
+ERR001007,"estrada 135 de novembro, 135",SP,São Paulo,2025-10-29 06:33:34,numeral_arabico
+ERR001008,"viela borges de medeiros, 3821, porto alegre",RS,Porto Alegre,2025-11-15 14:20:34,bairro_ausente
+ERR001009,"viela 421 de novembro, 421",RJ,Rio de Janeiro,2025-10-27 15:52:34,numeral_arabico
+ERR001010,"Alameda xv de novembro, 3065",RJ,Rio de Janeiro,2025-11-12 07:53:34,abreviacao_numeral
+ERR001011,"amazonas, 4901, centro",MG,Belo Horizonte,2025-11-15 04:14:34,tipo_logradouro_ausente
+ERR001012,"dos andradas, 3928, centro",RS,Porto Alegre,2025-11-15 10:37:34,sem_tipo_logradouro
+ERR001013,"estrada marques de itu, 91",SP,São Paulo,2025-11-21 21:04:34,erro_fonetico
+ERR001014,"Al eixo monumental, 491",DF,Brasília,2025-11-06 04:26:34,abreviacao
+ERR001015,"largo das flores, 3305, bloco B, jardim",RJ,Rio de Janeiro,2025-11-12 09:10:34,complemento
+ERR001016,"Al. xv de novembro, 3015",PE,Recife,2025-10-29 06:01:34,abreviacao_numeral
+ERR001017,"VIELA xv de novembro, 4211",RS,Porto Alegre,2025-10-27 15:50:34,abreviacao_numeral
+ERR001018,"praça do comercio, 3604, sao jose, recif",PE,Recife,2025-11-22 16:01:34,cidade_incompleta
+ERR001019,"avenida reboucas, 3145, pinheiros, são",SP,São,2025-11-14 13:47:34,cidade_incompleta
+ERR001020,"alameda atlantica, 100, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-20 07:13:34,minusculas
+ERR001021,"viela reboucas, 1243, ao lado da escola, pinheiros",SP,São Paulo,2025-11-08 11:51:34,referencia_local
+ERR001022,"RUA CONSOLACAO, 543, CONSOLACAO, São Paulo",SP,São Paulo,2025-10-30 19:33:34,maiusculas
+ERR001023,"avenida dos andradas, 1795, porto alegre",RS,Porto Alegre,2025-10-28 14:50:34,bairro_ausente
+ERR001024,"avenida borges de medeiros, 656, porto alegre",RS,Porto Alegre,2025-11-01 10:10:34,bairro_ausente
+ERR001025,largo conde da boa vista 2115 derby recife pe,PE,Recife,2025-11-08 21:28:34,formato_sequencial
+ERR001026,"estrada boa viagem, boa viagem, recife",PE,Recife,2025-11-05 11:58:34,numero_ausente
+ERR001027,"travessa ipiranga, 183, em frente ao banco, republica",SP,São Paulo,2025-11-18 10:17:34,referencia_local
+ERR001028,"LARGO xv de novembro, 3316",SP,São Paulo,2025-11-01 12:43:34,abreviacao_numeral
+ERR001029,"travessa 1794 de novembro, 1794",RJ,Rio de Janeiro,2025-11-12 15:50:34,numeral_arabico
+ERR001030,"PRAÇA PRESIDENTE VARGAS, 3381, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-13 02:28:34,formato_completo
+ERR001031,"AVENIDA MARQUES DE ITU, 1987, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-07 04:50:34,maiusculas
+ERR001032,"praça copacabana, 467, em frente ao banco, copacabana",RJ,Rio de Janeiro,2025-10-31 07:40:34,referencia_local
+ERR001033,"largo afonso pena, 251, sala 20, centro",MG,Belo Horizonte,2025-11-23 11:34:34,complemento
+ERR001034,"largo borges de medeiros, 3247",RS,Porto Alegre,2025-11-14 06:55:34,numeral_por_extenso
+ERR001035,"ALAMEDA IPIRANGA, 1993, REPUBLICA, São Paulo",SP,São Paulo,2025-11-16 15:11:34,maiusculas
+ERR001036,"viela boa viagem, 679",PE,Recife,2025-11-24 17:59:34,erro_fonetico
+ERR001037,"estrada do ouvidor, 4427, em frente ao banco, centro",RJ,Rio de Janeiro,2025-10-29 17:50:34,referencia_local
+ERR001038,"rua setembro, 18, centro, rio de janeiro",,Rio de Janeiro,2025-11-21 19:41:34,uf_ausente
+ERR001039,"sao joao, 2927, republica",SP,São Paulo,2025-11-25 14:52:34,sem_tipo_logradouro
+ERR001040,"Pç. xv de novembro, 819",SP,São Paulo,2025-11-25 01:49:34,abreviacao_numeral
+ERR001041,"estrada reboucas, 3202, pinheiros, são paulo",,São Paulo,2025-11-23 12:12:34,uf_ausente
+ERR001042,"avenida sao joao, 2331, republica, são paulo",SP,São Paulo,2025-11-24 06:11:34,minusculas
+ERR001043,"estrada nove de julho, 4218",SP,São Paulo,2025-11-11 01:35:34,erro_fonetico
+ERR001044,"rua sao joao, 3223, apto 201, republica",SP,São Paulo,2025-11-04 04:58:34,complemento
+ERR001045,"bahia, 4169, centro",MG,Belo Horizonte,2025-11-17 00:04:34,tipo_logradouro_ausente
+ERR001046,"agamenon magalhaes, 1927, derby",PE,Recife,2025-11-05 10:36:34,tipo_logradouro_ausente
+ERR001047,"largo ipiranga, 1219, republica, são paulo",SP,São Paulo,2025-11-25 18:46:34,minusculas
+ERR001048,"estrada primeiro de março, 883, rio de janeiro",RJ,Rio de Janeiro,2025-11-22 16:03:34,bairro_ausente
+ERR001049,"alameda copacabana, 2726, bloco B, copacabana",RJ,Rio de Janeiro,2025-11-18 22:19:34,complemento
+ERR001050,viela amazonas 1005 centro belo horizonte mg,MG,Belo Horizonte,2025-11-03 02:30:34,formato_sequencial
+ERR001051,"entregar na largo consolacao, 278 perto da praça, consolacao",SP,São Paulo,2025-11-14 14:27:34,texto_livre
+ERR001052,"rua copacabana, 258, copacabana, rio",RJ,Rio,2025-11-14 14:57:34,cidade_incompleta
+ERR001053,"largo borges de medeiros, 3257, loja 2, centro",RS,Porto Alegre,2025-11-22 10:02:34,complemento
+ERR001054,"PRAÇA AMAZONAS, 4642, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-26 15:33:34,maiusculas
+ERR001055,"avenida afonso pena, 3989, apto 201, centro",MG,Belo Horizonte,2025-11-25 16:34:34,complemento
+ERR001056,"largo protasio alves, 2277",RS,Porto Alegre,2025-11-03 15:23:34,numeral_por_extenso
+ERR001057,"rua atlantica, 2956, bloco B, copacabana",RJ,Rio de Janeiro,2025-11-15 10:49:34,complemento
+ERR001058,"largo presidente vargas, 4105",RJ,Rio de Janeiro,2025-11-20 16:28:34,numeral_por_extenso
+ERR001059,"ALAMEDA PROTASIO ALVES, 4349, PETROPOLIS, Porto Alegre - RS",RS,Porto Alegre,2025-10-29 04:12:34,formato_completo
+ERR001060,"viela reboucas, 323, são paulo",SP,São Paulo,2025-10-26 21:12:34,bairro_ausente
+ERR001061,"alameda eixo monumental, 4414, brasília",DF,Brasília,2025-11-25 11:28:34,bairro_ausente
+ERR001062,"das flores, 4828, jardim",RJ,Rio de Janeiro,2025-11-11 06:50:34,sem_tipo_logradouro
+ERR001063,"travessa 2582 de novembro, 2582",MG,Belo Horizonte,2025-11-12 12:30:34,numeral_arabico
+ERR001064,"travessa atlantica, 4748, copacabana, rio",RJ,Rio,2025-11-14 12:49:34,cidade_incompleta
+ERR001065,"travessa 333 de novembro, 333",DF,Brasília,2025-10-27 06:34:34,numeral_arabico
+ERR001066,"R. xv de novembro, 3523",PE,Recife,2025-11-01 12:15:34,abreviacao_numeral
+ERR001067,"viela w3 norte, asa norte, brasília",DF,Brasília,2025-10-29 20:59:34,numero_ausente
+ERR001068,"rua marques de itu, 4069",SP,São Paulo,2025-11-08 23:14:34,numeral_por_extenso
+ERR001069,"AVENIDA SAO JOAO, 1924, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-11-08 21:28:34,formato_completo
+ERR001070,"travessa quinze de novembro, 117, , centro",SP,São Paulo,2025-11-16 00:34:34,referencia_local
+ERR001071,"rua dos andradas, 815, centro, porto alegre",RS,Porto Alegre,2025-10-27 21:03:34,minusculas
+ERR001072,"estrada nove de julho, 2395, republica, são",SP,São,2025-11-13 14:52:34,cidade_incompleta
+ERR001073,"entregar na travessa amazonas, 1343 , centro",MG,Belo Horizonte,2025-11-02 11:30:34,texto_livre
+ERR001074,"avenida w3 norte, 625, asa norte, brasília",DF,Brasília,2025-10-30 16:55:34,minusculas
+ERR001075,"travessa do ouvidor, 541, centro, rio",RJ,Rio,2025-10-27 15:42:34,cidade_incompleta
+ERR001076,"praça bahia, centro, belo horizonte",MG,Belo Horizonte,2025-11-02 03:20:34,numero_ausente
+ERR001077,"avenida protasio alves, 3943, petropolis, porto",RS,Porto,2025-11-01 18:27:34,cidade_incompleta
+ERR001078,"PRAÇA RIO BRANCO, 1446, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-01 14:15:34,formato_completo
+ERR001079,"nove de julho, 708, republica",SP,São Paulo,2025-11-21 16:28:34,sem_tipo_logradouro
+ERR001080,"entregar na travessa paulista, 3922 , bela vista",SP,São Paulo,2025-11-16 07:59:34,texto_livre
+ERR001081,"AVENIDA AMAZONAS, 4198, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-11-20 15:37:34,formato_completo
+ERR001082,"avenida dos andradas, 1858, centro, porto alegre",,Porto Alegre,2025-11-09 06:25:34,uf_ausente
+ERR001083,"Pç. xv de novembro, 1632",PE,Recife,2025-11-12 14:49:34,abreviacao_numeral
+ERR001084,"rua da aurora, 3052, loja 1, boa vista",PE,Recife,2025-11-03 20:29:34,complemento
+ERR001085,"avenida tupis, 1099",MG,Belo Horizonte,2025-11-07 04:14:34,erro_fonetico
+ERR001086,"estrada primeiro de março, 3879, centro, rio de janeiro",,Rio de Janeiro,2025-11-09 03:03:34,uf_ausente
+ERR001087,"avenida boavista, 267, apto 301, boa viagem",PE,Recife,2025-11-17 02:57:34,complemento
+ERR001088,"alameda amazonas, 319",MG,Belo Horizonte,2025-11-25 11:07:34,erro_fonetico
+ERR001089,"alameda uruguaiana, 3110, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-18 09:55:34,minusculas
+ERR001090,"entregar na avenida afonso pena, 4350 , centro",MG,Belo Horizonte,2025-11-11 11:02:34,texto_livre
+ERR001091,"VIELA marques de itu, 187",SP,São Paulo,2025-11-16 15:04:34,abreviacao
+ERR001092,"estrada rio branco, 4301",RJ,Rio de Janeiro,2025-11-15 17:43:34,erro_fonetico
+ERR001093,"praça nove de julho, 2608",SP,São Paulo,2025-11-21 02:36:34,erro_fonetico
+ERR001094,"travessa rio branco, 403, centro, rio",RJ,Rio,2025-11-17 03:01:34,cidade_incompleta
+ERR001095,avenida w3 norte 4497 asa norte brasília df,DF,Brasília,2025-11-17 03:07:34,formato_sequencial
+ERR001096,"Avenida xv de novembro, 3307",SP,São Paulo,2025-10-28 07:44:34,abreviacao_numeral
+ERR001097,"alameda boavista, 427, boa viagem, recife",PE,Recife,2025-11-24 17:12:34,minusculas
+ERR001098,"avenida xv de novembro, 3908",RJ,Rio de Janeiro,2025-11-01 09:24:34,abreviacao_numeral
+ERR001099,"AVENIDA W3 NORTE, 2166, ASA NORTE, Brasília",DF,Brasília,2025-11-08 02:52:34,maiusculas
+ERR001100,"AVENIDA IPIRANGA, 2737, REPUBLICA, São Paulo",SP,São Paulo,2025-11-20 23:51:34,maiusculas
+ERR001101,"rua presidente vargas, 3853",RJ,Rio de Janeiro,2025-11-02 22:41:34,numeral_por_extenso
+ERR001102,"Travessa paulista, 3342",SP,São Paulo,2025-11-07 21:00:34,abreviacao
+ERR001103,"largo 4486 de novembro, 4486",SP,São Paulo,2025-11-25 07:36:34,numeral_arabico
+ERR001104,"do comercio, 4324, sao jose",PE,Recife,2025-11-15 16:24:34,tipo_logradouro_ausente
+ERR001105,"alameda 2207 de novembro, 2207",MG,Belo Horizonte,2025-11-07 17:04:34,numeral_arabico
+ERR001106,"alameda afonso pena, 4959, centro, belo horizonte",,Belo Horizonte,2025-11-26 17:24:34,uf_ausente
+ERR001107,"ALAMEDA REBOUCAS, 1051, PINHEIROS, São Paulo",SP,São Paulo,2025-10-31 00:12:34,maiusculas
+ERR001108,"Tv xv de novembro, 1086",RJ,Rio de Janeiro,2025-11-18 21:47:34,abreviacao_numeral
+ERR001109,"viela copacabana, 1090",RJ,Rio de Janeiro,2025-11-18 17:13:34,numeral_por_extenso
+ERR001110,"travessa do ouvidor, 908",RJ,Rio de Janeiro,2025-11-23 10:36:34,abreviacao
+ERR001111,"estrada bahia, 1205",MG,Belo Horizonte,2025-10-30 09:29:34,erro_fonetico
+ERR001112,"viela afonso pena, 4251, centro, belo",MG,Belo,2025-11-11 23:37:34,cidade_incompleta
+ERR001113,"entregar na travessa setembro, 3189 perto da praça, centro",RJ,Rio de Janeiro,2025-10-29 22:55:34,texto_livre
+ERR001114,"largo ipiranga, 4006, republica, são",SP,São,2025-11-13 19:33:34,cidade_incompleta
+ERR001115,"VIELA DO OUVIDOR, 3798, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-25 19:02:34,maiusculas
+ERR001116,"alameda tupis, 1670, , centro",MG,Belo Horizonte,2025-10-29 11:40:34,referencia_local
+ERR001117,"alameda sao joao, 1451, , republica",SP,São Paulo,2025-11-11 04:45:34,referencia_local
+ERR001118,"praça 2484 de novembro, 2484",MG,Belo Horizonte,2025-11-12 14:05:34,numeral_arabico
+ERR001119,"largo vinte e tres de maio, 3200, liberdade, são",SP,São,2025-11-21 05:35:34,cidade_incompleta
+ERR001120,"estrada 141 de novembro, 141",MG,Belo Horizonte,2025-11-06 05:25:34,numeral_arabico
+ERR001121,"estrada brigadeiro faria lima, 900, itam bibi, são",SP,São,2025-11-03 09:16:34,cidade_incompleta
+ERR001122,"avenida nove de julho, republica, são paulo",SP,São Paulo,2025-11-01 11:02:34,numero_ausente
+ERR001123,"rua agamenon magalhaes, 516",PE,Recife,2025-11-19 11:33:34,erro_fonetico
+ERR001124,"estrada ipiranga, republica, são paulo",SP,São Paulo,2025-11-26 16:48:34,numero_ausente
+ERR001125,"viela boa viagem, 4653, , boa viagem",PE,Recife,2025-11-11 14:38:34,complemento
+ERR001126,"alameda presidente vargas, 3481, centro, rio",RJ,Rio,2025-11-04 12:12:34,cidade_incompleta
+ERR001127,"entregar na viela reboucas, 4929 , pinheiros",SP,São Paulo,2025-11-14 05:10:34,texto_livre
+ERR001128,"Travessa xv de novembro, 2661",SP,São Paulo,2025-11-15 05:01:34,abreviacao_numeral
+ERR001129,"praça 4040 de novembro, 4040",SP,São Paulo,2025-11-13 03:48:34,numeral_arabico
+ERR001130,"avenida copacabana, 4630, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-19 06:54:34,minusculas
+ERR001131,"travessa atlantica, 3827, ao lado da escola, copacabana",RJ,Rio de Janeiro,2025-11-03 18:43:34,referencia_local
+ERR001132,"largo 1112 de novembro, 1112",DF,Brasília,2025-11-03 14:36:34,numeral_arabico
+ERR001133,"avenida conde da boa vista, 300, derby, recif",PE,Recife,2025-11-26 02:23:34,cidade_incompleta
+ERR001134,"alameda primeiro de março, 4823, rio de janeiro",RJ,Rio de Janeiro,2025-10-29 14:44:34,bairro_ausente
+ERR001135,"boavista, 974, boa viagem",PE,Recife,2025-11-01 11:59:34,sem_tipo_logradouro
+ERR001136,"travessa w3 norte, 362, asa norte, brasília",,Brasília,2025-11-04 12:15:34,uf_ausente
+ERR001137,"rua paulista, 4011",SP,São Paulo,2025-11-01 06:53:34,numeral_por_extenso
+ERR001138,"avenida boavista, boa viagem, recife",PE,Recife,2025-11-08 12:50:34,numero_ausente
+ERR001139,"entregar na rua vinte e tres de maio, 3499 próximo ao mercado, liberdade",SP,São Paulo,2025-11-02 06:14:34,texto_livre
+ERR001140,"Rua paulista, 799",SP,São Paulo,2025-11-20 14:57:34,abreviacao
+ERR001141,"TRAVESSA PAULISTA, 371, BELA VISTA, São Paulo",SP,São Paulo,2025-11-20 14:37:34,maiusculas
+ERR001142,"alameda xv de novembro, 3776",RJ,Rio de Janeiro,2025-11-19 01:41:34,abreviacao_numeral
+ERR001143,"entregar na avenida atlantica, 1673 perto do metrô, copacabana",RJ,Rio de Janeiro,2025-11-02 10:56:34,texto_livre
+ERR001144,"ESTRADA AMAZONAS, 519, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-11 08:49:34,maiusculas
+ERR001145,praça paulista 288 bela vista são paulo sp,SP,São Paulo,2025-11-20 22:56:34,formato_sequencial
+ERR001146,"AVENIDA AFONSO PENA, 695, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-20 18:40:34,maiusculas
+ERR001147,"avenida 3561 de novembro, 3561",MG,Belo Horizonte,2025-11-04 15:32:34,numeral_arabico
+ERR001148,"PRAÇA W3 SUL, 3712, ASA SUL, Brasília",DF,Brasília,2025-10-31 01:15:34,maiusculas
+ERR001149,"LARGO CONSOLACAO, 3481, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-07 06:32:34,maiusculas
+ERR001150,"alameda boa viagem, 4967",PE,Recife,2025-10-27 20:58:34,numeral_por_extenso
+ERR001151,"das flores, 3325, jardim",RJ,Rio de Janeiro,2025-11-14 03:20:34,tipo_logradouro_ausente
+ERR001152,"Av xv de novembro, 1039",RJ,Rio de Janeiro,2025-11-02 22:15:34,abreviacao_numeral
+ERR001153,"largo primeiro de março, 3233, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-25 04:38:34,minusculas
+ERR001154,"travessa 1036 de novembro, 1036",DF,Brasília,2025-10-28 19:17:34,numeral_arabico
+ERR001155,avenida w3 norte 1979 asa norte brasília df,DF,Brasília,2025-11-09 18:28:34,formato_sequencial
+ERR001156,"avenida w3 sul, 2128, asa sul, brasí",DF,Brasília,2025-11-16 03:41:34,cidade_incompleta
+ERR001157,"rua quinze de novembro, 3504, centro, são paulo",,São Paulo,2025-10-30 14:41:34,uf_ausente
+ERR001158,"avenida brigadeiro faria lima, 4244, itam bibi, são paulo",SP,São Paulo,2025-11-07 06:45:34,minusculas
+ERR001159,"avenida amazonas, 2637, belo horizonte",MG,Belo Horizonte,2025-11-20 23:32:34,bairro_ausente
+ERR001160,"R. boavista, 272",PE,Recife,2025-11-01 23:05:34,abreviacao
+ERR001161,"rua das flores, 686, apto 201, jardim",RJ,Rio de Janeiro,2025-11-01 20:58:34,complemento
+ERR001162,"avenida rio branco, 1560, centro, rio de janeiro",,Rio de Janeiro,2025-10-27 17:21:34,uf_ausente
+ERR001163,"Pç w3 norte, 469",DF,Brasília,2025-11-15 10:25:34,abreviacao
+ERR001164,"alameda primeiro de março, 2394, centro, rio",RJ,Rio,2025-11-21 18:15:34,cidade_incompleta
+ERR001165,"largo setembro, 2353, centro, rio de janeiro",,Rio de Janeiro,2025-11-10 18:40:34,uf_ausente
+ERR001166,"Alameda xv de novembro, 4108",SP,São Paulo,2025-11-14 05:47:34,abreviacao_numeral
+ERR001167,"VIELA protasio alves, 3829",RS,Porto Alegre,2025-11-07 19:49:34,abreviacao
+ERR001168,"entregar na travessa nove de julho, 3096 perto do metrô, republica",SP,São Paulo,2025-11-16 18:26:34,texto_livre
+ERR001169,"alameda w3 sul, 4343, asa sul, brasília",DF,Brasília,2025-11-14 08:13:34,minusculas
+ERR001170,"travessa primeiro de março, 3384, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-01 12:17:34,minusculas
+ERR001171,"Praça xv de novembro, 3028",SP,São Paulo,2025-11-17 14:59:34,abreviacao_numeral
+ERR001172,"rua xv de novembro, 4527",PE,Recife,2025-11-25 07:36:34,abreviacao_numeral
+ERR001173,viela ipiranga 4933 republica são paulo sp,SP,São Paulo,2025-11-12 01:27:34,formato_sequencial
+ERR001174,"das flores, 1031, jardim",RJ,Rio de Janeiro,2025-11-25 11:58:34,sem_tipo_logradouro
+ERR001175,"avenida oswaldo cruz, 3209, botafogo, rio",RJ,Rio,2025-10-31 04:42:34,cidade_incompleta
+ERR001176,"rua eixo monumental, 2144, asa norte, brasí",DF,Brasília,2025-10-27 00:38:34,cidade_incompleta
+ERR001177,"largo 4084 de novembro, 4084",DF,Brasília,2025-11-10 14:25:34,numeral_arabico
+ERR001178,"avenida reboucas, 3275, pinheiros, são",SP,São,2025-11-19 16:06:34,cidade_incompleta
+ERR001179,"copacabana, 3278, copacabana",RJ,Rio de Janeiro,2025-11-03 15:16:34,tipo_logradouro_ausente
+ERR001180,"VIELA MARQUES DE ITU, 2438, VILA BUARQUE, São Paulo",SP,São Paulo,2025-11-26 12:53:34,maiusculas
+ERR001181,"estrada afonso pena, centro, belo horizonte",MG,Belo Horizonte,2025-11-13 14:43:34,numero_ausente
+ERR001182,"alameda marques de itu, 674, são paulo",SP,São Paulo,2025-10-30 18:57:34,bairro_ausente
+ERR001183,"ALAMEDA DO COMERCIO, 3194, SAO JOSE, Recife",PE,Recife,2025-11-15 09:01:34,maiusculas
+ERR001184,"RUA SAO JOAO, 1529, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-11-01 13:03:34,formato_completo
+ERR001185,"PRAÇA CONDE DA BOA VISTA, 4453, DERBY, Recife",PE,Recife,2025-11-17 13:54:34,maiusculas
+ERR001186,"AVENIDA DAS FLORES, 3849, JARDIM, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-17 06:59:34,formato_completo
+ERR001187,"alameda vinte e tres de maio, liberdade, são paulo",SP,São Paulo,2025-11-10 20:00:34,numero_ausente
+ERR001188,"avenida 3018 de novembro, 3018",SP,São Paulo,2025-11-08 22:17:34,numeral_arabico
+ERR001189,"estrada w3 sul, 2257, apto 201, asa sul",DF,Brasília,2025-11-12 00:56:34,complemento
+ERR001190,"oswaldo cruz, 308, botafogo",RJ,Rio de Janeiro,2025-11-05 00:46:34,tipo_logradouro_ausente
+ERR001191,"travessa sao joao, 1677",SP,São Paulo,2025-11-20 09:37:34,numeral_por_extenso
+ERR001192,"alameda w3 sul, 4810, apto 101, asa sul",DF,Brasília,2025-11-13 21:35:34,complemento
+ERR001193,"avenida setembro, 738",RJ,Rio de Janeiro,2025-11-04 01:20:34,erro_fonetico
+ERR001194,largo w3 sul 1014 asa sul brasília df,DF,Brasília,2025-11-25 01:37:34,formato_sequencial
+ERR001195,"avenida ipiranga, 1622, republica, são paulo",,São Paulo,2025-11-20 16:24:34,uf_ausente
+ERR001196,"travessa boa viagem, 322, , boa viagem",PE,Recife,2025-11-03 18:44:34,referencia_local
+ERR001197,"LARGO PROTASIO ALVES, 2683, PETROPOLIS, Porto Alegre - RS",RS,Porto Alegre,2025-11-23 06:17:34,formato_completo
+ERR001198,"RUA AFONSO PENA, 88, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-20 19:58:34,maiusculas
+ERR001199,"avenida das flores, 2741, , jardim",RJ,Rio de Janeiro,2025-11-09 15:56:34,referencia_local
+ERR001200,"RUA W3 SUL, 2003, ASA SUL, Brasília - DF",DF,Brasília,2025-11-16 05:09:34,formato_completo
+ERR001201,"alameda borges de medeiros, 2324",RS,Porto Alegre,2025-10-26 20:51:34,erro_fonetico
+ERR001202,"RUA AFONSO PENA, 1751, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-11-15 00:59:34,formato_completo
+ERR001203,"da aurora, 475, boa vista",PE,Recife,2025-11-17 01:45:34,sem_tipo_logradouro
+ERR001204,alameda primeiro de março 892 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-17 13:35:34,formato_sequencial
+ERR001205,"LARGO agamenon magalhaes, 2810",PE,Recife,2025-11-02 07:37:34,abreviacao
+ERR001206,"estrada paulista, bela vista, são paulo",SP,São Paulo,2025-11-22 18:34:34,numero_ausente
+ERR001207,"alameda bahia, 2746, loja 1, centro",MG,Belo Horizonte,2025-11-24 18:33:34,complemento
+ERR001208,"alameda atlantica, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-11-09 07:02:34,numero_ausente
+ERR001209,"praça atlantica, 175, apto 301, copacabana",RJ,Rio de Janeiro,2025-11-11 08:22:34,complemento
+ERR001210,"rua amazonas, 4255",MG,Belo Horizonte,2025-11-22 21:41:34,erro_fonetico
+ERR001211,"rua amazonas, 346",MG,Belo Horizonte,2025-10-30 19:16:34,numeral_por_extenso
+ERR001212,"PRAÇA CONSOLACAO, 3200, CONSOLACAO, São Paulo - SP",SP,São Paulo,2025-10-29 01:44:34,formato_completo
+ERR001213,"viela das flores, 1262, rio de janeiro",RJ,Rio de Janeiro,2025-11-24 10:02:34,bairro_ausente
+ERR001214,"avenida consolacao, 1438",SP,São Paulo,2025-11-18 10:27:34,numeral_por_extenso
+ERR001215,viela oswaldo cruz 4171 botafogo rio de janeiro rj,RJ,Rio de Janeiro,2025-11-21 07:13:34,formato_sequencial
+ERR001216,"largo presidente vargas, 3976, ao lado da escola, centro",RJ,Rio de Janeiro,2025-11-06 16:10:34,referencia_local
+ERR001217,"Al. xv de novembro, 2379",SP,São Paulo,2025-11-19 10:52:34,abreviacao_numeral
+ERR001218,"rua eixo monumental, 4324, brasília",DF,Brasília,2025-11-02 14:28:34,bairro_ausente
+ERR001219,travessa marques de itu 3907 vila buarque são paulo sp,SP,São Paulo,2025-11-03 04:41:34,formato_sequencial
+ERR001220,"rua 1737 de novembro, 1737",MG,Belo Horizonte,2025-11-06 09:10:34,numeral_arabico
+ERR001221,"entregar na rua primeiro de março, 840 em frente ao banco, centro",RJ,Rio de Janeiro,2025-11-03 22:48:34,texto_livre
+ERR001222,"oswaldo cruz, 4625, botafogo",RJ,Rio de Janeiro,2025-11-01 11:31:34,sem_tipo_logradouro
+ERR001223,"rua quinze de novembro, 3712, centro, são",SP,São,2025-11-08 15:24:34,cidade_incompleta
+ERR001224,viela afonso pena 2429 centro belo horizonte mg,MG,Belo Horizonte,2025-11-06 01:01:34,formato_sequencial
+ERR001225,"tupis, 4278, centro",MG,Belo Horizonte,2025-11-22 02:59:34,tipo_logradouro_ausente
+ERR001226,"viela 4660 de novembro, 4660",PE,Recife,2025-11-22 10:13:34,numeral_arabico
+ERR001227,"alameda presidente vargas, centro, rio de janeiro",RJ,Rio de Janeiro,2025-10-29 11:13:34,numero_ausente
+ERR001228,"estrada reboucas, 1560",SP,São Paulo,2025-11-21 13:31:34,erro_fonetico
+ERR001229,viela setembro 3312 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-10-27 19:23:34,formato_sequencial
+ERR001230,"LARGO DAS FLORES, 1270, JARDIM, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-06 17:20:34,formato_completo
+ERR001231,"RUA AFONSO PENA, 3621, CENTRO, Belo Horizonte",MG,Belo Horizonte,2025-11-03 14:30:34,maiusculas
+ERR001232,"travessa 4260 de novembro, 4260",DF,Brasília,2025-11-15 23:07:34,numeral_arabico
+ERR001233,"travessa conde da boa vista, 4262, derby, recife",PE,Recife,2025-11-05 03:01:34,minusculas
+ERR001234,"entregar na alameda das flores, 26 em frente ao banco, jardim",RJ,Rio de Janeiro,2025-10-28 23:42:34,texto_livre
+ERR001235,"VIELA setembro, 2797",RJ,Rio de Janeiro,2025-11-14 02:01:34,abreviacao
+ERR001236,"estrada da aurora, 3557, boa vista, recif",PE,Recife,2025-11-24 03:25:34,cidade_incompleta
+ERR001237,"do comercio, 3334, sao jose",PE,Recife,2025-10-28 14:49:34,sem_tipo_logradouro
+ERR001238,"largo eixo monumental, 3490",DF,Brasília,2025-11-04 22:53:34,erro_fonetico
+ERR001239,"travessa setembro, 4330, bloco B, centro",RJ,Rio de Janeiro,2025-11-16 17:33:34,complemento
+ERR001240,alameda reboucas 3266 pinheiros são paulo sp,SP,São Paulo,2025-11-22 13:12:34,formato_sequencial
+ERR001241,"Al marques de itu, 333",SP,São Paulo,2025-11-11 13:49:34,abreviacao
+ERR001242,"VIELA DO OUVIDOR, 4919, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-10-28 08:45:34,formato_completo
+ERR001243,"avenida oswaldo cruz, botafogo, rio de janeiro",RJ,Rio de Janeiro,2025-11-20 18:44:34,numero_ausente
+ERR001244,"Pç. xv de novembro, 209",SP,São Paulo,2025-11-14 04:46:34,abreviacao_numeral
+ERR001245,"vinte e tres de maio, 2401, liberdade",SP,São Paulo,2025-10-29 21:29:34,sem_tipo_logradouro
+ERR001246,"LARGO OSWALDO CRUZ, 3341, BOTAFOGO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-30 00:16:34,maiusculas
+ERR001247,"largo reboucas, 3369, pinheiros, são paulo",SP,São Paulo,2025-11-24 21:26:34,minusculas
+ERR001248,"alameda brigadeiro faria lima, 2213",SP,São Paulo,2025-11-12 06:11:34,abreviacao
+ERR001249,"VIELA xv de novembro, 1330",SP,São Paulo,2025-10-29 16:03:34,abreviacao_numeral
+ERR001250,"viela agamenon magalhaes, 1066, derby, recife",PE,Recife,2025-11-15 20:14:34,minusculas
+ERR001251,"LARGO RIO BRANCO, 3885, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-10-28 19:39:34,formato_completo
+ERR001252,"ALAMEDA COPACABANA, 187, COPACABANA, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-10-28 04:06:34,formato_completo
+ERR001253,"alameda w3 norte, 551",DF,Brasília,2025-11-20 14:20:34,numeral_por_extenso
+ERR001254,"avenida brigadeiro faria lima, 1087, sala 20, itam bibi",SP,São Paulo,2025-11-04 15:37:34,complemento
+ERR001255,"viela da aurora, 891, recife",PE,Recife,2025-11-09 18:20:34,bairro_ausente
+ERR001256,"travessa do ouvidor, 1346",RJ,Rio de Janeiro,2025-11-24 01:39:34,erro_fonetico
+ERR001257,"viela 923 de novembro, 923",RJ,Rio de Janeiro,2025-11-02 07:34:34,numeral_arabico
+ERR001258,"praça protasio alves, 1085, porto alegre",RS,Porto Alegre,2025-11-11 03:13:34,bairro_ausente
+ERR001259,"viela da aurora, 994",PE,Recife,2025-11-20 06:45:34,numeral_por_extenso
+ERR001260,"alameda w3 norte, 2516, asa norte, brasí",DF,Brasília,2025-11-08 19:03:34,cidade_incompleta
+ERR001261,"praça paulista, 392, bela vista, são paulo",SP,São Paulo,2025-10-30 08:31:34,minusculas
+ERR001262,"rua protasio alves, 775, próximo ao mercado, petropolis",RS,Porto Alegre,2025-11-17 19:34:34,referencia_local
+ERR001263,"travessa bahia, 2050",MG,Belo Horizonte,2025-11-14 05:15:34,erro_fonetico
+ERR001264,"estrada presidente vargas, 3795, centro, rio de janeiro",,Rio de Janeiro,2025-11-05 04:39:34,uf_ausente
+ERR001265,"AVENIDA QUINZE DE NOVEMBRO, 115, CENTRO, São Paulo",SP,São Paulo,2025-11-06 17:53:34,maiusculas
+ERR001266,"estrada borges de medeiros, 839",RS,Porto Alegre,2025-11-18 03:50:34,numeral_por_extenso
+ERR001267,estrada afonso pena 4691 centro belo horizonte mg,MG,Belo Horizonte,2025-11-15 20:56:34,formato_sequencial
+ERR001268,"largo borges de medeiros, 1916, perto da praça, centro",RS,Porto Alegre,2025-10-30 03:34:34,referencia_local
+ERR001269,"estrada primeiro de março, 4453, loja 1, centro",RJ,Rio de Janeiro,2025-11-26 10:35:34,complemento
+ERR001270,rua bahia 4038 centro belo horizonte mg,MG,Belo Horizonte,2025-11-03 00:22:34,formato_sequencial
+ERR001271,"avenida agamenon magalhaes, 3716, derby, recife",,Recife,2025-11-04 19:24:34,uf_ausente
+ERR001272,"travessa borges de medeiros, centro, porto alegre",RS,Porto Alegre,2025-11-02 15:54:34,numero_ausente
+ERR001273,"PRAÇA DO OUVIDOR, 19, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-09 16:44:34,formato_completo
+ERR001274,"entregar na estrada paulista, 1835 próximo ao mercado, bela vista",SP,São Paulo,2025-11-05 15:44:34,texto_livre
+ERR001275,"praça agamenon magalhaes, 122, bloco A, derby",PE,Recife,2025-11-12 17:06:34,complemento
+ERR001276,"viela nove de julho, 4665, republica, são paulo",SP,São Paulo,2025-11-03 18:16:34,minusculas
+ERR001277,"avenida quinze de novembro, 4675, centro, são paulo",SP,São Paulo,2025-11-16 02:24:34,minusculas
+ERR001278,rua tupis 4568 centro belo horizonte mg,MG,Belo Horizonte,2025-11-01 23:32:34,formato_sequencial
+ERR001279,viela ipiranga 4989 republica são paulo sp,SP,São Paulo,2025-11-17 02:54:34,formato_sequencial
+ERR001280,"Estrada xv de novembro, 1040",RJ,Rio de Janeiro,2025-11-01 19:11:34,abreviacao_numeral
+ERR001281,"viela brigadeiro faria lima, 4901, itam bibi, são",SP,São,2025-11-10 11:08:34,cidade_incompleta
+ERR001282,"alameda uruguaiana, 4962, bloco B, centro",RJ,Rio de Janeiro,2025-11-10 03:09:34,complemento
+ERR001283,"entregar na avenida copacabana, 2323 em frente ao banco, copacabana",RJ,Rio de Janeiro,2025-11-06 03:17:34,texto_livre
+ERR001284,"tupis, 3616, centro",MG,Belo Horizonte,2025-11-15 15:34:34,sem_tipo_logradouro
+ERR001285,"VIELA W3 NORTE, 3667, ASA NORTE, Brasília - DF",DF,Brasília,2025-11-11 14:15:34,formato_completo
+ERR001286,"rua quinze de novembro, 3703, centro, são",SP,São,2025-11-14 18:10:34,cidade_incompleta
+ERR001287,largo copacabana 4055 copacabana rio de janeiro rj,RJ,Rio de Janeiro,2025-11-11 08:15:34,formato_sequencial
+ERR001288,"viela setembro, 4144, centro, rio de janeiro",,Rio de Janeiro,2025-11-04 15:56:34,uf_ausente
+ERR001289,"praça uruguaiana, 4229",RJ,Rio de Janeiro,2025-11-10 21:47:34,numeral_por_extenso
+ERR001290,"praça w3 norte, 4296",DF,Brasília,2025-11-06 15:06:34,abreviacao
+ERR001291,"praça ipiranga, 425, republica, são",SP,São,2025-10-29 20:07:34,cidade_incompleta
+ERR001292,"viela conde da boa vista, 3121, loja 2, derby",PE,Recife,2025-11-08 19:48:34,complemento
+ERR001293,estrada primeiro de março 2291 centro rio de janeiro rj,RJ,Rio de Janeiro,2025-11-20 21:28:34,formato_sequencial
+ERR001294,"ALAMEDA CONDE DA BOA VISTA, 2058, DERBY, Recife",PE,Recife,2025-10-28 04:24:34,maiusculas
+ERR001295,"viela tupis, 1607, centro, belo horizonte",MG,Belo Horizonte,2025-11-15 01:31:34,minusculas
+ERR001296,travessa quinze de novembro 1091 centro são paulo sp,SP,São Paulo,2025-11-03 01:55:34,formato_sequencial
+ERR001297,"viela vinte e tres de maio, 1821",SP,São Paulo,2025-11-09 01:50:34,numeral_por_extenso
+ERR001298,"PRAÇA PRESIDENTE VARGAS, 3317, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-18 18:06:34,maiusculas
+ERR001299,"estrada boa viagem, 4367, loja 2, boa viagem",PE,Recife,2025-11-21 10:25:34,complemento
+ERR001300,"estrada 3307 de novembro, 3307",SP,São Paulo,2025-10-29 22:35:34,numeral_arabico
+ERR001301,"praça 838 de novembro, 838",PE,Recife,2025-10-30 04:43:34,numeral_arabico
+ERR001302,"entregar na viela eixo monumental, 3025 , asa norte",DF,Brasília,2025-10-27 00:18:34,texto_livre
+ERR001303,alameda w3 sul 3165 asa sul brasília df,DF,Brasília,2025-11-16 20:10:34,formato_sequencial
+ERR001304,"largo boa viagem, 2354, boa viagem, recif",PE,Recife,2025-11-19 20:37:34,cidade_incompleta
+ERR001305,"marques de itu, 4197, vila buarque",SP,São Paulo,2025-10-28 16:51:34,sem_tipo_logradouro
+ERR001306,"LARGO xv de novembro, 1351",RS,Porto Alegre,2025-11-09 22:28:34,abreviacao_numeral
+ERR001307,"ipiranga, 309, republica",SP,São Paulo,2025-10-31 09:36:34,sem_tipo_logradouro
+ERR001308,"alameda agamenon magalhaes, 723, sala 10, derby",PE,Recife,2025-11-12 17:29:34,complemento
+ERR001309,"travessa boa viagem, 879",PE,Recife,2025-11-03 15:26:34,numeral_por_extenso
+ERR001310,"viela consolacao, consolacao, são paulo",SP,São Paulo,2025-11-23 12:58:34,numero_ausente
+ERR001311,"LARGO xv de novembro, 2600",MG,Belo Horizonte,2025-10-27 01:32:34,abreviacao_numeral
+ERR001312,"setembro, 2323, centro",RJ,Rio de Janeiro,2025-11-25 09:38:34,sem_tipo_logradouro
+ERR001313,"viela tupis, 4336",MG,Belo Horizonte,2025-11-04 02:16:34,erro_fonetico
+ERR001314,"rua dos andradas, 4957, centro, porto alegre",RS,Porto Alegre,2025-11-02 05:49:34,minusculas
+ERR001315,"praça 1064 de novembro, 1064",SP,São Paulo,2025-10-30 04:16:34,numeral_arabico
+ERR001316,"PRAÇA EIXO MONUMENTAL, 3295, ASA NORTE, Brasília",DF,Brasília,2025-10-29 15:50:34,maiusculas
+ERR001317,"VIELA xv de novembro, 3409",PE,Recife,2025-10-30 02:17:34,abreviacao_numeral
+ERR001318,"largo afonso pena, 4415, belo horizonte",MG,Belo Horizonte,2025-11-18 10:54:34,bairro_ausente
+ERR001319,"estrada paulista, 4037, bloco A, bela vista",SP,São Paulo,2025-11-15 20:52:34,complemento
+ERR001320,"praça vinte e tres de maio, 4820, próximo ao mercado, liberdade",SP,São Paulo,2025-11-01 09:59:34,referencia_local
+ERR001321,"estrada sao joao, 4113, republica, são paulo",SP,São Paulo,2025-11-17 00:51:34,minusculas
+ERR001322,"avenida primeiro de março, 3508, , centro",RJ,Rio de Janeiro,2025-11-22 19:53:34,complemento
+ERR001323,"atlantica, 1278, copacabana",RJ,Rio de Janeiro,2025-11-15 00:35:34,tipo_logradouro_ausente
+ERR001324,"avenida brigadeiro faria lima, 1937, itam bibi, são paulo",SP,São Paulo,2025-11-06 16:58:34,minusculas
+ERR001325,"praça boa viagem, 568",PE,Recife,2025-11-26 10:28:34,numeral_por_extenso
+ERR001326,"rua dos andradas, 4275",RS,Porto Alegre,2025-11-06 00:22:34,numeral_por_extenso
+ERR001327,"eixo monumental, 823, asa norte",DF,Brasília,2025-11-17 10:55:34,tipo_logradouro_ausente
+ERR001328,"viela w3 sul, 3161, asa sul, brasília",,Brasília,2025-11-22 04:55:34,uf_ausente
+ERR001329,"viela brigadeiro faria lima, 3679, são paulo",SP,São Paulo,2025-11-03 11:08:34,bairro_ausente
+ERR001330,"estrada afonso pena, 53, centro, belo horizonte",MG,Belo Horizonte,2025-11-15 04:02:34,minusculas
+ERR001331,"praça paulista, 2359",SP,São Paulo,2025-10-27 18:16:34,numeral_por_extenso
+ERR001332,"estrada consolação, 4452",SP,São Paulo,2025-11-03 16:37:34,erro_fonetico
+ERR001333,"estrada copacabana, 1640, copacabana, rio de janeiro",RJ,Rio de Janeiro,2025-10-29 00:49:34,minusculas
+ERR001334,"AVENIDA MARQUES DE ITU, 484, VILA BUARQUE, São Paulo - SP",SP,São Paulo,2025-11-03 19:53:34,formato_completo
+ERR001335,"travessa rio branco, 3403, centro, rio",RJ,Rio,2025-11-11 15:36:34,cidade_incompleta
+ERR001336,"LARGO eixo monumental, 2827",DF,Brasília,2025-11-02 05:24:34,abreviacao
+ERR001337,"AVENIDA W3 SUL, 3736, ASA SUL, Brasília",DF,Brasília,2025-11-01 14:52:34,maiusculas
+ERR001338,"largo da aurora, 3804, sala 10, boa vista",PE,Recife,2025-11-03 09:14:34,complemento
+ERR001339,"LARGO VINTE E TRES DE MAIO, 1112, LIBERDADE, São Paulo - SP",SP,São Paulo,2025-11-22 02:47:34,formato_completo
+ERR001340,"estrada boa viagem, boa viagem, recife",PE,Recife,2025-10-30 23:02:34,numero_ausente
+ERR001341,"viela 4537 de novembro, 4537",MG,Belo Horizonte,2025-11-03 17:24:34,numeral_arabico
+ERR001342,"estrada oswaldo cruz, 3601",RJ,Rio de Janeiro,2025-11-06 05:38:34,erro_fonetico
+ERR001343,"largo copacabana, 1762",RJ,Rio de Janeiro,2025-11-11 22:03:34,numeral_por_extenso
+ERR001344,"estrada consolacao, 240, apto 201, consolacao",SP,São Paulo,2025-11-21 16:13:34,complemento
+ERR001345,"viela consolação, 1403",SP,São Paulo,2025-11-03 06:58:34,erro_fonetico
+ERR001346,"avenida 2484 de novembro, 2484",PE,Recife,2025-11-09 03:40:34,numeral_arabico
+ERR001347,"entregar na estrada ipiranga, 2664 perto do metrô, republica",SP,São Paulo,2025-10-27 12:59:34,texto_livre
+ERR001348,travessa w3 norte 2624 asa norte brasília df,DF,Brasília,2025-10-27 11:32:34,formato_sequencial
+ERR001349,"avenida afonso pena, 4007, belo horizonte",MG,Belo Horizonte,2025-11-02 20:53:34,bairro_ausente
+ERR001350,"TRAVESSA BORGES DE MEDEIROS, 1324, CENTRO, Porto Alegre - RS",RS,Porto Alegre,2025-11-17 13:48:34,formato_completo
+ERR001351,"alameda boavista, 2080, boa viagem, recife",,Recife,2025-11-06 22:03:34,uf_ausente
+ERR001352,"estrada primeiro de março, 3661, rio de janeiro",RJ,Rio de Janeiro,2025-11-26 15:13:34,bairro_ausente
+ERR001353,"LARGO QUINZE DE NOVEMBRO, 573, CENTRO, São Paulo",SP,São Paulo,2025-11-25 10:34:34,maiusculas
+ERR001354,"largo tupis, 922",MG,Belo Horizonte,2025-11-10 21:52:34,numeral_por_extenso
+ERR001355,estrada boa viagem 4748 boa viagem recife pe,PE,Recife,2025-10-27 04:34:34,formato_sequencial
+ERR001356,"estrada uruguaiana, 231",RJ,Rio de Janeiro,2025-11-22 09:24:34,erro_fonetico
+ERR001357,"Tv. xv de novembro, 1420",RJ,Rio de Janeiro,2025-11-18 03:18:34,abreviacao_numeral
+ERR001358,"largo tupis, 2862",MG,Belo Horizonte,2025-11-03 21:03:34,numeral_por_extenso
+ERR001359,"praça 1513 de novembro, 1513",PE,Recife,2025-11-06 03:24:34,numeral_arabico
+ERR001360,"Rua oswaldo cruz, 1655",RJ,Rio de Janeiro,2025-11-17 12:50:34,abreviacao
+ERR001361,"avenida do comercio, 4692, apto 101, sao jose",PE,Recife,2025-11-12 18:27:34,complemento
+ERR001362,"paulista, 4674, bela vista",SP,São Paulo,2025-11-26 16:08:34,sem_tipo_logradouro
+ERR001363,"paulista, 197, bela vista",SP,São Paulo,2025-11-17 14:19:34,sem_tipo_logradouro
+ERR001364,"travessa vinte e tres de maio, 465",SP,São Paulo,2025-10-28 20:13:34,numeral_por_extenso
+ERR001365,"largo afonso pena, 678",MG,Belo Horizonte,2025-11-05 02:18:34,numeral_por_extenso
+ERR001366,"AVENIDA RIO BRANCO, 1190, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-25 00:40:34,formato_completo
+ERR001367,"AVENIDA SETEMBRO, 1698, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-11-22 22:50:34,maiusculas
+ERR001368,"viela tupis, 3823, centro, belo horizonte",MG,Belo Horizonte,2025-11-25 17:11:34,minusculas
+ERR001369,"AVENIDA RIO BRANCO, 924, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-14 17:41:34,formato_completo
+ERR001370,"rua xv de novembro, 991",SP,São Paulo,2025-11-21 21:28:34,abreviacao_numeral
+ERR001371,"largo w3 sul, 2038",DF,Brasília,2025-10-28 01:02:34,numeral_por_extenso
+ERR001372,"rua consolacao, 2406",SP,São Paulo,2025-11-13 08:28:34,numeral_por_extenso
+ERR001373,"rua consolacao, 1466, são paulo",SP,São Paulo,2025-11-05 22:58:34,bairro_ausente
+ERR001374,"marques de itu, 1226, vila buarque",SP,São Paulo,2025-11-21 17:44:34,tipo_logradouro_ausente
+ERR001375,"RUA SAO JOAO, 4575, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-11-06 04:41:34,formato_completo
+ERR001376,"rua boavista, 4723, apto 201, boa viagem",PE,Recife,2025-11-22 01:31:34,complemento
+ERR001377,"estrada do comercio, 141",PE,Recife,2025-11-04 09:27:34,numeral_por_extenso
+ERR001378,"avenida do comercio, onze",PE,Recife,2025-11-03 23:13:34,numeral_por_extenso
+ERR001379,"estrada da aurora, 4780, boa vista, recife",,Recife,2025-10-31 20:00:34,uf_ausente
+ERR001380,"travessa presidente vargas, 3717",RJ,Rio de Janeiro,2025-11-22 12:37:34,erro_fonetico
+ERR001381,"praça amazonas, 4504, bloco A, centro",MG,Belo Horizonte,2025-11-15 08:30:34,complemento
+ERR001382,"travessa uruguaiana, 222, centro, rio",RJ,Rio,2025-10-27 17:53:34,cidade_incompleta
+ERR001383,"rua setembro, 1154, centro, rio de janeiro",,Rio de Janeiro,2025-10-28 19:22:34,uf_ausente
+ERR001384,"praça primeiro de março, 1327, centro, rio de janeiro",,Rio de Janeiro,2025-11-19 03:18:34,uf_ausente
+ERR001385,"rua xv de novembro, 1363",SP,São Paulo,2025-11-02 21:44:34,abreviacao_numeral
+ERR001386,"VIELA amazonas, 4840",MG,Belo Horizonte,2025-11-19 16:41:34,abreviacao
+ERR001387,"avenida sao joao, 2805, sala 10, republica",SP,São Paulo,2025-10-27 14:57:34,complemento
+ERR001388,"Tv xv de novembro, 2339",RJ,Rio de Janeiro,2025-11-25 17:48:34,abreviacao_numeral
+ERR001389,"viela conde da boa vista, 4067, recife",PE,Recife,2025-11-15 06:52:34,bairro_ausente
+ERR001390,"avenida marques de itu, 3039, são paulo",SP,São Paulo,2025-11-07 23:00:34,bairro_ausente
+ERR001391,"praça da aurora, 2336, perto da praça, boa vista",PE,Recife,2025-10-27 13:33:34,referencia_local
+ERR001392,"avenida dos andradas, 1122, centro, porto",RS,Porto,2025-11-12 07:49:34,cidade_incompleta
+ERR001393,"R. xv de novembro, 4547",RJ,Rio de Janeiro,2025-11-01 04:42:34,abreviacao_numeral
+ERR001394,"travessa atlantica, 219, ao lado da escola, copacabana",RJ,Rio de Janeiro,2025-11-19 17:21:34,referencia_local
+ERR001395,"alameda agamenon magalhaes, 738, derby, recife",,Recife,2025-11-21 07:16:34,uf_ausente
+ERR001396,"rua atlântica, 4235",RJ,Rio de Janeiro,2025-10-31 21:07:34,erro_fonetico
+ERR001397,"largo conde da boa vista, 880, derby, recife",PE,Recife,2025-11-08 19:54:34,minusculas
+ERR001398,"praça presidente vargas, 499, rio de janeiro",RJ,Rio de Janeiro,2025-11-24 14:17:34,bairro_ausente
+ERR001399,"viela atlântica, 3711",RJ,Rio de Janeiro,2025-11-19 19:20:34,erro_fonetico
+ERR001400,"Praça xv de novembro, 653",SP,São Paulo,2025-11-15 04:32:34,abreviacao_numeral
+ERR001401,"ALAMEDA BORGES DE MEDEIROS, 1635, CENTRO, Porto Alegre - RS",RS,Porto Alegre,2025-11-21 17:04:34,formato_completo
+ERR001402,"rua reboucas, 143, perto da praça, pinheiros",SP,São Paulo,2025-11-15 02:54:34,referencia_local
+ERR001403,"praça w3 sul, 3661, perto do metrô, asa sul",DF,Brasília,2025-11-13 01:33:34,referencia_local
+ERR001404,"rua borges de medeiros, 1676",RS,Porto Alegre,2025-11-09 20:28:34,erro_fonetico
+ERR001405,"TRAVESSA REBOUCAS, 4973, PINHEIROS, São Paulo - SP",SP,São Paulo,2025-11-21 05:50:34,formato_completo
+ERR001406,"viela nove de julho, 3225, perto da praça, republica",SP,São Paulo,2025-11-24 09:12:34,referencia_local
+ERR001407,"travessa copacabana, 1133, copacabana, rio de janeiro",,Rio de Janeiro,2025-11-26 19:46:34,uf_ausente
+ERR001408,"viela vinte e tres de maio, 3399, , liberdade",SP,São Paulo,2025-11-17 10:09:34,referencia_local
+ERR001409,"avenida xv de novembro, 955",RJ,Rio de Janeiro,2025-11-08 05:07:34,abreviacao_numeral
+ERR001410,"Av. xv de novembro, 2067",MG,Belo Horizonte,2025-11-03 00:33:34,abreviacao_numeral
+ERR001411,"avenida ipiranga, 4612, republica, são",SP,São,2025-11-08 20:29:34,cidade_incompleta
+ERR001412,"AVENIDA IPIRANGA, 2595, REPUBLICA, São Paulo",SP,São Paulo,2025-11-25 12:10:34,maiusculas
+ERR001413,"protasio alves, 4831, petropolis",RS,Porto Alegre,2025-11-06 00:57:34,tipo_logradouro_ausente
+ERR001414,"viela borges de medeiros, centro, porto alegre",RS,Porto Alegre,2025-11-11 00:35:34,numero_ausente
+ERR001415,"travessa copacabana, 3795, rio de janeiro",RJ,Rio de Janeiro,2025-11-05 16:57:34,bairro_ausente
+ERR001416,viela afonso pena 4940 centro belo horizonte mg,MG,Belo Horizonte,2025-11-03 11:43:34,formato_sequencial
+ERR001417,"viela afonso pena, 816, centro, belo horizonte",MG,Belo Horizonte,2025-11-20 05:31:34,minusculas
+ERR001418,"largo oswaldo cruz, 3932, botafogo, rio",RJ,Rio,2025-11-19 12:56:34,cidade_incompleta
+ERR001419,"PRAÇA QUINZE DE NOVEMBRO, 3580, CENTRO, São Paulo",SP,São Paulo,2025-11-19 21:05:34,maiusculas
+ERR001420,"alameda protasio alves, 4775",RS,Porto Alegre,2025-11-07 05:58:34,erro_fonetico
+ERR001421,"AVENIDA DO OUVIDOR, 2164, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-29 06:55:34,maiusculas
+ERR001422,"rua uruguaiana, 1756, rio de janeiro",RJ,Rio de Janeiro,2025-11-25 04:20:34,bairro_ausente
+ERR001423,"w3 norte, 866, asa norte",DF,Brasília,2025-11-13 18:56:34,sem_tipo_logradouro
+ERR001424,"rua paulista, 2126",SP,São Paulo,2025-10-30 02:58:34,erro_fonetico
+ERR001425,"travessa rio branco, centro, rio de janeiro",RJ,Rio de Janeiro,2025-11-07 03:53:34,numero_ausente
+ERR001426,"bahia, 918, centro",MG,Belo Horizonte,2025-11-12 20:03:34,sem_tipo_logradouro
+ERR001427,"Al. w3 norte, 4164",DF,Brasília,2025-11-09 07:52:34,abreviacao
+ERR001428,"alameda nove de julho, 4384, republica, são paulo",SP,São Paulo,2025-11-21 17:21:34,minusculas
+ERR001429,"travessa da aurora, 4679, recife",PE,Recife,2025-11-10 09:21:34,bairro_ausente
+ERR001430,"Estrada do ouvidor, 506",RJ,Rio de Janeiro,2025-11-09 19:23:34,abreviacao
+ERR001431,"dos andradas, 3878, centro",RS,Porto Alegre,2025-10-31 14:56:34,sem_tipo_logradouro
+ERR001432,"reboucas, 4616, pinheiros",SP,São Paulo,2025-11-17 01:24:34,sem_tipo_logradouro
+ERR001433,"avenida rio branco, centro, rio de janeiro",RJ,Rio de Janeiro,2025-10-29 05:06:34,numero_ausente
+ERR001434,"estrada vinte e tres de maio, 4915, ao lado da escola, liberdade",SP,São Paulo,2025-10-29 04:40:34,referencia_local
+ERR001435,"viela tupis, 4740, centro, belo horizonte",,Belo Horizonte,2025-11-05 00:46:34,uf_ausente
+ERR001436,"entregar na rua vinte e tres de maio, 4824 perto da praça, liberdade",SP,São Paulo,2025-11-04 17:33:34,texto_livre
+ERR001437,"entregar na viela rio branco, 922 em frente ao banco, centro",RJ,Rio de Janeiro,2025-11-25 04:52:34,texto_livre
+ERR001438,"travessa eixo monumental, 1451, asa norte, brasília",,Brasília,2025-11-16 22:52:34,uf_ausente
+ERR001439,"TRAVESSA EIXO MONUMENTAL, 2731, ASA NORTE, Brasília - DF",DF,Brasília,2025-11-15 17:00:34,formato_completo
+ERR001440,"tupis, 1489, centro",MG,Belo Horizonte,2025-11-06 18:53:34,tipo_logradouro_ausente
+ERR001441,"ALAMEDA AFONSO PENA, 4996, CENTRO, Belo Horizonte - MG",MG,Belo Horizonte,2025-11-14 03:34:34,formato_completo
+ERR001442,"viela nove de julho, 210, republica, são",SP,São,2025-11-12 04:30:34,cidade_incompleta
+ERR001443,"Av setembro, 3637",RJ,Rio de Janeiro,2025-11-09 10:43:34,abreviacao
+ERR001444,"entregar na estrada do comercio, 1310 ao lado da escola, sao jose",PE,Recife,2025-11-02 12:57:34,texto_livre
+ERR001445,alameda afonso pena 4446 centro belo horizonte mg,MG,Belo Horizonte,2025-11-22 20:17:34,formato_sequencial
+ERR001446,"ALAMEDA BRIGADEIRO FARIA LIMA, 4380, ITAM BIBI, São Paulo - SP",SP,São Paulo,2025-11-08 22:17:34,formato_completo
+ERR001447,"rua brigadeiro faria lima, 3571, itam bibi, são paulo",SP,São Paulo,2025-11-18 08:19:34,minusculas
+ERR001448,"setembro, 4932, centro",RJ,Rio de Janeiro,2025-11-13 20:10:34,sem_tipo_logradouro
+ERR001449,"copacabana, 2457, copacabana",RJ,Rio de Janeiro,2025-11-20 17:12:34,sem_tipo_logradouro
+ERR001450,"PRAÇA IPIRANGA, 4913, REPUBLICA, São Paulo",SP,São Paulo,2025-10-31 14:04:34,maiusculas
+ERR001451,"avenida afonso pena, 1906",MG,Belo Horizonte,2025-11-10 21:23:34,numeral_por_extenso
+ERR001452,"praça 1529 de novembro, 1529",RJ,Rio de Janeiro,2025-11-25 12:29:34,numeral_arabico
+ERR001453,"avenida eixo monumental, 3282, , asa norte",DF,Brasília,2025-10-28 15:26:34,complemento
+ERR001454,"alameda vinte e tres de maio, 4060, liberdade, são paulo",SP,São Paulo,2025-11-18 17:10:34,minusculas
+ERR001455,"VIELA xv de novembro, 2605",RJ,Rio de Janeiro,2025-11-04 11:32:34,abreviacao_numeral
+ERR001456,"das flores, 3294, jardim",RJ,Rio de Janeiro,2025-11-10 21:19:34,sem_tipo_logradouro
+ERR001457,estrada copacabana 2120 copacabana rio de janeiro rj,RJ,Rio de Janeiro,2025-11-08 03:09:34,formato_sequencial
+ERR001458,"rua atlantica, 3283, rio de janeiro",RJ,Rio de Janeiro,2025-10-31 03:40:34,bairro_ausente
+ERR001459,"alameda presidente vargas, 653, rio de janeiro",RJ,Rio de Janeiro,2025-11-18 07:16:34,bairro_ausente
+ERR001460,"TRAVESSA PRESIDENTE VARGAS, 2675, CENTRO, Rio de Janeiro",RJ,Rio de Janeiro,2025-10-28 08:09:34,maiusculas
+ERR001461,"alameda do comercio, 4473, ao lado da escola, sao jose",PE,Recife,2025-11-05 03:10:34,referencia_local
+ERR001462,"viela ipiranga, 4502, são paulo",SP,São Paulo,2025-11-17 04:25:34,bairro_ausente
+ERR001463,"avenida marques de itu, 2682, bloco B, vila buarque",SP,São Paulo,2025-11-18 09:58:34,complemento
+ERR001464,"avenida oswaldo cruz, 1017, botafogo, rio de janeiro",RJ,Rio de Janeiro,2025-11-03 01:06:34,minusculas
+ERR001465,"entregar na rua quinze de novembro, 3914 perto da praça, centro",SP,São Paulo,2025-11-04 07:53:34,texto_livre
+ERR001466,"atlantica, 929, copacabana",RJ,Rio de Janeiro,2025-11-11 18:22:34,sem_tipo_logradouro
+ERR001467,travessa oswaldo cruz 4883 botafogo rio de janeiro rj,RJ,Rio de Janeiro,2025-11-02 02:58:34,formato_sequencial
+ERR001468,"travessa agamenon magalhaes, 3451, apto 301, derby",PE,Recife,2025-11-12 22:08:34,complemento
+ERR001469,"avenida uruguaiana, 4217, centro, rio",RJ,Rio,2025-11-16 09:11:34,cidade_incompleta
+ERR001470,"VIELA oswaldo cruz, 3978",RJ,Rio de Janeiro,2025-11-26 01:08:34,abreviacao
+ERR001471,"estrada marques de itu, vila buarque, são paulo",SP,São Paulo,2025-11-08 12:38:34,numero_ausente
+ERR001472,"ALAMEDA OSWALDO CRUZ, 3083, BOTAFOGO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-11-05 11:59:34,formato_completo
+ERR001473,"viela eixo monumental, 3534, asa norte, brasília",,Brasília,2025-11-13 19:29:34,uf_ausente
+ERR001474,"Alameda amazonas, 1326",MG,Belo Horizonte,2025-11-16 06:54:34,abreviacao
+ERR001475,"largo conde da boa vista, 3630, bloco A, derby",PE,Recife,2025-10-29 20:13:34,complemento
+ERR001476,"alameda 2613 de novembro, 2613",MG,Belo Horizonte,2025-11-20 03:58:34,numeral_arabico
+ERR001477,"viela 1072 de novembro, 1072",RJ,Rio de Janeiro,2025-10-30 09:33:34,numeral_arabico
+ERR001478,"VIELA AGAMENON MAGALHAES, 1072, DERBY, Recife",PE,Recife,2025-11-02 07:28:34,maiusculas
+ERR001479,"RUA SAO JOAO, 889, REPUBLICA, São Paulo - SP",SP,São Paulo,2025-11-06 10:11:34,formato_completo
+ERR001480,"travessa da aurora, 440",PE,Recife,2025-11-21 15:42:34,abreviacao
+ERR001481,"ESTRADA QUINZE DE NOVEMBRO, 2410, CENTRO, São Paulo",SP,São Paulo,2025-10-27 06:22:34,maiusculas
+ERR001482,"LARGO DOS ANDRADAS, 2545, CENTRO, Porto Alegre - RS",RS,Porto Alegre,2025-11-22 10:10:34,formato_completo
+ERR001483,"viela copacabana, 228",RJ,Rio de Janeiro,2025-11-24 15:32:34,erro_fonetico
+ERR001484,"avenida presidente vargas, centro, rio de janeiro",RJ,Rio de Janeiro,2025-10-31 12:15:34,numero_ausente
+ERR001485,"VIELA w3 sul, 492",DF,Brasília,2025-11-23 05:12:34,abreviacao
+ERR001486,"viela w3 sul, 3942, asa sul, brasília",,Brasília,2025-11-09 16:37:34,uf_ausente
+ERR001487,"entregar na estrada rio branco, 4734 em frente ao banco, centro",RJ,Rio de Janeiro,2025-10-28 19:50:34,texto_livre
+ERR001488,"largo vinte e tres de maio, 1106, próximo ao mercado, liberdade",SP,São Paulo,2025-10-30 15:09:34,referencia_local
+ERR001489,"avenida amazonas, 1207",MG,Belo Horizonte,2025-10-28 15:46:34,erro_fonetico
+ERR001490,"alameda consolacao, 1875, consolacao, são paulo",,São Paulo,2025-11-16 13:22:34,uf_ausente
+ERR001491,"VIELA xv de novembro, 4361",PE,Recife,2025-11-09 08:57:34,abreviacao_numeral
+ERR001492,"praça paulista, bela vista, são paulo",SP,São Paulo,2025-11-21 11:41:34,numero_ausente
+ERR001493,"travessa primeiro de março, 4125, sala 10, centro",RJ,Rio de Janeiro,2025-11-15 12:46:34,complemento
+ERR001494,"atlantica, 2085, copacabana",RJ,Rio de Janeiro,2025-11-06 09:31:34,tipo_logradouro_ausente
+ERR001495,"praça tupis, 1194",MG,Belo Horizonte,2025-10-30 18:42:34,numeral_por_extenso
+ERR001496,"travessa uruguaiana, 1263, rio de janeiro",RJ,Rio de Janeiro,2025-11-17 03:10:34,bairro_ausente
+ERR001497,"avenida borges de medeiros, 3693, porto alegre",RS,Porto Alegre,2025-10-29 08:01:34,bairro_ausente
+ERR001498,"TRAVESSA CONSOLACAO, 2405, CONSOLACAO, São Paulo",SP,São Paulo,2025-11-11 15:48:34,maiusculas
+ERR001499,"reboucas, 1391, pinheiros",SP,São Paulo,2025-10-29 05:27:34,sem_tipo_logradouro
+ERR001500,"RUA DO OUVIDOR, 552, CENTRO, Rio de Janeiro - RJ",RJ,Rio de Janeiro,2025-10-27 12:57:34,formato_completo
