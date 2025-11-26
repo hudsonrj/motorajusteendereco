@@ -1,0 +1,105 @@
+replicaCount: 1
+
+image:
+  repository: jupyter/pyspark-notebook
+  tag: "latest"
+  pullPolicy: IfNotPresent
+
+# Integração com Keycloak via JupyterHub
+keycloak:
+  enabled: true
+  url: http://keycloak:8080
+  realm: enderecos-realm
+  clientId: jupyter-client
+  clientSecret: jupyter-client-secret  # ALTERAR EM PRODUÇÃO!
+
+# Configurações do Jupyter
+jupyter:
+  token: ""  # Deixe vazio para usar Keycloak
+  password: ""  # Deixe vazio para usar Keycloak
+  cullTimeout: 3600  # Tempo em segundos para encerrar notebooks inativos
+  defaultUrl: /lab
+
+# Configurações do Spark
+spark:
+  master: spark://spark-master:7077
+  driverMemory: 2g
+  executorMemory: 2g
+  executorCores: 2
+
+# Configurações do MinIO
+minio:
+  endpoint: minio:9000
+  accessKey: minioadmin
+  secretKey: minioadmin
+  bucket: enderecos
+  useSSL: false
+
+persistence:
+  enabled: true
+  size: 50Gi
+  storageClass: standard
+
+resources:
+  requests:
+    memory: "2Gi"
+    cpu: "1"
+  limits:
+    memory: "4Gi"
+    cpu: "2"
+
+service:
+  type: ClusterIP
+  port: 8888
+
+ingress:
+  enabled: true
+  className: nginx
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/auth-url: "http://keycloak:8080/realms/enderecos-realm/protocol/openid-connect/auth"
+    nginx.ingress.kubernetes.io/auth-signin: "http://keycloak:8080/realms/enderecos-realm/protocol/openid-connect/auth"
+    nginx.ingress.kubernetes.io/auth-response-headers: "X-Auth-Request-User,X-Auth-Request-Email"
+  hosts:
+    - host: jupyter.enderecos.local
+      paths:
+        - path: /
+          pathType: Prefix
+  tls:
+    - secretName: jupyter-tls
+      hosts:
+        - jupyter.enderecos.local
+
+env:
+  - name: JUPYTER_ENABLE_LAB
+    value: "yes"
+  - name: SPARK_MASTER
+    value: "spark://spark-master:7077"
+  - name: MINIO_ENDPOINT
+    value: "minio:9000"
+  - name: MINIO_ACCESS_KEY
+    value: "minioadmin"
+  - name: MINIO_SECRET_KEY
+    value: "minioadmin"
+  - name: MINIO_BUCKET
+    value: "enderecos"
+  - name: SPARK_CONF_DIR
+    value: "/home/jovyan/.spark"
+  - name: PYSPARK_PYTHON
+    value: "python3"
+
+# Configurações de volumes para notebooks
+volumes:
+  - name: notebooks
+    persistentVolumeClaim:
+      claimName: jupyter-notebooks-pvc
+  - name: spark-config
+    configMap:
+      name: spark-config
+
+volumeMounts:
+  - name: notebooks
+    mountPath: /home/jovyan/work
+  - name: spark-config
+    mountPath: /home/jovyan/.spark
